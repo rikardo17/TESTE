@@ -7,6 +7,9 @@
   <channel id="ANGELUS TV">
     <display-name lang="pt">ANGELUS TV</display-name>
     <url>http://www.meo.pt</url>
+  <channel id="ANGELUS TV">
+    <display-name lang="pt">ZAP VIVA HD</display-name>
+    <url>http://www.zapvivahd.pt</url>
   </channel>
   <channel id="REAL MADRID TV">
     <display-name lang="pt">REAL MADRID TV</display-name>
