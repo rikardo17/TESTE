@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1 [2K]">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2 [2K]">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20200726000500 +0100" stop="20200726015500 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Clube dos Bilionários</title>
+  </programme>
+  <programme start="20200726015500 +0100" stop="20200726024800 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Cirque du Soleil: As Vidas Por Detrás de Totem</title>
+  </programme>
+  <programme start="20200726024800 +0100" stop="20200726032200 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">As Novas Viagens Philosophicas</title>
+  </programme>
+  <programme start="20200726032200 +0100" stop="20200726060800 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20200726060800 +0100" stop="20200726063100 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Todas as Palavras</title>
+  </programme>
+  <programme start="20200726063100 +0100" stop="20200726064000 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Ema e Gui</title>
+  </programme>
+  <programme start="20200726064000 +0100" stop="20200726064600 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Little People</title>
+  </programme>
+  <programme start="20200726064600 +0100" stop="20200726065400 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Visiokids - Ciência para Crianças</title>
+  </programme>
+  <programme start="20200726065400 +0100" stop="20200726070900 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Zig Zag</title>
+  </programme>
+  <programme start="20200726070900 +0100" stop="20200726072100 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Gawayn</title>
+  </programme>
+  <programme start="20200726072100 +0100" stop="20200726073400 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">As Aventuras do Max - Atlantos</title>
+  </programme>
+  <programme start="20200726073400 +0100" stop="20200726073900 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Hora do Conto</title>
+  </programme>
+  <programme start="20200726073900 +0100" stop="20200726080000 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20200726080000 +0100" stop="20200726103000 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  </programme>
+  <programme start="20200726103000 +0100" stop="20200726113800 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Eucaristia Dominical</title>
+  </programme>
+  <programme start="20200726113800 +0100" stop="20200726130000 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Jogo da Caixa</title>
+  </programme>
+  <programme start="20200726130000 +0100" stop="20200726141700 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20200726141700 +0100" stop="20200726195900 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Aqui Portugal</title>
+  </programme>
+  <programme start="20200726195900 +0100" stop="20200726212100 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20200726212100 +0100" stop="20200727004400 +0100" channel="RTP 1 [2K]">
+    <title lang="pt">A Batalha dos Jurados</title>
+  </programme>
+  <programme start="20200726000500 +0100" stop="20200726010900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">A Vida ao Pé de Nós - A Borboleta na Gaiola</title>
+  </programme>
+  <programme start="20200726010900 +0100" stop="20200726015600 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Fora do Baralho</title>
+  </programme>
+  <programme start="20200726015600 +0100" stop="20200726070000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20200726070000 +0100" stop="20200726080200 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20200726080200 +0100" stop="20200726081100 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20200726081100 +0100" stop="20200726082200 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Pablo</title>
+  </programme>
+  <programme start="20200726082200 +0100" stop="20200726082900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Puffin Rock</title>
+  </programme>
+  <programme start="20200726082900 +0100" stop="20200726083700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Puffin Rock</title>
+  </programme>
+  <programme start="20200726083700 +0100" stop="20200726084400 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Pat, o Cão</title>
+  </programme>
+  <programme start="20200726084400 +0100" stop="20200726085000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Pat, o Cão</title>
+  </programme>
+  <programme start="20200726085000 +0100" stop="20200726090300 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20200726090300 +0100" stop="20200726091500 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20200726091500 +0100" stop="20200726093900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20200726093900 +0100" stop="20200726100500 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20200726100500 +0100" stop="20200726101600 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20200726101600 +0100" stop="20200726102800 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20200726102800 +0100" stop="20200726104000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+  </programme>
+  <programme start="20200726104000 +0100" stop="20200726105300 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+  </programme>
+  <programme start="20200726105300 +0100" stop="20200726105900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Peanuts</title>
+  </programme>
+  <programme start="20200726105900 +0100" stop="20200726111200 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Sherlock Yack</title>
+  </programme>
+  <programme start="20200726111200 +0100" stop="20200726112400 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Sherlock Yack</title>
+  </programme>
+  <programme start="20200726112400 +0100" stop="20200726113700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20200726113700 +0100" stop="20200726115000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20200726115000 +0100" stop="20200726120100 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Vicky</title>
+  </programme>
+  <programme start="20200726120100 +0100" stop="20200726121300 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Vicky</title>
+  </programme>
+  <programme start="20200726121300 +0100" stop="20200726122500 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Sai Daqui, Unicórnio!</title>
+  </programme>
+  <programme start="20200726122500 +0100" stop="20200726123600 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Sai Daqui, Unicórnio!</title>
+  </programme>
+  <programme start="20200726123600 +0100" stop="20200726124700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Octonautas</title>
+  </programme>
+  <programme start="20200726124700 +0100" stop="20200726125900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Octonautas</title>
+  </programme>
+  <programme start="20200726125900 +0100" stop="20200726131100 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+  </programme>
+  <programme start="20200726131100 +0100" stop="20200726132300 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+  </programme>
+  <programme start="20200726132300 +0100" stop="20200726133000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Lili e a Baía dos Tesouros</title>
+  </programme>
+  <programme start="20200726133000 +0100" stop="20200726133700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Lili e a Baía dos Tesouros</title>
+  </programme>
+  <programme start="20200726133700 +0100" stop="20200726134700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Peanuts</title>
+  </programme>
+  <programme start="20200726134700 +0100" stop="20200726140000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Lulu Cambalhota</title>
+  </programme>
+  <programme start="20200726140000 +0100" stop="20200726142400 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20200726142400 +0100" stop="20200726143500 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Campo Lakebottom</title>
+  </programme>
+  <programme start="20200726143500 +0100" stop="20200726145700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">O Amanhecer dos Croods</title>
+  </programme>
+  <programme start="20200726145700 +0100" stop="20200726150400 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20200726150400 +0100" stop="20200726155200 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">O Coro</title>
+  </programme>
+  <programme start="20200726155200 +0100" stop="20200726164300 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Maravilhas de Itália</title>
+  </programme>
+  <programme start="20200726164300 +0100" stop="20200726165900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Voz do Cidadão</title>
+  </programme>
+  <programme start="20200726165900 +0100" stop="20200726172600 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Caminhos</title>
+  </programme>
+  <programme start="20200726172600 +0100" stop="20200726175300 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">70x7</title>
+  </programme>
+  <programme start="20200726175300 +0100" stop="20200726184700 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Escola de Amor</title>
+  </programme>
+  <programme start="20200726184700 +0100" stop="20200726194000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Nina</title>
+  </programme>
+  <programme start="20200726194000 +0100" stop="20200726203400 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">A Idade do Ferro</title>
+  </programme>
+  <programme start="20200726203400 +0100" stop="20200726213000 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">A Estagiária</title>
+  </programme>
+  <programme start="20200726213000 +0100" stop="20200726215100 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20200726215100 +0100" stop="20200726215600 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20200726215600 +0100" stop="20200726224600 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Einstein: A Teoria do Amor</title>
+  </programme>
+  <programme start="20200726224600 +0100" stop="20200727001900 +0100" channel="RTP 2 [2K]">
+    <title lang="pt">Village Underground Aniversário 2020 Social Distancing Remix</title>
+  </programme>
+</tv>
