@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id=4097:0:1:2:cf6c:196e">
+  <channel id=4097:0:1:2:cf6c:196e:0:0:0:0">
     <display-name lang="pt">RTP 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20200727004400 +0100" stop="20200727022300 +0100" channel="4097:0:1:2:cf6c:196e">
+  <programme start="20200727004400 +0100" stop="20200727022300 +0100" channel="4097:0:1:2:cf6c:196e:0:0:0:0">
     <title lang="pt">Soldado Milhões</title>
   </programme>
-  <programme start="20200727022300 +0100" stop="20200727032000 +0100" channel="4097:0:1:2:cf6c:196e">
+  <programme start="20200727022300 +0100" stop="20200727032000 +0100" channel="4097:0:1:2:cf6c:196e:0:0:0:0">
     <title lang="pt">Rainha Sem Reino</title>
   </programme>
   <programme start="20200727032000 +0100" stop="20200727041300 +0100" channel="4097:0:1:014d:0017:0:0:0:0:0">
