@@ -1,0 +1,1236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="rtp1.pt">
+    <display-name lang="pt">rtp1.pt</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="rtp2.pt">
+    <display-name lang="pt">rtp2.pt</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sic.pt">
+    <display-name lang="pt">sic.pt</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="tvi.pt">
+    <display-name lang="pt">tvi.pt</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20200729003900 +0100" stop="20200729014100 +0100" channel="rtp1.pt">
+    <title lang="pt">Revoluções - As Ideias Que Mudaram o Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200729014100 +0100" stop="20200729022500 +0100" channel="rtp1.pt">
+    <title lang="pt">Crimes Graves</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20200729022500 +0100" stop="20200729030600 +0100" channel="rtp1.pt">
+    <title lang="pt">Longmire</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20200729030600 +0100" stop="20200729032800 +0100" channel="rtp1.pt">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="onscreen">S3E30</episode-num>
+  </programme>
+  <programme start="20200729032800 +0100" stop="20200729041300 +0100" channel="rtp1.pt">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E161</episode-num>
+  </programme>
+  <programme start="20200729041300 +0100" stop="20200729055900 +0100" channel="rtp1.pt">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729055900 +0100" stop="20200729063000 +0100" channel="rtp1.pt">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729063000 +0100" stop="20200729100000 +0100" channel="rtp1.pt">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729100000 +0100" stop="20200729130000 +0100" channel="rtp1.pt">
+    <title lang="pt">Rota N2</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20200729130000 +0100" stop="20200729142000 +0100" channel="rtp1.pt">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729142000 +0100" stop="20200729143100 +0100" channel="rtp1.pt">
+    <title lang="pt">3 Minutos a Inspirar Portugal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20200729143100 +0100" stop="20200729173000 +0100" channel="rtp1.pt">
+    <title lang="pt">Rota N2</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20200729173000 +0100" stop="20200729190800 +0100" channel="rtp1.pt">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729190800 +0100" stop="20200729195900 +0100" channel="rtp1.pt">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729195900 +0100" stop="20200729210000 +0100" channel="rtp1.pt">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729210000 +0100" stop="20200730000100 +0100" channel="rtp1.pt">
+    <title lang="pt">Play - Prémios da Música Portuguesa</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730000100 +0100" stop="20200730013700 +0100" channel="rtp1.pt">
+    <title lang="pt">Em Casa d</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730013700 +0100" stop="20200730022300 +0100" channel="rtp1.pt">
+    <title lang="pt">Crimes Graves</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20200730022300 +0100" stop="20200730030400 +0100" channel="rtp1.pt">
+    <title lang="pt">Longmire</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20200730030400 +0100" stop="20200730035700 +0100" channel="rtp1.pt">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S12E31</episode-num>
+  </programme>
+  <programme start="20200730035700 +0100" stop="20200730044300 +0100" channel="rtp1.pt">
+    <title lang="pt">Grande Entrevista</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="onscreen">S13E41</episode-num>
+  </programme>
+  <programme start="20200730044300 +0100" stop="20200730055900 +0100" channel="rtp1.pt">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730055900 +0100" stop="20200730063000 +0100" channel="rtp1.pt">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730063000 +0100" stop="20200730100000 +0100" channel="rtp1.pt">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730100000 +0100" stop="20200730130000 +0100" channel="rtp1.pt">
+    <title lang="pt">Rota N2</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200730130000 +0100" stop="20200730141500 +0100" channel="rtp1.pt">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730141500 +0100" stop="20200730171500 +0100" channel="rtp1.pt">
+    <title lang="pt">Rota N2</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200730171500 +0100" stop="20200730173000 +0100" channel="rtp1.pt">
+    <title lang="pt">Fatura Da Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20200730173000 +0100" stop="20200730190000 +0100" channel="rtp1.pt">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730190000 +0100" stop="20200730194500 +0100" channel="rtp1.pt">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730194500 +0100" stop="20200730195900 +0100" channel="rtp1.pt">
+    <title lang="pt">Direito de Antena</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730195900 +0100" stop="20200730210000 +0100" channel="rtp1.pt">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730210000 +0100" stop="20200730213000 +0100" channel="rtp1.pt">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="onscreen">S22E18</episode-num>
+  </programme>
+  <programme start="20200730213000 +0100" stop="20200730223000 +0100" channel="rtp1.pt">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S4E25</episode-num>
+  </programme>
+  <programme start="20200730223000 +0100" stop="20200731001500 +0100" channel="rtp1.pt">
+    <title lang="pt">No Tempo das Cerejas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729003100 +0100" stop="20200729012600 +0100" channel="rtp2.pt">
+    <title lang="pt">Inesquecíveis Viagens de Comboio</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S8E3</episode-num>
+  </programme>
+  <programme start="20200729012600 +0100" stop="20200729021400 +0100" channel="rtp2.pt">
+    <title lang="pt">Gigantes</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20200729021400 +0100" stop="20200729024200 +0100" channel="rtp2.pt">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729024200 +0100" stop="20200729054800 +0100" channel="rtp2.pt">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729054800 +0100" stop="20200729063200 +0100" channel="rtp2.pt">
+    <title lang="pt">Sinais de Vida</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20200729063200 +0100" stop="20200729070200 +0100" channel="rtp2.pt">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729070200 +0100" stop="20200729071500 +0100" channel="rtp2.pt">
+    <title lang="pt">Daniel Tigre</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20200729071500 +0100" stop="20200729073100 +0100" channel="rtp2.pt">
+    <title lang="pt">Daniel Tigre</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20200729073100 +0100" stop="20200729074200 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E13</episode-num>
+  </programme>
+  <programme start="20200729074200 +0100" stop="20200729075300 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20200729075300 +0100" stop="20200729080400 +0100" channel="rtp2.pt">
+    <title lang="pt">Pablo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E48</episode-num>
+  </programme>
+  <programme start="20200729080400 +0100" stop="20200729081100 +0100" channel="rtp2.pt">
+    <title lang="pt">Pat, o Cão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20200729081100 +0100" stop="20200729081900 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E67</episode-num>
+  </programme>
+  <programme start="20200729081900 +0100" stop="20200729082600 +0100" channel="rtp2.pt">
+    <title lang="pt">Os Daltons</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20200729082600 +0100" stop="20200729083700 +0100" channel="rtp2.pt">
+    <title lang="pt">ExperimentArte</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729083700 +0100" stop="20200729084300 +0100" channel="rtp2.pt">
+    <title lang="pt">Minúsculo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20200729084300 +0100" stop="20200729090600 +0100" channel="rtp2.pt">
+    <title lang="pt">Zafari</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20200729090600 +0100" stop="20200729091500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E68</episode-num>
+  </programme>
+  <programme start="20200729091500 +0100" stop="20200729092700 +0100" channel="rtp2.pt">
+    <title lang="pt">Octonautas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20200729092700 +0100" stop="20200729093400 +0100" channel="rtp2.pt">
+    <title lang="pt">Lili e a Baía dos Tesouros</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20200729093400 +0100" stop="20200729094100 +0100" channel="rtp2.pt">
+    <title lang="pt">Lili e a Baía dos Tesouros</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20200729094100 +0100" stop="20200729095000 +0100" channel="rtp2.pt">
+    <title lang="pt">Puffin Rock</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E70</episode-num>
+  </programme>
+  <programme start="20200729095000 +0100" stop="20200729100300 +0100" channel="rtp2.pt">
+    <title lang="pt">Blinky Bill</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20200729100300 +0100" stop="20200729101000 +0100" channel="rtp2.pt">
+    <title lang="pt">Grizzy e os Lemingues</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E78</episode-num>
+  </programme>
+  <programme start="20200729101000 +0100" stop="20200729101500 +0100" channel="rtp2.pt">
+    <title lang="pt">Minúsculo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E39</episode-num>
+  </programme>
+  <programme start="20200729101500 +0100" stop="20200729102600 +0100" channel="rtp2.pt">
+    <title lang="pt">Sai Daqui, Unicórnio!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E41</episode-num>
+  </programme>
+  <programme start="20200729102600 +0100" stop="20200729103800 +0100" channel="rtp2.pt">
+    <title lang="pt">Sai Daqui, Unicórnio!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20200729103800 +0100" stop="20200729104500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E69</episode-num>
+  </programme>
+  <programme start="20200729104500 +0100" stop="20200729105800 +0100" channel="rtp2.pt">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729105800 +0100" stop="20200729111100 +0100" channel="rtp2.pt">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20200729111100 +0100" stop="20200729112400 +0100" channel="rtp2.pt">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E46</episode-num>
+  </programme>
+  <programme start="20200729112400 +0100" stop="20200729113100 +0100" channel="rtp2.pt">
+    <title lang="pt">Rato Renato</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E15</episode-num>
+  </programme>
+  <programme start="20200729113100 +0100" stop="20200729114300 +0100" channel="rtp2.pt">
+    <title lang="pt">Animais Quase Despidos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20200729114300 +0100" stop="20200729115400 +0100" channel="rtp2.pt">
+    <title lang="pt">Animais Quase Despidos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20200729115400 +0100" stop="20200729121700 +0100" channel="rtp2.pt">
+    <title lang="pt">Lexi &amp; Lottie - Gémeas Detetives</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20200729121700 +0100" stop="20200729123900 +0100" channel="rtp2.pt">
+    <title lang="pt">Nas Profundezas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20200729123900 +0100" stop="20200729124800 +0100" channel="rtp2.pt">
+    <title lang="pt">Radar XS - Extra</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20200729124800 +0100" stop="20200729130000 +0100" channel="rtp2.pt">
+    <title lang="pt">Campo Lakebottom</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729130000 +0100" stop="20200729131100 +0100" channel="rtp2.pt">
+    <title lang="pt">Campo Lakebottom</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200729131100 +0100" stop="20200729133300 +0100" channel="rtp2.pt">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20200729133300 +0100" stop="20200729135400 +0100" channel="rtp2.pt">
+    <title lang="pt">Drama Total All-Stars</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20200729135400 +0100" stop="20200729140600 +0100" channel="rtp2.pt">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20200729140600 +0100" stop="20200729141200 +0100" channel="rtp2.pt">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729141200 +0100" stop="20200729150000 +0100" channel="rtp2.pt">
+    <title lang="pt">A Casa de Beecham</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20200729150000 +0100" stop="20200729153300 +0100" channel="rtp2.pt">
+    <title lang="pt">A Fé dos Homens</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729153300 +0100" stop="20200729160100 +0100" channel="rtp2.pt">
+    <title lang="pt">Atelier d</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200729160100 +0100" stop="20200729165400 +0100" channel="rtp2.pt">
+    <title lang="pt">Os Andes Selvagens</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20200729165400 +0100" stop="20200729170900 +0100" channel="rtp2.pt">
+    <title lang="pt">Daniel Tigre</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20200729170900 +0100" stop="20200729172100 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20200729172100 +0100" stop="20200729173300 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20200729173300 +0100" stop="20200729174400 +0100" channel="rtp2.pt">
+    <title lang="pt">ExperimentArte</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729174400 +0100" stop="20200729175600 +0100" channel="rtp2.pt">
+    <title lang="pt">Lou!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E42</episode-num>
+  </programme>
+  <programme start="20200729175600 +0100" stop="20200729180300 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E61</episode-num>
+  </programme>
+  <programme start="20200729180300 +0100" stop="20200729181600 +0100" channel="rtp2.pt">
+    <title lang="pt">Sherlock Yack</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729181600 +0100" stop="20200729183700 +0100" channel="rtp2.pt">
+    <title lang="pt">Nas Profundezas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E11</episode-num>
+  </programme>
+  <programme start="20200729183700 +0100" stop="20200729184400 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E62</episode-num>
+  </programme>
+  <programme start="20200729184400 +0100" stop="20200729190700 +0100" channel="rtp2.pt">
+    <title lang="pt">Lexi &amp; Lottie - Gémeas Detetives</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20200729190700 +0100" stop="20200729191600 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E63</episode-num>
+  </programme>
+  <programme start="20200729191600 +0100" stop="20200729192400 +0100" channel="rtp2.pt">
+    <title lang="pt">Radar XS - Extra</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20200729192400 +0100" stop="20200729194700 +0100" channel="rtp2.pt">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729194700 +0100" stop="20200729195800 +0100" channel="rtp2.pt">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729195800 +0100" stop="20200729200800 +0100" channel="rtp2.pt">
+    <title lang="pt">Peanuts</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729200800 +0100" stop="20200729202000 +0100" channel="rtp2.pt">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729202000 +0100" stop="20200729202700 +0100" channel="rtp2.pt">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E72</episode-num>
+  </programme>
+  <programme start="20200729202700 +0100" stop="20200729203400 +0100" channel="rtp2.pt">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E73</episode-num>
+  </programme>
+  <programme start="20200729203400 +0100" stop="20200729204700 +0100" channel="rtp2.pt">
+    <title lang="pt">O Vale Encantado</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E23</episode-num>
+  </programme>
+  <programme start="20200729204700 +0100" stop="20200729205500 +0100" channel="rtp2.pt">
+    <title lang="pt">Lucas e Emília</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20200729205500 +0100" stop="20200729210000 +0100" channel="rtp2.pt">
+    <title lang="pt">Banda Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20200729210000 +0100" stop="20200729213000 +0100" channel="rtp2.pt">
+    <title lang="pt">Rapazes do Nada</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20200729213000 +0100" stop="20200729220400 +0100" channel="rtp2.pt">
+    <title lang="pt">Jornal 2</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729220400 +0100" stop="20200729221200 +0100" channel="rtp2.pt">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729221200 +0100" stop="20200729225400 +0100" channel="rtp2.pt">
+    <title lang="pt">Agente Hamilton</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20200729225400 +0100" stop="20200729235100 +0100" channel="rtp2.pt">
+    <title lang="pt">As Rotas da Escravatura</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20200729235100 +0100" stop="20200730012600 +0100" channel="rtp2.pt">
+    <title lang="pt">Muito Barulho Para Nada</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20200730012600 +0100" stop="20200730020100 +0100" channel="rtp2.pt">
+    <title lang="pt">Armário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme start="20200730020100 +0100" stop="20200730022900 +0100" channel="rtp2.pt">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E12</episode-num>
+  </programme>
+  <programme start="20200730022900 +0100" stop="20200730054900 +0100" channel="rtp2.pt">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730054900 +0100" stop="20200730063200 +0100" channel="rtp2.pt">
+    <title lang="pt">Sinais de Vida</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20200730063200 +0100" stop="20200730070200 +0100" channel="rtp2.pt">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730070200 +0100" stop="20200730072000 +0100" channel="rtp2.pt">
+    <title lang="pt">Daniel Tigre</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E31</episode-num>
+  </programme>
+  <programme start="20200730072000 +0100" stop="20200730073000 +0100" channel="rtp2.pt">
+    <title lang="pt">Daniel Tigre</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E32</episode-num>
+  </programme>
+  <programme start="20200730073000 +0100" stop="20200730073500 +0100" channel="rtp2.pt">
+    <title lang="pt">Molang</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S3E39</episode-num>
+  </programme>
+  <programme start="20200730073500 +0100" stop="20200730074000 +0100" channel="rtp2.pt">
+    <title lang="pt">Molang</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S3E40</episode-num>
+  </programme>
+  <programme start="20200730074000 +0100" stop="20200730075000 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E15</episode-num>
+  </programme>
+  <programme start="20200730075000 +0100" stop="20200730080000 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E16</episode-num>
+  </programme>
+  <programme start="20200730080000 +0100" stop="20200730081000 +0100" channel="rtp2.pt">
+    <title lang="pt">Pablo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E49</episode-num>
+  </programme>
+  <programme start="20200730081000 +0100" stop="20200730082000 +0100" channel="rtp2.pt">
+    <title lang="pt">Pat, o Cão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20200730082000 +0100" stop="20200730083000 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E70</episode-num>
+  </programme>
+  <programme start="20200730083000 +0100" stop="20200730084000 +0100" channel="rtp2.pt">
+    <title lang="pt">Os Daltons</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20200730084000 +0100" stop="20200730084500 +0100" channel="rtp2.pt">
+    <title lang="pt">ExperimentArte</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730084500 +0100" stop="20200730085000 +0100" channel="rtp2.pt">
+    <title lang="pt">Minúsculo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E44</episode-num>
+  </programme>
+  <programme start="20200730085000 +0100" stop="20200730091000 +0100" channel="rtp2.pt">
+    <title lang="pt">Zafari</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E11</episode-num>
+  </programme>
+  <programme start="20200730091000 +0100" stop="20200730091500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E71</episode-num>
+  </programme>
+  <programme start="20200730091500 +0100" stop="20200730092000 +0100" channel="rtp2.pt">
+    <title lang="pt">Glumpers</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E93</episode-num>
+  </programme>
+  <programme start="20200730092000 +0100" stop="20200730093000 +0100" channel="rtp2.pt">
+    <title lang="pt">Octonautas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20200730093000 +0100" stop="20200730094000 +0100" channel="rtp2.pt">
+    <title lang="pt">Lili e a Baía dos Tesouros</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200730094000 +0100" stop="20200730094500 +0100" channel="rtp2.pt">
+    <title lang="pt">Lili e a Baía dos Tesouros</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20200730094500 +0100" stop="20200730095000 +0100" channel="rtp2.pt">
+    <title lang="pt">Puffin Rock</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E71</episode-num>
+  </programme>
+  <programme start="20200730095000 +0100" stop="20200730095500 +0100" channel="rtp2.pt">
+    <title lang="pt">Glumpers</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E94</episode-num>
+  </programme>
+  <programme start="20200730095500 +0100" stop="20200730100500 +0100" channel="rtp2.pt">
+    <title lang="pt">Blinky Bill</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20200730100500 +0100" stop="20200730101500 +0100" channel="rtp2.pt">
+    <title lang="pt">Os Daltons</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20200730101500 +0100" stop="20200730102500 +0100" channel="rtp2.pt">
+    <title lang="pt">Minúsculo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E40</episode-num>
+  </programme>
+  <programme start="20200730102500 +0100" stop="20200730103000 +0100" channel="rtp2.pt">
+    <title lang="pt">Sai Daqui, Unicórnio!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E42</episode-num>
+  </programme>
+  <programme start="20200730103000 +0100" stop="20200730103500 +0100" channel="rtp2.pt">
+    <title lang="pt">Sai Daqui, Unicórnio!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E46</episode-num>
+  </programme>
+  <programme start="20200730103500 +0100" stop="20200730104500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E72</episode-num>
+  </programme>
+  <programme start="20200730104500 +0100" stop="20200730105500 +0100" channel="rtp2.pt">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730105500 +0100" stop="20200730110000 +0100" channel="rtp2.pt">
+    <title lang="pt">Glumpers</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E95</episode-num>
+  </programme>
+  <programme start="20200730110000 +0100" stop="20200730111500 +0100" channel="rtp2.pt">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E47</episode-num>
+  </programme>
+  <programme start="20200730111500 +0100" stop="20200730112500 +0100" channel="rtp2.pt">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E48</episode-num>
+  </programme>
+  <programme start="20200730112500 +0100" stop="20200730113500 +0100" channel="rtp2.pt">
+    <title lang="pt">Rato Renato</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E16</episode-num>
+  </programme>
+  <programme start="20200730113500 +0100" stop="20200730114500 +0100" channel="rtp2.pt">
+    <title lang="pt">Animais Quase Despidos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20200730114500 +0100" stop="20200730115000 +0100" channel="rtp2.pt">
+    <title lang="pt">Animais Quase Despidos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20200730115000 +0100" stop="20200730115500 +0100" channel="rtp2.pt">
+    <title lang="pt">Glumpers</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E64</episode-num>
+  </programme>
+  <programme start="20200730115500 +0100" stop="20200730121500 +0100" channel="rtp2.pt">
+    <title lang="pt">Lexi &amp; Lottie - Gémeas Detetives</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20200730121500 +0100" stop="20200730123500 +0100" channel="rtp2.pt">
+    <title lang="pt">Nas Profundezas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20200730123500 +0100" stop="20200730124000 +0100" channel="rtp2.pt">
+    <title lang="pt">Glumpers</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E96</episode-num>
+  </programme>
+  <programme start="20200730124000 +0100" stop="20200730125000 +0100" channel="rtp2.pt">
+    <title lang="pt">Campo Lakebottom</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20200730125000 +0100" stop="20200730130000 +0100" channel="rtp2.pt">
+    <title lang="pt">Campo Lakebottom</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20200730130000 +0100" stop="20200730131500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20200730131500 +0100" stop="20200730134000 +0100" channel="rtp2.pt">
+    <title lang="pt">Drama Total All-Stars</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20200730134000 +0100" stop="20200730135500 +0100" channel="rtp2.pt">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20200730135500 +0100" stop="20200730140000 +0100" channel="rtp2.pt">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730140000 +0100" stop="20200730145500 +0100" channel="rtp2.pt">
+    <title lang="pt">A Casa de Beecham</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20200730145500 +0100" stop="20200730150000 +0100" channel="rtp2.pt">
+    <title lang="pt">Em Busca do Museu Desconhecido</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20200730150000 +0100" stop="20200730153000 +0100" channel="rtp2.pt">
+    <title lang="pt">A Fé dos Homens</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730153000 +0100" stop="20200730160000 +0100" channel="rtp2.pt">
+    <title lang="pt">Atelier d</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200730160000 +0100" stop="20200730170500 +0100" channel="rtp2.pt">
+    <title lang="pt">Os Andes Selvagens</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200730170500 +0100" stop="20200730171000 +0100" channel="rtp2.pt">
+    <title lang="pt">Molang</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S3E19</episode-num>
+  </programme>
+  <programme start="20200730171000 +0100" stop="20200730171500 +0100" channel="rtp2.pt">
+    <title lang="pt">Molang</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S3E20</episode-num>
+  </programme>
+  <programme start="20200730171500 +0100" stop="20200730172500 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20200730172500 +0100" stop="20200730173500 +0100" channel="rtp2.pt">
+    <title lang="pt">Twirlywoos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme start="20200730173500 +0100" stop="20200730174500 +0100" channel="rtp2.pt">
+    <title lang="pt">ExperimentArte</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730174500 +0100" stop="20200730180000 +0100" channel="rtp2.pt">
+    <title lang="pt">Lou!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20200730180000 +0100" stop="20200730180500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E64</episode-num>
+  </programme>
+  <programme start="20200730180500 +0100" stop="20200730182000 +0100" channel="rtp2.pt">
+    <title lang="pt">Sherlock Yack</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730182000 +0100" stop="20200730184000 +0100" channel="rtp2.pt">
+    <title lang="pt">Nas Profundezas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E12</episode-num>
+  </programme>
+  <programme start="20200730184000 +0100" stop="20200730184500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E65</episode-num>
+  </programme>
+  <programme start="20200730184500 +0100" stop="20200730191000 +0100" channel="rtp2.pt">
+    <title lang="pt">Lexi &amp; Lottie - Gémeas Detetives</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20200730191000 +0100" stop="20200730191500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Oásis de Óscar</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E66</episode-num>
+  </programme>
+  <programme start="20200730191500 +0100" stop="20200730192000 +0100" channel="rtp2.pt">
+    <title lang="pt">Glumpers</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20200730192000 +0100" stop="20200730194500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730194500 +0100" stop="20200730195500 +0100" channel="rtp2.pt">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730195500 +0100" stop="20200730200000 +0100" channel="rtp2.pt">
+    <title lang="pt">Peanuts</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730200000 +0100" stop="20200730200500 +0100" channel="rtp2.pt">
+    <title lang="pt">Athleticus</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730200500 +0100" stop="20200730201500 +0100" channel="rtp2.pt">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730201500 +0100" stop="20200730202500 +0100" channel="rtp2.pt">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E74</episode-num>
+  </programme>
+  <programme start="20200730202500 +0100" stop="20200730203000 +0100" channel="rtp2.pt">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E75</episode-num>
+  </programme>
+  <programme start="20200730203000 +0100" stop="20200730204500 +0100" channel="rtp2.pt">
+    <title lang="pt">O Vale Encantado</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E24</episode-num>
+  </programme>
+  <programme start="20200730204500 +0100" stop="20200730205000 +0100" channel="rtp2.pt">
+    <title lang="pt">Lucas e Emília</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20200730205000 +0100" stop="20200730205500 +0100" channel="rtp2.pt">
+    <title lang="pt">Lucas e Emília</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20200730205500 +0100" stop="20200730210000 +0100" channel="rtp2.pt">
+    <title lang="pt">Banda Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20200730210000 +0100" stop="20200730213000 +0100" channel="rtp2.pt">
+    <title lang="pt">Rapazes do Nada</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E11</episode-num>
+  </programme>
+  <programme start="20200730213000 +0100" stop="20200730220600 +0100" channel="rtp2.pt">
+    <title lang="pt">Jornal 2</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730220600 +0100" stop="20200730221200 +0100" channel="rtp2.pt">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730221200 +0100" stop="20200730230500 +0100" channel="rtp2.pt">
+    <title lang="pt">Agente Hamilton</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20200730230500 +0100" stop="20200731000000 +0100" channel="rtp2.pt">
+    <title lang="pt">Ícones do Século XX</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20200729003500 +0100" stop="20200729010000 +0100" channel="sic.pt">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E59</episode-num>
+  </programme>
+  <programme start="20200729010000 +0100" stop="20200729015000 +0100" channel="sic.pt">
+    <title lang="pt">Linha Aberta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S6E47</episode-num>
+  </programme>
+  <programme start="20200729015000 +0100" stop="20200729033000 +0100" channel="sic.pt">
+    <title lang="pt">À Descoberta Com…</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200729033000 +0100" stop="20200729053500 +0100" channel="sic.pt">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729053500 +0100" stop="20200729060000 +0100" channel="sic.pt">
+    <title lang="pt">Os Malucos do Riso</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S13E13</episode-num>
+  </programme>
+  <programme start="20200729060000 +0100" stop="20200729091500 +0100" channel="sic.pt">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729091500 +0100" stop="20200729101000 +0100" channel="sic.pt">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S12E149</episode-num>
+  </programme>
+  <programme start="20200729101000 +0100" stop="20200729130000 +0100" channel="sic.pt">
+    <title lang="pt">Casa Feliz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20200729130000 +0100" stop="20200729145500 +0100" channel="sic.pt">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729145500 +0100" stop="20200729161500 +0100" channel="sic.pt">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E328</episode-num>
+  </programme>
+  <programme start="20200729161500 +0100" stop="20200729181500 +0100" channel="sic.pt">
+    <title lang="pt">Júlia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E145</episode-num>
+  </programme>
+  <programme start="20200729181500 +0100" stop="20200729191500 +0100" channel="sic.pt">
+    <title lang="pt">Amor À Vida</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E194</episode-num>
+  </programme>
+  <programme start="20200729191500 +0100" stop="20200729194600 +0100" channel="sic.pt">
+    <title lang="pt">Êta Mundo Bom!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20200729194600 +0100" stop="20200729195700 +0100" channel="sic.pt">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E59</episode-num>
+  </programme>
+  <programme start="20200729195700 +0100" stop="20200729214000 +0100" channel="sic.pt">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729214000 +0100" stop="20200729222000 +0100" channel="sic.pt">
+    <title lang="pt">Nazaré</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20200729222000 +0100" stop="20200729231500 +0100" channel="sic.pt">
+    <title lang="pt">Terra Brava</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E194</episode-num>
+  </programme>
+  <programme start="20200729231500 +0100" stop="20200729232500 +0100" channel="sic.pt">
+    <title lang="pt">Quem Quer Namorar com a Agricultora?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E68</episode-num>
+  </programme>
+  <programme start="20200729232500 +0100" stop="20200730003000 +0100" channel="sic.pt">
+    <title lang="pt">Amor de Mãe</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E98</episode-num>
+  </programme>
+  <programme start="20200730003000 +0100" stop="20200730005500 +0100" channel="sic.pt">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E59</episode-num>
+  </programme>
+  <programme start="20200730005500 +0100" stop="20200730014500 +0100" channel="sic.pt">
+    <title lang="pt">Linha Aberta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S6E48</episode-num>
+  </programme>
+  <programme start="20200730014500 +0100" stop="20200730032500 +0100" channel="sic.pt">
+    <title lang="pt">À Descoberta Com…</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20200730032500 +0100" stop="20200730060000 +0100" channel="sic.pt">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730060000 +0100" stop="20200730090000 +0100" channel="sic.pt">
+    <title lang="pt">Edição da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730090000 +0100" stop="20200730100000 +0100" channel="sic.pt">
+    <title lang="pt">Alô Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S12E150</episode-num>
+  </programme>
+  <programme start="20200730100000 +0100" stop="20200730130000 +0100" channel="sic.pt">
+    <title lang="pt">Casa Feliz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20200730130000 +0100" stop="20200730144500 +0100" channel="sic.pt">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730144500 +0100" stop="20200730160000 +0100" channel="sic.pt">
+    <title lang="pt">Amor Maior</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E329</episode-num>
+  </programme>
+  <programme start="20200730160000 +0100" stop="20200730180000 +0100" channel="sic.pt">
+    <title lang="pt">Júlia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E146</episode-num>
+  </programme>
+  <programme start="20200730180000 +0100" stop="20200730184500 +0100" channel="sic.pt">
+    <title lang="pt">Êta Mundo Bom!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20200730184500 +0100" stop="20200730193000 +0100" channel="sic.pt">
+    <title lang="pt">Amor À Vida</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E195</episode-num>
+  </programme>
+  <programme start="20200730193000 +0100" stop="20200730200000 +0100" channel="sic.pt">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Diário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E59</episode-num>
+  </programme>
+  <programme start="20200730200000 +0100" stop="20200730214500 +0100" channel="sic.pt">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730214500 +0100" stop="20200730223000 +0100" channel="sic.pt">
+    <title lang="pt">Nazaré</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S2E15</episode-num>
+  </programme>
+  <programme start="20200730223000 +0100" stop="20200730233000 +0100" channel="sic.pt">
+    <title lang="pt">Terra Brava</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E195</episode-num>
+  </programme>
+  <programme start="20200730233000 +0100" stop="20200730234500 +0100" channel="sic.pt">
+    <title lang="pt">Quem Quer Namorar com a Agricultora?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E69</episode-num>
+  </programme>
+  <programme start="20200730234500 +0100" stop="20200731004500 +0100" channel="sic.pt">
+    <title lang="pt">Amor de Mãe</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E99</episode-num>
+  </programme>
+  <programme start="20200729025000 +0100" stop="20200729043000 +0100" channel="tvi.pt">
+    <title lang="pt">Mar de Paixão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729043000 +0100" stop="20200729060000 +0100" channel="tvi.pt">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729060000 +0100" stop="20200729063000 +0100" channel="tvi.pt">
+    <title lang="pt">Os Batanetes</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20200729063000 +0100" stop="20200729101300 +0100" channel="tvi.pt">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729101300 +0100" stop="20200729130000 +0100" channel="tvi.pt">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729130000 +0100" stop="20200729145500 +0100" channel="tvi.pt">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729145500 +0100" stop="20200729162000 +0100" channel="tvi.pt">
+    <title lang="pt">Destinos Cruzados</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E85</episode-num>
+  </programme>
+  <programme start="20200729162000 +0100" stop="20200729181500 +0100" channel="tvi.pt">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729181500 +0100" stop="20200729191500 +0100" channel="tvi.pt">
+    <title lang="pt">Big Brother - Extra Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729191500 +0100" stop="20200729195700 +0100" channel="tvi.pt">
+    <title lang="pt">Big Brother - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200729195700 +0100" stop="20200729214500 +0100" channel="tvi.pt">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200729214500 +0100" stop="20200729224500 +0100" channel="tvi.pt">
+    <title lang="pt">Quer o Destino</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E111</episode-num>
+  </programme>
+  <programme start="20200729224500 +0100" stop="20200730000000 +0100" channel="tvi.pt">
+    <title lang="pt">Espírito Indomável</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E59</episode-num>
+  </programme>
+  <programme start="20200730000000 +0100" stop="20200730020000 +0100" channel="tvi.pt">
+    <title lang="pt">Big Brother - Extra</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730020000 +0100" stop="20200730031000 +0100" channel="tvi.pt">
+    <title lang="pt">1000 à Hora</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730031000 +0100" stop="20200730043000 +0100" channel="tvi.pt">
+    <title lang="pt">Mar de Paixão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730043000 +0100" stop="20200730060000 +0100" channel="tvi.pt">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730060000 +0100" stop="20200730063000 +0100" channel="tvi.pt">
+    <title lang="pt">Os Batanetes</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20200730063000 +0100" stop="20200730101300 +0100" channel="tvi.pt">
+    <title lang="pt">Diário da Manhã</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730101300 +0100" stop="20200730130000 +0100" channel="tvi.pt">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730130000 +0100" stop="20200730145500 +0100" channel="tvi.pt">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730145500 +0100" stop="20200730161500 +0100" channel="tvi.pt">
+    <title lang="pt">Destinos Cruzados</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E86</episode-num>
+  </programme>
+  <programme start="20200730161500 +0100" stop="20200730181500 +0100" channel="tvi.pt">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730181500 +0100" stop="20200730191500 +0100" channel="tvi.pt">
+    <title lang="pt">Big Brother - Extra Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730191500 +0100" stop="20200730195700 +0100" channel="tvi.pt">
+    <title lang="pt">Big Brother - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200730195700 +0100" stop="20200730214500 +0100" channel="tvi.pt">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200730214500 +0100" stop="20200730224000 +0100" channel="tvi.pt">
+    <title lang="pt">Quer o Destino</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E112</episode-num>
+  </programme>
+  <programme start="20200730224000 +0100" stop="20200731000000 +0100" channel="tvi.pt">
+    <title lang="pt">Espírito Indomável</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E60</episode-num>
+  </programme>
+</tv>
