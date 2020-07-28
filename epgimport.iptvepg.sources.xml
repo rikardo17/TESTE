@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<sources><channel name="channel-list.xml.gz"><url>https://github.com/rikardo17/TESTE/blob/master/channel-list.xml.gz</url></channel><source type="gen_xmltv" channels="https://github.com/rikardo17/TESTE/blob/master/channel-list.xml.gz"><description>IPTVEPG</description><url>https://github.com/rikardo17/TESTE/raw/master/102.xml.gz</url></source></sources>
