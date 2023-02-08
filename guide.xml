@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20230208000400 +0000" stop="20230208015900 +0000" channel="RTP 1">
+    <title lang="pt">Ouistreham - Entre Dois Mundos</title>
+  </programme>
+  <programme start="20230208015900 +0000" stop="20230208022200 +0000" channel="RTP 1">
+    <title lang="pt">Europa Minha</title>
+  </programme>
+  <programme start="20230208022200 +0000" stop="20230208043800 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230208043800 +0000" stop="20230208060900 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230208060900 +0000" stop="20230208063000 +0000" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20230208063000 +0000" stop="20230208100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20230208100000 +0000" stop="20230208125900 +0000" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20230208125900 +0000" stop="20230208142300 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230208142300 +0000" stop="20230208150400 +0000" channel="RTP 1">
+    <title lang="pt">Os Nossos Dias</title>
+  </programme>
+  <programme start="20230208150400 +0000" stop="20230208173000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230208173000 +0000" stop="20230208190600 +0000" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20230208190600 +0000" stop="20230208195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20230208195900 +0000" stop="20230208204200 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230208204200 +0000" stop="20230208225200 +0000" channel="RTP 1">
+    <title lang="pt">Taça de Portugal - AC Viseu x FC Porto</title>
+  </programme>
+  <programme start="20230208225200 +0000" stop="20230209001900 +0000" channel="RTP 1">
+    <title lang="pt">Cá Por Casa Com Herman José</title>
+  </programme>
+  <programme start="20230209001900 +0000" stop="20230209011200 +0000" channel="RTP 1">
+    <title lang="pt">Glúten, um inimigo público?</title>
+  </programme>
+  <programme start="20230209011200 +0000" stop="20230209015400 +0000" channel="RTP 1">
+    <title lang="pt">Janela Indiscreta</title>
+  </programme>
+  <programme start="20230209015400 +0000" stop="20230209040800 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230209040800 +0000" stop="20230209060900 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230209060900 +0000" stop="20230209063000 +0000" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20230209063000 +0000" stop="20230209100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20230209100000 +0000" stop="20230209125900 +0000" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20230209125900 +0000" stop="20230209142500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230209142500 +0000" stop="20230209150600 +0000" channel="RTP 1">
+    <title lang="pt">Os Nossos Dias</title>
+  </programme>
+  <programme start="20230209150600 +0000" stop="20230209173000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230209173000 +0000" stop="20230209190000 +0000" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20230209190000 +0000" stop="20230209195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20230209195900 +0000" stop="20230209202700 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230209202700 +0000" stop="20230209223600 +0000" channel="RTP 1">
+    <title lang="pt">Taça de Portugal - SC Braga x Benfica</title>
+  </programme>
+  <programme start="20230209223600 +0000" stop="20230210013100 +0000" channel="RTP 1">
+    <title lang="pt">Rui Veloso - 40 Anos de Carreira</title>
+  </programme>
+  <programme start="20230210013100 +0000" stop="20230210022700 +0000" channel="RTP 1">
+    <title lang="pt">Grande Entrevista</title>
+  </programme>
+  <programme start="20230210022700 +0000" stop="20230210043800 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230210043800 +0000" stop="20230210060900 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230210060900 +0000" stop="20230210063000 +0000" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20230210063000 +0000" stop="20230210100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20230210100000 +0000" stop="20230210125900 +0000" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20230210125900 +0000" stop="20230210141500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230210141500 +0000" stop="20230210151500 +0000" channel="RTP 1">
+    <title lang="pt">Os Nossos Dias</title>
+  </programme>
+  <programme start="20230210151500 +0000" stop="20230210173000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230210173000 +0000" stop="20230210190000 +0000" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20230210190000 +0000" stop="20230210195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20230210195900 +0000" stop="20230210210000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230210210000 +0000" stop="20230210213000 +0000" channel="RTP 1">
+    <title lang="pt">A Prova dos Factos</title>
+  </programme>
+  <programme start="20230210213000 +0000" stop="20230210224500 +0000" channel="RTP 1">
+    <title lang="pt">Porquinho Mealheiro</title>
+  </programme>
+  <programme start="20230210224500 +0000" stop="20230210233000 +0000" channel="RTP 1">
+    <title lang="pt">Operação Maré Negra</title>
+  </programme>
+  <programme start="20230210233000 +0000" stop="20230211003000 +0000" channel="RTP 1">
+    <title lang="pt">Rua das Pretas</title>
+  </programme>
+  <programme start="20230211003000 +0000" stop="20230211011500 +0000" channel="RTP 1">
+    <title lang="pt">Anatomia de Grey</title>
+  </programme>
+  <programme start="20230211011500 +0000" stop="20230211021500 +0000" channel="RTP 1">
+    <title lang="pt">Yanomami, as Vozes da Floresta</title>
+  </programme>
+  <programme start="20230211021500 +0000" stop="20230211040000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230211040000 +0000" stop="20230211053000 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230211053000 +0000" stop="20230211063500 +0000" channel="RTP 1">
+    <title lang="pt">Glúten, um inimigo público?</title>
+  </programme>
+  <programme start="20230211063500 +0000" stop="20230211064500 +0000" channel="RTP 1">
+    <title lang="pt">Os Bochechas</title>
+  </programme>
+  <programme start="20230211064500 +0000" stop="20230211065000 +0000" channel="RTP 1">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20230211065000 +0000" stop="20230211070000 +0000" channel="RTP 1">
+    <title lang="pt">O Panda e o Galo</title>
+  </programme>
+  <programme start="20230211070000 +0000" stop="20230211070500 +0000" channel="RTP 1">
+    <title lang="pt">Histórias Zigzásticas</title>
+  </programme>
+  <programme start="20230211070500 +0000" stop="20230211072000 +0000" channel="RTP 1">
+    <title lang="pt">As Aventuras da PAC</title>
+  </programme>
+  <programme start="20230211072000 +0000" stop="20230211072500 +0000" channel="RTP 1">
+    <title lang="pt">DuARTe: Uma Peça de Arte</title>
+  </programme>
+  <programme start="20230211072500 +0000" stop="20230211074000 +0000" channel="RTP 1">
+    <title lang="pt">A Minha Cena</title>
+  </programme>
+  <programme start="20230211074000 +0000" stop="20230211075500 +0000" channel="RTP 1">
+    <title lang="pt">Dennis e Gnasher, os Aventureiros</title>
+  </programme>
+  <programme start="20230211075500 +0000" stop="20230211080000 +0000" channel="RTP 1">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20230211080000 +0000" stop="20230211100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  </programme>
+  <programme start="20230211100000 +0000" stop="20230211110000 +0000" channel="RTP 1">
+    <title lang="pt">Oceanos Com Vida</title>
+  </programme>
+  <programme start="20230211110000 +0000" stop="20230211125900 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal</title>
+  </programme>
+  <programme start="20230211125900 +0000" stop="20230211141500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230211141500 +0000" stop="20230211143000 +0000" channel="RTP 1">
+    <title lang="pt">Voz do Cidadão</title>
+  </programme>
+  <programme start="20230211143000 +0000" stop="20230211190000 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal</title>
+  </programme>
+  <programme start="20230211190000 +0000" stop="20230211195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20230211195900 +0000" stop="20230211210000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230211210000 +0000" stop="20230211234500 +0000" channel="RTP 1">
+    <title lang="pt">MasterChef Portugal</title>
+  </programme>
+  <programme start="20230211234500 +0000" stop="20230212013000 +0000" channel="RTP 1">
+    <title lang="pt">Line of Duty - O Resgate</title>
+  </programme>
+  <programme start="20230212013000 +0000" stop="20230212020000 +0000" channel="RTP 1">
+    <title lang="pt">As Novas Lendas do Rei Macaco</title>
+  </programme>
+  <programme start="20230212020000 +0000" stop="20230212023000 +0000" channel="RTP 1">
+    <title lang="pt">As Novas Lendas do Rei Macaco</title>
+  </programme>
+  <programme start="20230212023000 +0000" stop="20230212031500 +0000" channel="RTP 1">
+    <title lang="pt">Janela Indiscreta</title>
+  </programme>
+  <programme start="20230212031500 +0000" stop="20230212060000 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230212060000 +0000" stop="20230212063500 +0000" channel="RTP 1">
+    <title lang="pt">Todas as Palavras</title>
+  </programme>
+  <programme start="20230212063500 +0000" stop="20230212064500 +0000" channel="RTP 1">
+    <title lang="pt">Os Bochechas</title>
+  </programme>
+  <programme start="20230212064500 +0000" stop="20230212070000 +0000" channel="RTP 1">
+    <title lang="pt">O Panda e o Galo</title>
+  </programme>
+  <programme start="20230212070000 +0000" stop="20230212070500 +0000" channel="RTP 1">
+    <title lang="pt">Histórias Zigzásticas</title>
+  </programme>
+  <programme start="20230212070500 +0000" stop="20230212072000 +0000" channel="RTP 1">
+    <title lang="pt">As Aventuras da PAC</title>
+  </programme>
+  <programme start="20230212072000 +0000" stop="20230212072500 +0000" channel="RTP 1">
+    <title lang="pt">DuARTe: Uma Peça de Arte</title>
+  </programme>
+  <programme start="20230212072500 +0000" stop="20230212074000 +0000" channel="RTP 1">
+    <title lang="pt">A Minha Cena</title>
+  </programme>
+  <programme start="20230212074000 +0000" stop="20230212075000 +0000" channel="RTP 1">
+    <title lang="pt">Dennis e Gnasher, os Aventureiros</title>
+  </programme>
+  <programme start="20230212075000 +0000" stop="20230212080000 +0000" channel="RTP 1">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20230212080000 +0000" stop="20230212103000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  </programme>
+  <programme start="20230212103000 +0000" stop="20230212113000 +0000" channel="RTP 1">
+    <title lang="pt">Eucaristia Dominical</title>
+  </programme>
+  <programme start="20230212113000 +0000" stop="20230212120000 +0000" channel="RTP 1">
+    <title lang="pt">Hora dos Portugueses</title>
+  </programme>
+  <programme start="20230212120000 +0000" stop="20230212125900 +0000" channel="RTP 1">
+    <title lang="pt">Bears About the House</title>
+  </programme>
+  <programme start="20230212125900 +0000" stop="20230212141500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230212141500 +0000" stop="20230212150000 +0000" channel="RTP 1">
+    <title lang="pt">Faz Faísca</title>
+  </programme>
+  <programme start="20230212150000 +0000" stop="20230212195900 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal</title>
+  </programme>
+  <programme start="20230212195900 +0000" stop="20230212211500 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230212211500 +0000" stop="20230213000000 +0000" channel="RTP 1">
+    <title lang="pt">Dança Comigo</title>
+  </programme>
+  <programme start="20230213000000 +0000" stop="20230213023000 +0000" channel="RTP 1">
+    <title lang="pt">Flor do Deserto</title>
+  </programme>
+  <programme start="20230213023000 +0000" stop="20230213031500 +0000" channel="RTP 1">
+    <title lang="pt">Faz Faísca</title>
+  </programme>
+  <programme start="20230213031500 +0000" stop="20230213041500 +0000" channel="RTP 1">
+    <title lang="pt">Yanomami, as Vozes da Floresta</title>
+  </programme>
+  <programme start="20230213041500 +0000" stop="20230213060900 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230213060900 +0000" stop="20230213063000 +0000" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20230213063000 +0000" stop="20230213100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20230213100000 +0000" stop="20230213125900 +0000" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20230213125900 +0000" stop="20230213141500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230213141500 +0000" stop="20230213151500 +0000" channel="RTP 1">
+    <title lang="pt">Os Nossos Dias</title>
+  </programme>
+  <programme start="20230213151500 +0000" stop="20230213173000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230213173000 +0000" stop="20230213190000 +0000" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20230213190000 +0000" stop="20230213195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20230213195900 +0000" stop="20230213210000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="RTP 1">
+    <title lang="pt">Primeira Pessoa</title>
+  </programme>
+  <programme start="20230213213000 +0000" stop="20230213223000 +0000" channel="RTP 1">
+    <title lang="pt">Porquinho Mealheiro</title>
+  </programme>
+  <programme start="20230213223000 +0000" stop="20230213233000 +0000" channel="RTP 1">
+    <title lang="pt">O Crime do Padre Amaro</title>
+  </programme>
+  <programme start="20230213233000 +0000" stop="20230214003000 +0000" channel="RTP 1">
+    <title lang="pt">Traz prá Frente</title>
+  </programme>
+  <programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="RTP 1">
+    <title lang="pt">Mindelo Convida</title>
+  </programme>
+  <programme start="20230214013000 +0000" stop="20230214023000 +0000" channel="RTP 1">
+    <title lang="pt">A Grandiosa Enciclopédia do Ludopédio</title>
+  </programme>
+  <programme start="20230214023000 +0000" stop="20230214041500 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230214041500 +0000" stop="20230214060900 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230214060900 +0000" stop="20230214063000 +0000" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20230214063000 +0000" stop="20230214100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20230214100000 +0000" stop="20230214125900 +0000" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20230214125900 +0000" stop="20230214141500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20230214141500 +0000" stop="20230214151500 +0000" channel="RTP 1">
+    <title lang="pt">Os Nossos Dias</title>
+  </programme>
+  <programme start="20230214151500 +0000" stop="20230214173000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20230214173000 +0000" stop="20230214190000 +0000" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20230214190000 +0000" stop="20230214195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20230214195900 +0000" stop="20230214210000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="RTP 1">
+    <title lang="pt">Porquinho Mealheiro</title>
+  </programme>
+  <programme start="20230214220000 +0000" stop="20230214233000 +0000" channel="RTP 1">
+    <title lang="pt">É Ou Não É? - O Grande Debate</title>
+  </programme>
+  <programme start="20230214233000 +0000" stop="20230215003000 +0000" channel="RTP 1">
+    <title lang="pt">Alterações Climáticas - Um Futuro Possível</title>
+  </programme>
+</tv>
