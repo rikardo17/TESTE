@@ -1,382 +1,889 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RTP 1">
-    <display-name lang="pt">RTP 1</display-name>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20230208000400 +0000" stop="20230208015900 +0000" channel="RTP 1">
-    <title lang="pt">Ouistreham - Entre Dois Mundos</title>
+  <programme start="20230208000500 +0000" stop="20230208002500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230208015900 +0000" stop="20230208022200 +0000" channel="RTP 1">
-    <title lang="pt">Europa Minha</title>
+  <programme start="20230208002500 +0000" stop="20230208005000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230208022200 +0000" stop="20230208043800 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230208005000 +0000" stop="20230208013500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
   </programme>
-  <programme start="20230208043800 +0000" stop="20230208060900 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230208013500 +0000" stop="20230208022000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230208060900 +0000" stop="20230208063000 +0000" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
+  <programme start="20230208022000 +0000" stop="20230208030500 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230208063000 +0000" stop="20230208100000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
+  <programme start="20230208030500 +0000" stop="20230208035000 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
   </programme>
-  <programme start="20230208100000 +0000" stop="20230208125900 +0000" channel="RTP 1">
-    <title lang="pt">Praça da Alegria</title>
+  <programme start="20230208035000 +0000" stop="20230208043500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
   </programme>
-  <programme start="20230208125900 +0000" stop="20230208142300 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230208043500 +0000" stop="20230208050000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
   </programme>
-  <programme start="20230208142300 +0000" stop="20230208150400 +0000" channel="RTP 1">
-    <title lang="pt">Os Nossos Dias</title>
+  <programme start="20230208050000 +0000" stop="20230208052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
   </programme>
-  <programme start="20230208150400 +0000" stop="20230208173000 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230208052500 +0000" stop="20230208061000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230208173000 +0000" stop="20230208190600 +0000" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
+  <programme start="20230208061000 +0000" stop="20230208063000 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
   </programme>
-  <programme start="20230208190600 +0000" stop="20230208195900 +0000" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+  <programme start="20230208063000 +0000" stop="20230208065500 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
   </programme>
-  <programme start="20230208195900 +0000" stop="20230208204200 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230208065500 +0000" stop="20230208071500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230208204200 +0000" stop="20230208225200 +0000" channel="RTP 1">
-    <title lang="pt">Taça de Portugal - AC Viseu x FC Porto</title>
+  <programme start="20230208071500 +0000" stop="20230208074000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230208225200 +0000" stop="20230209001900 +0000" channel="RTP 1">
-    <title lang="pt">Cá Por Casa Com Herman José</title>
+  <programme start="20230208074000 +0000" stop="20230208082500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
   </programme>
-  <programme start="20230209001900 +0000" stop="20230209011200 +0000" channel="RTP 1">
-    <title lang="pt">Glúten, um inimigo público?</title>
+  <programme start="20230208082500 +0000" stop="20230208084500 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
   </programme>
-  <programme start="20230209011200 +0000" stop="20230209015400 +0000" channel="RTP 1">
-    <title lang="pt">Janela Indiscreta</title>
+  <programme start="20230208084500 +0000" stop="20230208091000 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
   </programme>
-  <programme start="20230209015400 +0000" stop="20230209040800 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230208091000 +0000" stop="20230208093000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
   </programme>
-  <programme start="20230209040800 +0000" stop="20230209060900 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230208093000 +0000" stop="20230208095500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
   </programme>
-  <programme start="20230209060900 +0000" stop="20230209063000 +0000" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
+  <programme start="20230208095500 +0000" stop="20230208104000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230209063000 +0000" stop="20230209100000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
+  <programme start="20230208104000 +0000" stop="20230208112500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
-  <programme start="20230209100000 +0000" stop="20230209125900 +0000" channel="RTP 1">
-    <title lang="pt">Praça da Alegria</title>
+  <programme start="20230208112500 +0000" stop="20230208114500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
   </programme>
-  <programme start="20230209125900 +0000" stop="20230209142500 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230208114500 +0000" stop="20230208121000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230209142500 +0000" stop="20230209150600 +0000" channel="RTP 1">
-    <title lang="pt">Os Nossos Dias</title>
+  <programme start="20230208121000 +0000" stop="20230208125500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
   </programme>
-  <programme start="20230209150600 +0000" stop="20230209173000 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230208125500 +0000" stop="20230208131500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230209173000 +0000" stop="20230209190000 +0000" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
+  <programme start="20230208131500 +0000" stop="20230208134000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230209190000 +0000" stop="20230209195900 +0000" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+  <programme start="20230208134000 +0000" stop="20230208142500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230209195900 +0000" stop="20230209202700 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230208142500 +0000" stop="20230208151000 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230209202700 +0000" stop="20230209223600 +0000" channel="RTP 1">
-    <title lang="pt">Taça de Portugal - SC Braga x Benfica</title>
+  <programme start="20230208151000 +0000" stop="20230208155500 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
   </programme>
-  <programme start="20230209223600 +0000" stop="20230210013100 +0000" channel="RTP 1">
-    <title lang="pt">Rui Veloso - 40 Anos de Carreira</title>
+  <programme start="20230208155500 +0000" stop="20230208164000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230210013100 +0000" stop="20230210022700 +0000" channel="RTP 1">
-    <title lang="pt">Grande Entrevista</title>
+  <programme start="20230208164000 +0000" stop="20230208172500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
   </programme>
-  <programme start="20230210022700 +0000" stop="20230210043800 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230208172500 +0000" stop="20230208180500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
   </programme>
-  <programme start="20230210043800 +0000" stop="20230210060900 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230208180500 +0000" stop="20230208185000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230210060900 +0000" stop="20230210063000 +0000" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
+  <programme start="20230208185000 +0000" stop="20230208193500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped Junior</title>
   </programme>
-  <programme start="20230210063000 +0000" stop="20230210100000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
+  <programme start="20230208193500 +0000" stop="20230208202000 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230210100000 +0000" stop="20230210125900 +0000" channel="RTP 1">
-    <title lang="pt">Praça da Alegria</title>
+  <programme start="20230208202000 +0000" stop="20230208210500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230210125900 +0000" stop="20230210141500 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230208210500 +0000" stop="20230208215000 +0000" channel="Food Network HD">
+    <title lang="pt">No-Recipe Road Trip With The Try Guys</title>
   </programme>
-  <programme start="20230210141500 +0000" stop="20230210151500 +0000" channel="RTP 1">
-    <title lang="pt">Os Nossos Dias</title>
+  <programme start="20230208215000 +0000" stop="20230208223500 +0000" channel="Food Network HD">
+    <title lang="pt">Supermarket Stakeout</title>
   </programme>
-  <programme start="20230210151500 +0000" stop="20230210173000 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230208223500 +0000" stop="20230208232000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230210173000 +0000" stop="20230210190000 +0000" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
+  <programme start="20230208232000 +0000" stop="20230209000500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
-  <programme start="20230210190000 +0000" stop="20230210195900 +0000" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+  <programme start="20230209000500 +0000" stop="20230209002500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
   </programme>
-  <programme start="20230210195900 +0000" stop="20230210210000 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230209002500 +0000" stop="20230209005000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230210210000 +0000" stop="20230210213000 +0000" channel="RTP 1">
-    <title lang="pt">A Prova dos Factos</title>
+  <programme start="20230209005000 +0000" stop="20230209013500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
   </programme>
-  <programme start="20230210213000 +0000" stop="20230210224500 +0000" channel="RTP 1">
-    <title lang="pt">Porquinho Mealheiro</title>
+  <programme start="20230209013500 +0000" stop="20230209022000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230210224500 +0000" stop="20230210233000 +0000" channel="RTP 1">
-    <title lang="pt">Operação Maré Negra</title>
+  <programme start="20230209022000 +0000" stop="20230209030500 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230210233000 +0000" stop="20230211003000 +0000" channel="RTP 1">
-    <title lang="pt">Rua das Pretas</title>
+  <programme start="20230209030500 +0000" stop="20230209035000 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
   </programme>
-  <programme start="20230211003000 +0000" stop="20230211011500 +0000" channel="RTP 1">
-    <title lang="pt">Anatomia de Grey</title>
+  <programme start="20230209035000 +0000" stop="20230209043500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
   </programme>
-  <programme start="20230211011500 +0000" stop="20230211021500 +0000" channel="RTP 1">
-    <title lang="pt">Yanomami, as Vozes da Floresta</title>
+  <programme start="20230209043500 +0000" stop="20230209050000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
   </programme>
-  <programme start="20230211021500 +0000" stop="20230211040000 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230209050000 +0000" stop="20230209052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
   </programme>
-  <programme start="20230211040000 +0000" stop="20230211053000 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230209052500 +0000" stop="20230209061000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230211053000 +0000" stop="20230211063500 +0000" channel="RTP 1">
-    <title lang="pt">Glúten, um inimigo público?</title>
+  <programme start="20230209061000 +0000" stop="20230209063000 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
   </programme>
-  <programme start="20230211063500 +0000" stop="20230211064500 +0000" channel="RTP 1">
-    <title lang="pt">Os Bochechas</title>
+  <programme start="20230209063000 +0000" stop="20230209065500 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
   </programme>
-  <programme start="20230211064500 +0000" stop="20230211065000 +0000" channel="RTP 1">
-    <title lang="pt">Radar XS</title>
+  <programme start="20230209065500 +0000" stop="20230209071500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230211065000 +0000" stop="20230211070000 +0000" channel="RTP 1">
-    <title lang="pt">O Panda e o Galo</title>
+  <programme start="20230209071500 +0000" stop="20230209074000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230211070000 +0000" stop="20230211070500 +0000" channel="RTP 1">
-    <title lang="pt">Histórias Zigzásticas</title>
+  <programme start="20230209074000 +0000" stop="20230209082500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
   </programme>
-  <programme start="20230211070500 +0000" stop="20230211072000 +0000" channel="RTP 1">
-    <title lang="pt">As Aventuras da PAC</title>
+  <programme start="20230209082500 +0000" stop="20230209084500 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
   </programme>
-  <programme start="20230211072000 +0000" stop="20230211072500 +0000" channel="RTP 1">
-    <title lang="pt">DuARTe: Uma Peça de Arte</title>
+  <programme start="20230209084500 +0000" stop="20230209091000 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
   </programme>
-  <programme start="20230211072500 +0000" stop="20230211074000 +0000" channel="RTP 1">
-    <title lang="pt">A Minha Cena</title>
+  <programme start="20230209091000 +0000" stop="20230209093000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
   </programme>
-  <programme start="20230211074000 +0000" stop="20230211075500 +0000" channel="RTP 1">
-    <title lang="pt">Dennis e Gnasher, os Aventureiros</title>
+  <programme start="20230209093000 +0000" stop="20230209095500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
   </programme>
-  <programme start="20230211075500 +0000" stop="20230211080000 +0000" channel="RTP 1">
-    <title lang="pt">Radar XS</title>
+  <programme start="20230209095500 +0000" stop="20230209104000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230211080000 +0000" stop="20230211100000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  <programme start="20230209104000 +0000" stop="20230209112500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
-  <programme start="20230211100000 +0000" stop="20230211110000 +0000" channel="RTP 1">
-    <title lang="pt">Oceanos Com Vida</title>
+  <programme start="20230209112500 +0000" stop="20230209114500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
   </programme>
-  <programme start="20230211110000 +0000" stop="20230211125900 +0000" channel="RTP 1">
-    <title lang="pt">Aqui Portugal</title>
+  <programme start="20230209114500 +0000" stop="20230209121000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230211125900 +0000" stop="20230211141500 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230209121000 +0000" stop="20230209125500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
   </programme>
-  <programme start="20230211141500 +0000" stop="20230211143000 +0000" channel="RTP 1">
-    <title lang="pt">Voz do Cidadão</title>
+  <programme start="20230209125500 +0000" stop="20230209131500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230211143000 +0000" stop="20230211190000 +0000" channel="RTP 1">
-    <title lang="pt">Aqui Portugal</title>
+  <programme start="20230209131500 +0000" stop="20230209134000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211195900 +0000" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+  <programme start="20230209134000 +0000" stop="20230209142500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230211195900 +0000" stop="20230211210000 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230209142500 +0000" stop="20230209151000 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230211210000 +0000" stop="20230211234500 +0000" channel="RTP 1">
-    <title lang="pt">MasterChef Portugal</title>
+  <programme start="20230209151000 +0000" stop="20230209155500 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
   </programme>
-  <programme start="20230211234500 +0000" stop="20230212013000 +0000" channel="RTP 1">
-    <title lang="pt">Line of Duty - O Resgate</title>
+  <programme start="20230209155500 +0000" stop="20230209164000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230212013000 +0000" stop="20230212020000 +0000" channel="RTP 1">
-    <title lang="pt">As Novas Lendas do Rei Macaco</title>
+  <programme start="20230209164000 +0000" stop="20230209172500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
   </programme>
-  <programme start="20230212020000 +0000" stop="20230212023000 +0000" channel="RTP 1">
-    <title lang="pt">As Novas Lendas do Rei Macaco</title>
+  <programme start="20230209172500 +0000" stop="20230209180500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
   </programme>
-  <programme start="20230212023000 +0000" stop="20230212031500 +0000" channel="RTP 1">
-    <title lang="pt">Janela Indiscreta</title>
+  <programme start="20230209180500 +0000" stop="20230209182500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230212031500 +0000" stop="20230212060000 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230209182500 +0000" stop="20230209185000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230212060000 +0000" stop="20230212063500 +0000" channel="RTP 1">
-    <title lang="pt">Todas as Palavras</title>
+  <programme start="20230209185000 +0000" stop="20230209191000 +0000" channel="Food Network HD">
+    <title lang="pt">Trisha</title>
   </programme>
-  <programme start="20230212063500 +0000" stop="20230212064500 +0000" channel="RTP 1">
-    <title lang="pt">Os Bochechas</title>
+  <programme start="20230209191000 +0000" stop="20230209193500 +0000" channel="Food Network HD">
+    <title lang="pt">Trisha</title>
   </programme>
-  <programme start="20230212064500 +0000" stop="20230212070000 +0000" channel="RTP 1">
-    <title lang="pt">O Panda e o Galo</title>
+  <programme start="20230209193500 +0000" stop="20230209202000 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230212070000 +0000" stop="20230212070500 +0000" channel="RTP 1">
-    <title lang="pt">Histórias Zigzásticas</title>
+  <programme start="20230209202000 +0000" stop="20230209210500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230212070500 +0000" stop="20230212072000 +0000" channel="RTP 1">
-    <title lang="pt">As Aventuras da PAC</title>
+  <programme start="20230209210500 +0000" stop="20230209215000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230212072000 +0000" stop="20230212072500 +0000" channel="RTP 1">
-    <title lang="pt">DuARTe: Uma Peça de Arte</title>
+  <programme start="20230209215000 +0000" stop="20230209223500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped Junior</title>
   </programme>
-  <programme start="20230212072500 +0000" stop="20230212074000 +0000" channel="RTP 1">
-    <title lang="pt">A Minha Cena</title>
+  <programme start="20230209223500 +0000" stop="20230209232000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230212074000 +0000" stop="20230212075000 +0000" channel="RTP 1">
-    <title lang="pt">Dennis e Gnasher, os Aventureiros</title>
+  <programme start="20230209232000 +0000" stop="20230210000500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
-  <programme start="20230212075000 +0000" stop="20230212080000 +0000" channel="RTP 1">
-    <title lang="pt">Radar XS</title>
+  <programme start="20230210000500 +0000" stop="20230210002500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
   </programme>
-  <programme start="20230212080000 +0000" stop="20230212103000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  <programme start="20230210002500 +0000" stop="20230210005000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230212103000 +0000" stop="20230212113000 +0000" channel="RTP 1">
-    <title lang="pt">Eucaristia Dominical</title>
+  <programme start="20230210005000 +0000" stop="20230210013500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
   </programme>
-  <programme start="20230212113000 +0000" stop="20230212120000 +0000" channel="RTP 1">
-    <title lang="pt">Hora dos Portugueses</title>
+  <programme start="20230210013500 +0000" stop="20230210022000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230212120000 +0000" stop="20230212125900 +0000" channel="RTP 1">
-    <title lang="pt">Bears About the House</title>
+  <programme start="20230210022000 +0000" stop="20230210030500 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230212125900 +0000" stop="20230212141500 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230210030500 +0000" stop="20230210035000 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
   </programme>
-  <programme start="20230212141500 +0000" stop="20230212150000 +0000" channel="RTP 1">
-    <title lang="pt">Faz Faísca</title>
+  <programme start="20230210035000 +0000" stop="20230210043500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
   </programme>
-  <programme start="20230212150000 +0000" stop="20230212195900 +0000" channel="RTP 1">
-    <title lang="pt">Aqui Portugal</title>
+  <programme start="20230210043500 +0000" stop="20230210050000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
   </programme>
-  <programme start="20230212195900 +0000" stop="20230212211500 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230210050000 +0000" stop="20230210052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
   </programme>
-  <programme start="20230212211500 +0000" stop="20230213000000 +0000" channel="RTP 1">
-    <title lang="pt">Dança Comigo</title>
+  <programme start="20230210052500 +0000" stop="20230210061000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230213000000 +0000" stop="20230213023000 +0000" channel="RTP 1">
-    <title lang="pt">Flor do Deserto</title>
+  <programme start="20230210061000 +0000" stop="20230210063000 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
   </programme>
-  <programme start="20230213023000 +0000" stop="20230213031500 +0000" channel="RTP 1">
-    <title lang="pt">Faz Faísca</title>
+  <programme start="20230210063000 +0000" stop="20230210065500 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
   </programme>
-  <programme start="20230213031500 +0000" stop="20230213041500 +0000" channel="RTP 1">
-    <title lang="pt">Yanomami, as Vozes da Floresta</title>
+  <programme start="20230210065500 +0000" stop="20230210071500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230213041500 +0000" stop="20230213060900 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230210071500 +0000" stop="20230210074000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230213060900 +0000" stop="20230213063000 +0000" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
+  <programme start="20230210074000 +0000" stop="20230210082500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
   </programme>
-  <programme start="20230213063000 +0000" stop="20230213100000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
+  <programme start="20230210082500 +0000" stop="20230210084500 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
   </programme>
-  <programme start="20230213100000 +0000" stop="20230213125900 +0000" channel="RTP 1">
-    <title lang="pt">Praça da Alegria</title>
+  <programme start="20230210084500 +0000" stop="20230210091000 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
   </programme>
-  <programme start="20230213125900 +0000" stop="20230213141500 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230210091000 +0000" stop="20230210093000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
   </programme>
-  <programme start="20230213141500 +0000" stop="20230213151500 +0000" channel="RTP 1">
-    <title lang="pt">Os Nossos Dias</title>
+  <programme start="20230210093000 +0000" stop="20230210095500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
   </programme>
-  <programme start="20230213151500 +0000" stop="20230213173000 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230210095500 +0000" stop="20230210104000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230213173000 +0000" stop="20230213190000 +0000" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
+  <programme start="20230210104000 +0000" stop="20230210112500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
-  <programme start="20230213190000 +0000" stop="20230213195900 +0000" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+  <programme start="20230210112500 +0000" stop="20230210114500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
   </programme>
-  <programme start="20230213195900 +0000" stop="20230213210000 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230210114500 +0000" stop="20230210121000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
   </programme>
-  <programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="RTP 1">
-    <title lang="pt">Primeira Pessoa</title>
+  <programme start="20230210121000 +0000" stop="20230210125500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
   </programme>
-  <programme start="20230213213000 +0000" stop="20230213223000 +0000" channel="RTP 1">
-    <title lang="pt">Porquinho Mealheiro</title>
+  <programme start="20230210125500 +0000" stop="20230210131500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230213223000 +0000" stop="20230213233000 +0000" channel="RTP 1">
-    <title lang="pt">O Crime do Padre Amaro</title>
+  <programme start="20230210131500 +0000" stop="20230210134000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230213233000 +0000" stop="20230214003000 +0000" channel="RTP 1">
-    <title lang="pt">Traz prá Frente</title>
+  <programme start="20230210134000 +0000" stop="20230210142500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="RTP 1">
-    <title lang="pt">Mindelo Convida</title>
+  <programme start="20230210142500 +0000" stop="20230210151000 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230214013000 +0000" stop="20230214023000 +0000" channel="RTP 1">
-    <title lang="pt">A Grandiosa Enciclopédia do Ludopédio</title>
+  <programme start="20230210151000 +0000" stop="20230210155500 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
   </programme>
-  <programme start="20230214023000 +0000" stop="20230214041500 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230210155500 +0000" stop="20230210164000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230214041500 +0000" stop="20230214060900 +0000" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+  <programme start="20230210164000 +0000" stop="20230210172500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
   </programme>
-  <programme start="20230214060900 +0000" stop="20230214063000 +0000" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
+  <programme start="20230210172500 +0000" stop="20230210180500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
   </programme>
-  <programme start="20230214063000 +0000" stop="20230214100000 +0000" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
+  <programme start="20230210180500 +0000" stop="20230210185000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230214100000 +0000" stop="20230214125900 +0000" channel="RTP 1">
-    <title lang="pt">Praça da Alegria</title>
+  <programme start="20230210185000 +0000" stop="20230210193500 +0000" channel="Food Network HD">
+    <title lang="pt">Best Baker In America</title>
   </programme>
-  <programme start="20230214125900 +0000" stop="20230214141500 +0000" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230210193500 +0000" stop="20230210202000 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
   </programme>
-  <programme start="20230214141500 +0000" stop="20230214151500 +0000" channel="RTP 1">
-    <title lang="pt">Os Nossos Dias</title>
+  <programme start="20230210202000 +0000" stop="20230210210500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
   </programme>
-  <programme start="20230214151500 +0000" stop="20230214173000 +0000" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
+  <programme start="20230210210500 +0000" stop="20230210212500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230214173000 +0000" stop="20230214190000 +0000" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
+  <programme start="20230210212500 +0000" stop="20230210215000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
   </programme>
-  <programme start="20230214190000 +0000" stop="20230214195900 +0000" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+  <programme start="20230210215000 +0000" stop="20230210221000 +0000" channel="Food Network HD">
+    <title lang="pt">Trisha</title>
   </programme>
-  <programme start="20230214195900 +0000" stop="20230214210000 +0000" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230210221000 +0000" stop="20230210223500 +0000" channel="Food Network HD">
+    <title lang="pt">Trisha</title>
   </programme>
-  <programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="RTP 1">
-    <title lang="pt">Porquinho Mealheiro</title>
+  <programme start="20230210223500 +0000" stop="20230210232000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
   </programme>
-  <programme start="20230214220000 +0000" stop="20230214233000 +0000" channel="RTP 1">
-    <title lang="pt">É Ou Não É? - O Grande Debate</title>
+  <programme start="20230210232000 +0000" stop="20230211000500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
-  <programme start="20230214233000 +0000" stop="20230215003000 +0000" channel="RTP 1">
-    <title lang="pt">Alterações Climáticas - Um Futuro Possível</title>
+  <programme start="20230211000500 +0000" stop="20230211002500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230211002500 +0000" stop="20230211005000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230211005000 +0000" stop="20230211013500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230211013500 +0000" stop="20230211022000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230211022000 +0000" stop="20230211030500 +0000" channel="Food Network HD">
+    <title lang="pt">Alex Vs America</title>
+  </programme>
+  <programme start="20230211030500 +0000" stop="20230211035000 +0000" channel="Food Network HD">
+    <title lang="pt">Cupcake Championship</title>
+  </programme>
+  <programme start="20230211035000 +0000" stop="20230211043500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230211043500 +0000" stop="20230211050000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230211050000 +0000" stop="20230211052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230211052500 +0000" stop="20230211054500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211054500 +0000" stop="20230211061000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211061000 +0000" stop="20230211063000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211063000 +0000" stop="20230211065500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211065500 +0000" stop="20230211071500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211071500 +0000" stop="20230211074000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211074000 +0000" stop="20230211080000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211080000 +0000" stop="20230211082500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211082500 +0000" stop="20230211084500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230211084500 +0000" stop="20230211095500 +0000" channel="Food Network HD">
+    <title lang="pt">Tournament Of Champions</title>
+  </programme>
+  <programme start="20230211095500 +0000" stop="20230211104000 +0000" channel="Food Network HD">
+    <title lang="pt">Tournament Of Champions</title>
+  </programme>
+  <programme start="20230211104000 +0000" stop="20230211112500 +0000" channel="Food Network HD">
+    <title lang="pt">Tournament Of Champions</title>
+  </programme>
+  <programme start="20230211112500 +0000" stop="20230211121000 +0000" channel="Food Network HD">
+    <title lang="pt">Tournament Of Champions</title>
+  </programme>
+  <programme start="20230211121000 +0000" stop="20230211131500 +0000" channel="Food Network HD">
+    <title lang="pt">Tournament Of Champions</title>
+  </programme>
+  <programme start="20230211131500 +0000" stop="20230211134000 +0000" channel="Food Network HD">
+    <title lang="pt">Tia Mowry At Home</title>
+  </programme>
+  <programme start="20230211134000 +0000" stop="20230211142500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230211142500 +0000" stop="20230211151000 +0000" channel="Food Network HD">
+    <title lang="pt">Flay V. Symon V. Jackson</title>
+  </programme>
+  <programme start="20230211151000 +0000" stop="20230211155500 +0000" channel="Food Network HD">
+    <title lang="pt">No-Recipe Road Trip With The Try Guys</title>
+  </programme>
+  <programme start="20230211155500 +0000" stop="20230211164000 +0000" channel="Food Network HD">
+    <title lang="pt">Supermarket Stakeout</title>
+  </programme>
+  <programme start="20230211164000 +0000" stop="20230211172500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230211172500 +0000" stop="20230211174500 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230211174500 +0000" stop="20230211180500 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230211180500 +0000" stop="20230211185000 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
+  </programme>
+  <programme start="20230211185000 +0000" stop="20230211193500 +0000" channel="Food Network HD">
+    <title lang="pt">Winner Cake All</title>
+  </programme>
+  <programme start="20230211193500 +0000" stop="20230211202000 +0000" channel="Food Network HD">
+    <title lang="pt">Supermarket Stakeout</title>
+  </programme>
+  <programme start="20230211202000 +0000" stop="20230211210500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230211210500 +0000" stop="20230211215000 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230211215000 +0000" stop="20230211223500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230211223500 +0000" stop="20230211232000 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230211232000 +0000" stop="20230212000500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230212000500 +0000" stop="20230212002500 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230212002500 +0000" stop="20230212005000 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230212005000 +0000" stop="20230212011000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212011000 +0000" stop="20230212013500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212013500 +0000" stop="20230212015500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212015500 +0000" stop="20230212022000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212022000 +0000" stop="20230212024000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212024000 +0000" stop="20230212030500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212030500 +0000" stop="20230212032500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212032500 +0000" stop="20230212035000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212035000 +0000" stop="20230212041000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212041000 +0000" stop="20230212043500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212043500 +0000" stop="20230212050000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212050000 +0000" stop="20230212052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212052500 +0000" stop="20230212061000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230212061000 +0000" stop="20230212065500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230212065500 +0000" stop="20230212074000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230212074000 +0000" stop="20230212082500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230212082500 +0000" stop="20230212091000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230212091000 +0000" stop="20230212093000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212093000 +0000" stop="20230212095500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212095500 +0000" stop="20230212101500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212101500 +0000" stop="20230212104000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212104000 +0000" stop="20230212110000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212110000 +0000" stop="20230212112500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212112500 +0000" stop="20230212114500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212114500 +0000" stop="20230212121000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212121000 +0000" stop="20230212123000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212123000 +0000" stop="20230212125500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230212125500 +0000" stop="20230212131500 +0000" channel="Food Network HD">
+    <title lang="pt">Tia Mowry At Home</title>
+  </programme>
+  <programme start="20230212131500 +0000" stop="20230212134000 +0000" channel="Food Network HD">
+    <title lang="pt">Tia Mowry at Home</title>
+  </programme>
+  <programme start="20230212134000 +0000" stop="20230212142500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped Junior</title>
+  </programme>
+  <programme start="20230212142500 +0000" stop="20230212144500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212144500 +0000" stop="20230212151000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230212151000 +0000" stop="20230212153000 +0000" channel="Food Network HD">
+    <title lang="pt">Trisha</title>
+  </programme>
+  <programme start="20230212153000 +0000" stop="20230212155500 +0000" channel="Food Network HD">
+    <title lang="pt">Trisha</title>
+  </programme>
+  <programme start="20230212155500 +0000" stop="20230212164000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230212164000 +0000" stop="20230212172500 +0000" channel="Food Network HD">
+    <title lang="pt">Best Baker In America</title>
+  </programme>
+  <programme start="20230212172500 +0000" stop="20230212174500 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230212174500 +0000" stop="20230212180500 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230212180500 +0000" stop="20230212185000 +0000" channel="Food Network HD">
+    <title lang="pt">The Great Food Truck Race</title>
+  </programme>
+  <programme start="20230212185000 +0000" stop="20230212193500 +0000" channel="Food Network HD">
+    <title lang="pt">Cake Boss: Next Great Baker</title>
+  </programme>
+  <programme start="20230212193500 +0000" stop="20230212202000 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
+  </programme>
+  <programme start="20230212202000 +0000" stop="20230212210500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230212210500 +0000" stop="20230212215000 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230212215000 +0000" stop="20230212223500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230212223500 +0000" stop="20230212232000 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230212232000 +0000" stop="20230213000500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230213000500 +0000" stop="20230213002500 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230213002500 +0000" stop="20230213005000 +0000" channel="Food Network HD">
+    <title lang="pt">Baked in Vermont</title>
+  </programme>
+  <programme start="20230213005000 +0000" stop="20230213011000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213011000 +0000" stop="20230213013500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213013500 +0000" stop="20230213015500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213015500 +0000" stop="20230213022000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213022000 +0000" stop="20230213024000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213024000 +0000" stop="20230213030500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213030500 +0000" stop="20230213032500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213032500 +0000" stop="20230213035000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213035000 +0000" stop="20230213041000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213041000 +0000" stop="20230213043500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213043500 +0000" stop="20230213050000 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230213050000 +0000" stop="20230213052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230213052500 +0000" stop="20230213061000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230213061000 +0000" stop="20230213063000 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
+  </programme>
+  <programme start="20230213063000 +0000" stop="20230213065500 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
+  </programme>
+  <programme start="20230213065500 +0000" stop="20230213071500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230213071500 +0000" stop="20230213074000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230213074000 +0000" stop="20230213082500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
+  </programme>
+  <programme start="20230213082500 +0000" stop="20230213084500 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
+  </programme>
+  <programme start="20230213084500 +0000" stop="20230213091000 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
+  </programme>
+  <programme start="20230213091000 +0000" stop="20230213093000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230213093000 +0000" stop="20230213095500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230213095500 +0000" stop="20230213104000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230213104000 +0000" stop="20230213112500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
+  </programme>
+  <programme start="20230213112500 +0000" stop="20230213114500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213114500 +0000" stop="20230213121000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230213121000 +0000" stop="20230213125500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230213125500 +0000" stop="20230213131500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230213131500 +0000" stop="20230213140000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230213140000 +0000" stop="20230213144500 +0000" channel="Food Network HD">
+    <title lang="pt">It</title>
+  </programme>
+  <programme start="20230213144500 +0000" stop="20230213155500 +0000" channel="Food Network HD">
+    <title lang="pt">Candy Land</title>
+  </programme>
+  <programme start="20230213155500 +0000" stop="20230213164000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230213164000 +0000" stop="20230213172500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230213172500 +0000" stop="20230213180500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230213180500 +0000" stop="20230213185000 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230213185000 +0000" stop="20230213193500 +0000" channel="Food Network HD">
+    <title lang="pt">Flay V. Symon V. Jackson</title>
+  </programme>
+  <programme start="20230213193500 +0000" stop="20230213202000 +0000" channel="Food Network HD">
+    <title lang="pt">It</title>
+  </programme>
+  <programme start="20230213202000 +0000" stop="20230213210500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230213210500 +0000" stop="20230213215000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230213215000 +0000" stop="20230213223500 +0000" channel="Food Network HD">
+    <title lang="pt">Best Baker In America</title>
+  </programme>
+  <programme start="20230213223500 +0000" stop="20230213232000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230213232000 +0000" stop="20230214000500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
+  </programme>
+  <programme start="20230214000500 +0000" stop="20230214002500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230214002500 +0000" stop="20230214005000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230214005000 +0000" stop="20230214013500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230214013500 +0000" stop="20230214022000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230214022000 +0000" stop="20230214030500 +0000" channel="Food Network HD">
+    <title lang="pt">It</title>
+  </programme>
+  <programme start="20230214030500 +0000" stop="20230214041500 +0000" channel="Food Network HD">
+    <title lang="pt">Candy Land</title>
+  </programme>
+  <programme start="20230214041500 +0000" stop="20230214050000 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230214050000 +0000" stop="20230214052500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods: Delicious Destinations</title>
+  </programme>
+  <programme start="20230214052500 +0000" stop="20230214061000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230214061000 +0000" stop="20230214063000 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
+  </programme>
+  <programme start="20230214063000 +0000" stop="20230214065500 +0000" channel="Food Network HD">
+    <title lang="pt">Girl Meets Farm</title>
+  </programme>
+  <programme start="20230214065500 +0000" stop="20230214071500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230214071500 +0000" stop="20230214074000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230214074000 +0000" stop="20230214082500 +0000" channel="Food Network HD">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
+  </programme>
+  <programme start="20230214082500 +0000" stop="20230214084500 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
+  </programme>
+  <programme start="20230214084500 +0000" stop="20230214091000 +0000" channel="Food Network HD">
+    <title lang="pt">Bobby Flay</title>
+  </programme>
+  <programme start="20230214091000 +0000" stop="20230214093000 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230214093000 +0000" stop="20230214095500 +0000" channel="Food Network HD">
+    <title lang="pt">Giada at Home</title>
+  </programme>
+  <programme start="20230214095500 +0000" stop="20230214104000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230214104000 +0000" stop="20230214112500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
+  </programme>
+  <programme start="20230214112500 +0000" stop="20230214114500 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230214114500 +0000" stop="20230214121000 +0000" channel="Food Network HD">
+    <title lang="pt">Diners, Drive-Ins, And Dives</title>
+  </programme>
+  <programme start="20230214121000 +0000" stop="20230214125500 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230214125500 +0000" stop="20230214131500 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230214131500 +0000" stop="20230214134000 +0000" channel="Food Network HD">
+    <title lang="pt">The Pioneer Woman</title>
+  </programme>
+  <programme start="20230214134000 +0000" stop="20230214142500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230214142500 +0000" stop="20230214151000 +0000" channel="Food Network HD">
+    <title lang="pt">It</title>
+  </programme>
+  <programme start="20230214151000 +0000" stop="20230214155500 +0000" channel="Food Network HD">
+    <title lang="pt">Candy Land</title>
+  </programme>
+  <programme start="20230214155500 +0000" stop="20230214164000 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230214164000 +0000" stop="20230214172500 +0000" channel="Food Network HD">
+    <title lang="pt">The Kitchen</title>
+  </programme>
+  <programme start="20230214172500 +0000" stop="20230214180500 +0000" channel="Food Network HD">
+    <title lang="pt">Guy</title>
+  </programme>
+  <programme start="20230214180500 +0000" stop="20230214185000 +0000" channel="Food Network HD">
+    <title lang="pt">No-Recipe Road Trip With The Try Guys</title>
+  </programme>
+  <programme start="20230214185000 +0000" stop="20230214193500 +0000" channel="Food Network HD">
+    <title lang="pt">Supermarket Stakeout</title>
+  </programme>
+  <programme start="20230214193500 +0000" stop="20230214202000 +0000" channel="Food Network HD">
+    <title lang="pt">It</title>
+  </programme>
+  <programme start="20230214202000 +0000" stop="20230214210500 +0000" channel="Food Network HD">
+    <title lang="pt">Chopped</title>
+  </programme>
+  <programme start="20230214210500 +0000" stop="20230214215000 +0000" channel="Food Network HD">
+    <title lang="pt">Cutthroat Kitchen</title>
+  </programme>
+  <programme start="20230214215000 +0000" stop="20230214223500 +0000" channel="Food Network HD">
+    <title lang="pt">Flay V. Symon V. Jackson</title>
+  </programme>
+  <programme start="20230214223500 +0000" stop="20230214232000 +0000" channel="Food Network HD">
+    <title lang="pt">Kids Baking Championship</title>
+  </programme>
+  <programme start="20230214232000 +0000" stop="20230215000500 +0000" channel="Food Network HD">
+    <title lang="pt">Restaurant: Impossible</title>
   </programme>
 </tv>
