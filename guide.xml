@@ -4,7 +4,7 @@
     <display-name lang="pt">SIC HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20230209003000 +0000" stop="20230209011000 +0000" channel="SIC">
+  <programme start="20230208003000 +0000" stop="20230208011000 +0000" channel="SIC">
     <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
   <programme start="20230209011000 +0000" stop="20230209020500 +0000" channel="SIC">
