@@ -4,13 +4,13 @@
     <display-name lang="pt">Food Network HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20230208000500 +0000" stop="20230208002500 +0000" channel="Food Network HD">
+  <programme start="20230207000500 +0000" stop="20230207002500 +0000" channel="Food Network HD">
     <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230208002500 +0000" stop="20230208005000 +0000" channel="Food Network HD">
+  <programme start="20230207002500 +0000" stop="20230207005000 +0000" channel="Food Network HD">
     <title lang="pt">Diners, Drive-Ins And Dives</title>
   </programme>
-  <programme start="20230208005000 +0000" stop="20230208013500 +0000" channel="Food Network HD">
+  <programme start="20230207005000 +0000" stop="20230207013500 +0000" channel="Food Network HD">
     <title lang="pt">Cutthroat Kitchen</title>
   </programme>
   <programme start="20230208013500 +0000" stop="20230208022000 +0000" channel="Food Network HD">
