@@ -1,1309 +1,412 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RTP 2">
-    <display-name lang="pt">RTP 2</display-name>
+  <channel id="SIC">
+    <display-name lang="pt">SIC HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20230207005000 +0000" stop="20230207011800 +0000" channel="RTP 2">
-    <title lang="pt">Eurodeputados</title>
+  <programme start="20230209003000 +0000" stop="20230209011000 +0000" channel="SIC">
+    <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
-  <programme start="20230207011800 +0000" stop="20230207012400 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230209011000 +0000" stop="20230209020500 +0000" channel="SIC">
+    <title lang="pt">Pantanal</title>
   </programme>
-  <programme start="20230208012400 +0000" stop="20230208022700 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
+  <programme start="20230209020500 +0000" stop="20230209031000 +0000" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230206022700 +0000" stop="20230206025700 +0000" channel="RTP 2">
-    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+  <programme start="20230209031000 +0000" stop="20230209035500 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor? - Edição da Noite</title>
   </programme>
-  <programme start="20230209025700 +0000" stop="20230209033900 +0000" channel="RTP 2">
-    <title lang="pt">Os Mistérios de Frankie Drake</title>
+  <programme start="20230209035500 +0000" stop="20230209044000 +0000" channel="SIC">
+    <title lang="pt">Investigação Criminal</title>
   </programme>
-  <programme start="20230209033900 +0000" stop="20230209034500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230209044000 +0000" stop="20230209053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230209034500 +0000" stop="20230209043400 +0000" channel="RTP 2">
-    <title lang="pt">Possessões</title>
+  <programme start="20230209053000 +0000" stop="20230209060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230209043400 +0000" stop="20230209052200 +0000" channel="RTP 2">
-    <title lang="pt">Festival Jovens Músicos 2020 - Especial Mozart</title>
+  <programme start="20230209060000 +0000" stop="20230209083000 +0000" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
   </programme>
-  <programme start="20230209052200 +0000" stop="20230209063200 +0000" channel="RTP 2">
-    <title lang="pt">Renova</title>
+  <programme start="20230209083000 +0000" stop="20230209100000 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20230209063200 +0000" stop="20230209070200 +0000" channel="RTP 2">
-    <title lang="pt">Repórter África - 2ª Edição</title>
+  <programme start="20230209100000 +0000" stop="20230209130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20230209070200 +0000" stop="20230209071600 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
+  <programme start="20230209130000 +0000" stop="20230209150000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230209071600 +0000" stop="20230209072700 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
+  <programme start="20230209150000 +0000" stop="20230209160000 +0000" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20230209072700 +0000" stop="20230209073500 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
+  <programme start="20230209160000 +0000" stop="20230209180000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
-  <programme start="20230209073500 +0000" stop="20230209074000 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
+  <programme start="20230209180000 +0000" stop="20230209190000 +0000" channel="SIC">
+    <title lang="pt">Cheias de Charme</title>
   </programme>
-  <programme start="20230209074000 +0000" stop="20230209074500 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
+  <programme start="20230209190000 +0000" stop="20230209200000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230209074500 +0000" stop="20230209075200 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
+  <programme start="20230209200000 +0000" stop="20230209214500 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230209075200 +0000" stop="20230209080400 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
+  <programme start="20230206214500 +0000" stop="20230206223000 +0000" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
   </programme>
-  <programme start="20230209080400 +0000" stop="20230209081800 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
+  <programme start="20230206223000 +0000" stop="20230206231500 +0000" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
   </programme>
-  <programme start="20230209081800 +0000" stop="20230209083300 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
+  <programme start="20230209231500 +0000" stop="20230209234500 +0000" channel="SIC">
+    <title lang="pt">Por Ti</title>
   </programme>
-  <programme start="20230209083300 +0000" stop="20230209084400 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
+  <programme start="20230209234500 +0000" stop="20230210003000 +0000" channel="SIC">
+    <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
-  <programme start="20230209084400 +0000" stop="20230209085100 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
+  <programme start="20230210003000 +0000" stop="20230210011500 +0000" channel="SIC">
+    <title lang="pt">Pantanal</title>
   </programme>
-  <programme start="20230209085100 +0000" stop="20230209090400 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
+  <programme start="20230210011500 +0000" stop="20230210020000 +0000" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230209090400 +0000" stop="20230209091500 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
+  <programme start="20230210020000 +0000" stop="20230210024500 +0000" channel="SIC">
+    <title lang="pt">Original É a Cultura</title>
   </programme>
-  <programme start="20230209091500 +0000" stop="20230209092300 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
+  <programme start="20230210024500 +0000" stop="20230210030000 +0000" channel="SIC">
+    <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230209092300 +0000" stop="20230209094500 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
+  <programme start="20230210030000 +0000" stop="20230210033000 +0000" channel="SIC">
+    <title lang="pt">Advnce</title>
   </programme>
-  <programme start="20230209094500 +0000" stop="20230209095200 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
+  <programme start="20230210033000 +0000" stop="20230210043000 +0000" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
   </programme>
-  <programme start="20230209095200 +0000" stop="20230209095900 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
+  <programme start="20230210043000 +0000" stop="20230210053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230209095900 +0000" stop="20230209102700 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
+  <programme start="20230210053000 +0000" stop="20230210060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230209102700 +0000" stop="20230209104800 +0000" channel="RTP 2">
-    <title lang="pt">Joga Quem Quizzer</title>
+  <programme start="20230210060000 +0000" stop="20230210083000 +0000" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
   </programme>
-  <programme start="20230209104800 +0000" stop="20230209114500 +0000" channel="RTP 2">
-    <title lang="pt">Laureano Barros, Rigoroso Refúgio</title>
+  <programme start="20230210083000 +0000" stop="20230210100000 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20230209114500 +0000" stop="20230209130400 +0000" channel="RTP 2">
-    <title lang="pt">Mães: Amor e Vida</title>
+  <programme start="20230210100000 +0000" stop="20230210130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20230209130400 +0000" stop="20230209133100 +0000" channel="RTP 2">
-    <title lang="pt">Nada Será Como Dante</title>
+  <programme start="20230210130000 +0000" stop="20230210150000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230209133100 +0000" stop="20230209140000 +0000" channel="RTP 2">
-    <title lang="pt">Sentir a Madeira</title>
+  <programme start="20230210150000 +0000" stop="20230210160000 +0000" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20230209140000 +0000" stop="20230209150500 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
+  <programme start="20230210160000 +0000" stop="20230210180000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
-  <programme start="20230209150500 +0000" stop="20230209153900 +0000" channel="RTP 2">
-    <title lang="pt">A Fé dos Homens</title>
+  <programme start="20230210180000 +0000" stop="20230210190000 +0000" channel="SIC">
+    <title lang="pt">Cheias de Charme</title>
   </programme>
-  <programme start="20230209153900 +0000" stop="20230209161200 +0000" channel="RTP 2">
-    <title lang="pt">Elogio da Paixão</title>
+  <programme start="20230210190000 +0000" stop="20230210200000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230209161200 +0000" stop="20230209170600 +0000" channel="RTP 2">
-    <title lang="pt">O Exército dos Marabus: Mulheres em Luta pelos Hargila</title>
+  <programme start="20230210200000 +0000" stop="20230210214500 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230209170600 +0000" stop="20230209171600 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
+  <programme start="20230210214500 +0000" stop="20230210223000 +0000" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
   </programme>
-  <programme start="20230209171600 +0000" stop="20230209172100 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
+  <programme start="20230205223000 +0000" stop="20230205231500 +0000" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
   </programme>
-  <programme start="20230209172100 +0000" stop="20230209172800 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
+  <programme start="20230210231500 +0000" stop="20230210234500 +0000" channel="SIC">
+    <title lang="pt">Por Ti</title>
   </programme>
-  <programme start="20230209172800 +0000" stop="20230209175000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
+  <programme start="20230210234500 +0000" stop="20230211003000 +0000" channel="SIC">
+    <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
-  <programme start="20230209175000 +0000" stop="20230209180100 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
+  <programme start="20230211003000 +0000" stop="20230211011500 +0000" channel="SIC">
+    <title lang="pt">Pantanal</title>
   </programme>
-  <programme start="20230209180100 +0000" stop="20230209181300 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
+  <programme start="20230211011500 +0000" stop="20230211024500 +0000" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230209181300 +0000" stop="20230209182400 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
+  <programme start="20230211024500 +0000" stop="20230211033000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230209182400 +0000" stop="20230209183600 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
+  <programme start="20230211033000 +0000" stop="20230211043000 +0000" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
   </programme>
-  <programme start="20230209183600 +0000" stop="20230209184800 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
+  <programme start="20230211043000 +0000" stop="20230211053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230209184800 +0000" stop="20230209190200 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
+  <programme start="20230211053000 +0000" stop="20230211060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230209190200 +0000" stop="20230209191200 +0000" channel="RTP 2">
-    <title lang="pt">O Corpo Humano</title>
+  <programme start="20230211060000 +0000" stop="20230211064500 +0000" channel="SIC">
+    <title lang="pt">Etnias</title>
   </programme>
-  <programme start="20230209191200 +0000" stop="20230209192300 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
+  <programme start="20230211064500 +0000" stop="20230211070000 +0000" channel="SIC">
+    <title lang="pt">As Aventuras do Max: O Início</title>
   </programme>
-  <programme start="20230209192300 +0000" stop="20230209193400 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
+  <programme start="20230211070000 +0000" stop="20230211071500 +0000" channel="SIC">
+    <title lang="pt">As Aventuras do Max: O Início</title>
   </programme>
-  <programme start="20230209193400 +0000" stop="20230209194100 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
+  <programme start="20230211071500 +0000" stop="20230211080000 +0000" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
   </programme>
-  <programme start="20230209194100 +0000" stop="20230209200700 +0000" channel="RTP 2">
-    <title lang="pt">As Aventuras de Ladybug</title>
+  <programme start="20230211080000 +0000" stop="20230211083000 +0000" channel="SIC">
+    <title lang="pt">Médico da Casa</title>
   </programme>
-  <programme start="20230209200700 +0000" stop="20230209203200 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... A Vida</title>
+  <programme start="20230211083000 +0000" stop="20230211090000 +0000" channel="SIC">
+    <title lang="pt">Médico da Casa</title>
   </programme>
-  <programme start="20230209203200 +0000" stop="20230209203700 +0000" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
+  <programme start="20230211090000 +0000" stop="20230211100000 +0000" channel="SIC">
+    <title lang="pt">Não Há Crise!</title>
   </programme>
-  <programme start="20230209203700 +0000" stop="20230209213000 +0000" channel="RTP 2">
-    <title lang="pt">Nos Bastidores da História</title>
+  <programme start="20230211100000 +0000" stop="20230211120000 +0000" channel="SIC">
+    <title lang="pt">Alô Marco Paulo</title>
   </programme>
-  <programme start="20230209213000 +0000" stop="20230209220100 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
+  <programme start="20230211120000 +0000" stop="20230211130000 +0000" channel="SIC">
+    <title lang="pt">Nosso Mundo</title>
   </programme>
-  <programme start="20230209220100 +0000" stop="20230209225100 +0000" channel="RTP 2">
-    <title lang="pt">Abrigo</title>
+  <programme start="20230211130000 +0000" stop="20230211141500 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230209225100 +0000" stop="20230209225900 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230211141500 +0000" stop="20230211150000 +0000" channel="SIC">
+    <title lang="pt">Alta Definição</title>
   </programme>
-  <programme start="20230209225900 +0000" stop="20230209232700 +0000" channel="RTP 2">
-    <title lang="pt">Duplas à Portuguesa</title>
+  <programme start="20230211150000 +0000" stop="20230211160000 +0000" channel="SIC">
+    <title lang="pt">E-Especial</title>
   </programme>
-  <programme start="20230209232700 +0000" stop="20230210001900 +0000" channel="RTP 2">
-    <title lang="pt">A Prisão dos Padres</title>
+  <programme start="20230211160000 +0000" stop="20230211194500 +0000" channel="SIC">
+    <title lang="pt">Caixa Mágica</title>
   </programme>
-  <programme start="20230210001900 +0000" stop="20230210002600 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230211194500 +0000" stop="20230211200000 +0000" channel="SIC">
+    <title lang="pt">É Bom Vivermos Juntos</title>
   </programme>
-  <programme start="20230210002600 +0000" stop="20230210013100 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
+  <programme start="20230211200000 +0000" stop="20230211214500 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230210013100 +0000" stop="20230210030200 +0000" channel="RTP 2">
-    <title lang="pt">Camarada Presidente</title>
+  <programme start="20230211214500 +0000" stop="20230211233000 +0000" channel="SIC">
+    <title lang="pt">All You Need Is Love</title>
   </programme>
-  <programme start="20230210030200 +0000" stop="20230210034600 +0000" channel="RTP 2">
-    <title lang="pt">Os Mistérios de Frankie Drake</title>
+  <programme start="20230211233000 +0000" stop="20230212011500 +0000" channel="SIC">
+    <title lang="pt">A Definir</title>
   </programme>
-  <programme start="20230210034600 +0000" stop="20230210043300 +0000" channel="RTP 2">
-    <title lang="pt">Possessões</title>
+  <programme start="20230212011500 +0000" stop="20230212040000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210043300 +0000" stop="20230210054200 +0000" channel="RTP 2">
-    <title lang="pt">Orquestra Gulbenkian - Lisboa na Rua 2020</title>
+  <programme start="20230212040000 +0000" stop="20230212053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230210054200 +0000" stop="20230210063200 +0000" channel="RTP 2">
-    <title lang="pt">Darts Of Pleasure: Franz Ferdinand ao Vivo na BBC</title>
+  <programme start="20230212053000 +0000" stop="20230212063000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230210063200 +0000" stop="20230210070200 +0000" channel="RTP 2">
-    <title lang="pt">Repórter África - 2ª Edição</title>
+  <programme start="20230212063000 +0000" stop="20230212080000 +0000" channel="SIC">
+    <title lang="pt">Homem-Aranha: No Universo Aranha</title>
   </programme>
-  <programme start="20230210070200 +0000" stop="20230210071600 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
+  <programme start="20230212080000 +0000" stop="20230212083000 +0000" channel="SIC">
+    <title lang="pt">Não Há Crise! - As Anedotas do Rocha</title>
   </programme>
-  <programme start="20230210071600 +0000" stop="20230210072700 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
+  <programme start="20230212083000 +0000" stop="20230212090000 +0000" channel="SIC">
+    <title lang="pt">Não Há Crise! - As Anedotas do Rocha</title>
   </programme>
-  <programme start="20230210072700 +0000" stop="20230210073400 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
+  <programme start="20230212090000 +0000" stop="20230212120000 +0000" channel="SIC">
+    <title lang="pt">Olhá SIC!</title>
   </programme>
-  <programme start="20230210073400 +0000" stop="20230210073900 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
+  <programme start="20230212120000 +0000" stop="20230212130000 +0000" channel="SIC">
+    <title lang="pt">Vida Selvagem</title>
   </programme>
-  <programme start="20230210073900 +0000" stop="20230210074500 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
+  <programme start="20230212130000 +0000" stop="20230212141500 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230210074500 +0000" stop="20230210075200 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
+  <programme start="20230212141500 +0000" stop="20230212150000 +0000" channel="SIC">
+    <title lang="pt">Fama Show</title>
   </programme>
-  <programme start="20230210075200 +0000" stop="20230210080300 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
+  <programme start="20230212150000 +0000" stop="20230212200000 +0000" channel="SIC">
+    <title lang="pt">Domingão</title>
   </programme>
-  <programme start="20230210080300 +0000" stop="20230210081400 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
+  <programme start="20230212200000 +0000" stop="20230212213000 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230210081400 +0000" stop="20230210083000 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
+  <programme start="20230212213000 +0000" stop="20230212221500 +0000" channel="SIC">
+    <title lang="pt">Isto É Gozar Com Quem Trabalha</title>
   </programme>
-  <programme start="20230210083000 +0000" stop="20230210084100 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
+  <programme start="20230212221500 +0000" stop="20230213010000 +0000" channel="SIC">
+    <title lang="pt">Vale Tudo</title>
   </programme>
-  <programme start="20230210084100 +0000" stop="20230210084800 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
+  <programme start="20230213010000 +0000" stop="20230213021500 +0000" channel="SIC">
+    <title lang="pt">Não Há Crise!</title>
   </programme>
-  <programme start="20230210084800 +0000" stop="20230210090100 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
+  <programme start="20230213021500 +0000" stop="20230213041500 +0000" channel="SIC">
+    <title lang="pt">Levanta-te e Ri 2019</title>
   </programme>
-  <programme start="20230210090100 +0000" stop="20230210091200 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
+  <programme start="20230213041500 +0000" stop="20230213053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230210091200 +0000" stop="20230210091900 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
+  <programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230210091900 +0000" stop="20230210094200 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
+  <programme start="20230213060000 +0000" stop="20230213083000 +0000" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
   </programme>
-  <programme start="20230210094200 +0000" stop="20230210094900 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
+  <programme start="20230213083000 +0000" stop="20230213100000 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20230210094900 +0000" stop="20230210095600 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
+  <programme start="20230213100000 +0000" stop="20230213130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20230210095600 +0000" stop="20230210102300 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
+  <programme start="20230213130000 +0000" stop="20230213150000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230210102300 +0000" stop="20230210104600 +0000" channel="RTP 2">
-    <title lang="pt">Joga Quem Quizzer</title>
+  <programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20230210104600 +0000" stop="20230210114200 +0000" channel="RTP 2">
-    <title lang="pt">O Pão que o Diabo Amassou</title>
+  <programme start="20230213160000 +0000" stop="20230213180000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
-  <programme start="20230210114200 +0000" stop="20230210125600 +0000" channel="RTP 2">
-    <title lang="pt">Mães: Amor e Vida</title>
+  <programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="SIC">
+    <title lang="pt">Cheias de Charme</title>
   </programme>
-  <programme start="20230210125600 +0000" stop="20230210132400 +0000" channel="RTP 2">
-    <title lang="pt">Biosfera</title>
+  <programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210132400 +0000" stop="20230210135400 +0000" channel="RTP 2">
-    <title lang="pt">Sentir a Madeira</title>
+  <programme start="20230213200000 +0000" stop="20230213214500 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230210135400 +0000" stop="20230210140000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230213214500 +0000" stop="20230213223000 +0000" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
   </programme>
-  <programme start="20230210140000 +0000" stop="20230210150500 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
+  <programme start="20230213223000 +0000" stop="20230213231500 +0000" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
   </programme>
-  <programme start="20230210150500 +0000" stop="20230210153700 +0000" channel="RTP 2">
-    <title lang="pt">A Fé dos Homens</title>
+  <programme start="20230213231500 +0000" stop="20230213234500 +0000" channel="SIC">
+    <title lang="pt">Por Ti</title>
   </programme>
-  <programme start="20230210153700 +0000" stop="20230210161000 +0000" channel="RTP 2">
-    <title lang="pt">Elogio da Paixão</title>
+  <programme start="20230213234500 +0000" stop="20230214003000 +0000" channel="SIC">
+    <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
-  <programme start="20230210161000 +0000" stop="20230210170400 +0000" channel="RTP 2">
-    <title lang="pt">O Regresso à Natureza</title>
+  <programme start="20230214003000 +0000" stop="20230214011500 +0000" channel="SIC">
+    <title lang="pt">Pantanal</title>
   </programme>
-  <programme start="20230210170400 +0000" stop="20230210171400 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
+  <programme start="20230214011500 +0000" stop="20230214024500 +0000" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230210171400 +0000" stop="20230210171900 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
+  <programme start="20230214024500 +0000" stop="20230214033000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210171900 +0000" stop="20230210172700 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
+  <programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
   </programme>
-  <programme start="20230210172700 +0000" stop="20230210174900 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
+  <programme start="20230214043000 +0000" stop="20230214053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230210174900 +0000" stop="20230210180100 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
+  <programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230210180100 +0000" stop="20230210181200 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
+  <programme start="20230214060000 +0000" stop="20230214083000 +0000" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
   </programme>
-  <programme start="20230210181200 +0000" stop="20230210182300 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
+  <programme start="20230214083000 +0000" stop="20230214100000 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20230210182300 +0000" stop="20230210183400 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
+  <programme start="20230214100000 +0000" stop="20230214130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20230210183400 +0000" stop="20230210184700 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
+  <programme start="20230214130000 +0000" stop="20230214150000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230210184700 +0000" stop="20230210190000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
+  <programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20230210190000 +0000" stop="20230210191000 +0000" channel="RTP 2">
-    <title lang="pt">O Corpo Humano</title>
+  <programme start="20230214160000 +0000" stop="20230214180000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
-  <programme start="20230210191000 +0000" stop="20230210192100 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
+  <programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="SIC">
+    <title lang="pt">Cheias de Charme</title>
   </programme>
-  <programme start="20230210192100 +0000" stop="20230210193300 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
+  <programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210193300 +0000" stop="20230210194000 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
+  <programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210194000 +0000" stop="20230210200200 +0000" channel="RTP 2">
-    <title lang="pt">As Aventuras de Ladybug</title>
+  <programme start="20230214200000 +0000" stop="20230214214500 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230210200200 +0000" stop="20230210200700 +0000" channel="RTP 2">
-    <title lang="pt">DuARTe: Uma Peça de Arte</title>
+  <programme start="20230214214500 +0000" stop="20230214223000 +0000" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
   </programme>
-  <programme start="20230210200700 +0000" stop="20230210203200 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... A Vida</title>
+  <programme start="20230214223000 +0000" stop="20230214231500 +0000" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
   </programme>
-  <programme start="20230210203200 +0000" stop="20230210203700 +0000" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
+  <programme start="20230214231500 +0000" stop="20230214234500 +0000" channel="SIC">
+    <title lang="pt">Por Ti</title>
   </programme>
-  <programme start="20230210203700 +0000" stop="20230210213000 +0000" channel="RTP 2">
-    <title lang="pt">Nos Bastidores da História</title>
+  <programme start="20230214234500 +0000" stop="20230215003000 +0000" channel="SIC">
+    <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
-  <programme start="20230210213000 +0000" stop="20230210220100 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
+  <programme start="20230215003000 +0000" stop="20230215011500 +0000" channel="SIC">
+    <title lang="pt">Pantanal</title>
   </programme>
-  <programme start="20230210220100 +0000" stop="20230210224300 +0000" channel="RTP 2">
-    <title lang="pt">Abrigo</title>
+  <programme start="20230215011500 +0000" stop="20230215024500 +0000" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230210224300 +0000" stop="20230210225000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230215024500 +0000" stop="20230215030700 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210225000 +0000" stop="20230210234300 +0000" channel="RTP 2">
-    <title lang="pt">A Ascensão dos Nazis</title>
+  <programme start="20230215030700 +0000" stop="20230215033000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230210234300 +0000" stop="20230211004300 +0000" channel="RTP 2">
-    <title lang="pt">Cinemax</title>
+  <programme start="20230215033000 +0000" stop="20230215043000 +0000" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
   </programme>
-  <programme start="20230211004300 +0000" stop="20230211005000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230215043000 +0000" stop="20230215053000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230211005000 +0000" stop="20230211015500 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
+  <programme start="20230215053000 +0000" stop="20230215060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
   </programme>
-  <programme start="20230211015500 +0000" stop="20230211025200 +0000" channel="RTP 2">
-    <title lang="pt">Capitão Desconhecido</title>
+  <programme start="20230215060000 +0000" stop="20230215083000 +0000" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
   </programme>
-  <programme start="20230211025200 +0000" stop="20230211033400 +0000" channel="RTP 2">
-    <title lang="pt">Os Mistérios de Frankie Drake</title>
+  <programme start="20230215083000 +0000" stop="20230215100000 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20230211033400 +0000" stop="20230211042400 +0000" channel="RTP 2">
-    <title lang="pt">Possessões</title>
+  <programme start="20230215100000 +0000" stop="20230215130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20230211042400 +0000" stop="20230211055700 +0000" channel="RTP 2">
-    <title lang="pt">Joep Beving: Misty Fest 21</title>
+  <programme start="20230215130000 +0000" stop="20230215150000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230211055700 +0000" stop="20230211060400 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230215150000 +0000" stop="20230215160000 +0000" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20230211060400 +0000" stop="20230211063300 +0000" channel="RTP 2">
-    <title lang="pt">Três Vozes, Três Gerações</title>
+  <programme start="20230215160000 +0000" stop="20230215180000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
-  <programme start="20230211063300 +0000" stop="20230211070200 +0000" channel="RTP 2">
-    <title lang="pt">Repórter África - 2ª Edição</title>
+  <programme start="20230215180000 +0000" stop="20230215190000 +0000" channel="SIC">
+    <title lang="pt">Cheias de Charme</title>
   </programme>
-  <programme start="20230211070200 +0000" stop="20230211071500 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
+  <programme start="20230215190000 +0000" stop="20230215200000 +0000" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com o Agricultor?</title>
   </programme>
-  <programme start="20230211071500 +0000" stop="20230211072500 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
+  <programme start="20230215200000 +0000" stop="20230215214500 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20230211072500 +0000" stop="20230211073000 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
+  <programme start="20230215214500 +0000" stop="20230215223000 +0000" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
   </programme>
-  <programme start="20230211073000 +0000" stop="20230211073500 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
+  <programme start="20230215223000 +0000" stop="20230215231500 +0000" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
   </programme>
-  <programme start="20230211073500 +0000" stop="20230211074000 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
+  <programme start="20230215231500 +0000" stop="20230215234500 +0000" channel="SIC">
+    <title lang="pt">Por Ti</title>
   </programme>
-  <programme start="20230211074000 +0000" stop="20230211075000 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
-  </programme>
-  <programme start="20230211075000 +0000" stop="20230211080500 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230211080500 +0000" stop="20230211081500 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230211081500 +0000" stop="20230211082500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230211082500 +0000" stop="20230211083500 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230211083500 +0000" stop="20230211084500 +0000" channel="RTP 2">
-    <title lang="pt">Radar XS</title>
-  </programme>
-  <programme start="20230211084500 +0000" stop="20230211085500 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230211085500 +0000" stop="20230211090000 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230211090000 +0000" stop="20230211091000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230211091000 +0000" stop="20230211092000 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230211092000 +0000" stop="20230211092500 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230211092500 +0000" stop="20230211095000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230211095000 +0000" stop="20230211100000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230211100000 +0000" stop="20230211100500 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230211100500 +0000" stop="20230211103000 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
-  </programme>
-  <programme start="20230211103000 +0000" stop="20230211110000 +0000" channel="RTP 2">
-    <title lang="pt">Joga Quem Quizzer</title>
-  </programme>
-  <programme start="20230211110000 +0000" stop="20230211120000 +0000" channel="RTP 2">
-    <title lang="pt">Primeiras Entre Iguais</title>
-  </programme>
-  <programme start="20230211120000 +0000" stop="20230211130000 +0000" channel="RTP 2">
-    <title lang="pt">Mães: Amor e Vida</title>
-  </programme>
-  <programme start="20230211130000 +0000" stop="20230211133000 +0000" channel="RTP 2">
-    <title lang="pt">Esec-Tv</title>
-  </programme>
-  <programme start="20230211133000 +0000" stop="20230211135500 +0000" channel="RTP 2">
-    <title lang="pt">Universidade do Nosso Tempo</title>
-  </programme>
-  <programme start="20230211135500 +0000" stop="20230211140000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230211140000 +0000" stop="20230211150000 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
-  </programme>
-  <programme start="20230211150000 +0000" stop="20230211153000 +0000" channel="RTP 2">
-    <title lang="pt">A Fé dos Homens</title>
-  </programme>
-  <programme start="20230211153000 +0000" stop="20230211160000 +0000" channel="RTP 2">
-    <title lang="pt">Elogio da Paixão</title>
-  </programme>
-  <programme start="20230211160000 +0000" stop="20230211170100 +0000" channel="RTP 2">
-    <title lang="pt">Luta Pelas Aves</title>
-  </programme>
-  <programme start="20230211170100 +0000" stop="20230211171000 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230211171000 +0000" stop="20230211171500 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230211171500 +0000" stop="20230211172000 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
-  </programme>
-  <programme start="20230211172000 +0000" stop="20230211174000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230211174000 +0000" stop="20230211175500 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230211175500 +0000" stop="20230211180500 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230211180500 +0000" stop="20230211181500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230211181500 +0000" stop="20230211182500 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230211182500 +0000" stop="20230211183500 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230211183500 +0000" stop="20230211185000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230211185000 +0000" stop="20230211190500 +0000" channel="RTP 2">
-    <title lang="pt">O Corpo Humano</title>
-  </programme>
-  <programme start="20230211190500 +0000" stop="20230211191000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230211191000 +0000" stop="20230211192000 +0000" channel="RTP 2">
-    <title lang="pt">Radar XS</title>
-  </programme>
-  <programme start="20230211192000 +0000" stop="20230211193000 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211193500 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230211193500 +0000" stop="20230211195500 +0000" channel="RTP 2">
-    <title lang="pt">As Aventuras de Ladybug</title>
-  </programme>
-  <programme start="20230211195500 +0000" stop="20230211200000 +0000" channel="RTP 2">
-    <title lang="pt">DuARTe: Uma Peça de Arte</title>
-  </programme>
-  <programme start="20230211200000 +0000" stop="20230211202500 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
-  </programme>
-  <programme start="20230211202500 +0000" stop="20230211203000 +0000" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
-  </programme>
-  <programme start="20230211203000 +0000" stop="20230211203500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230211203500 +0000" stop="20230211213000 +0000" channel="RTP 2">
-    <title lang="pt">Quando Napoleão Provocou a Europa</title>
-  </programme>
-  <programme start="20230211213000 +0000" stop="20230211220000 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
-  </programme>
-  <programme start="20230211220000 +0000" stop="20230211224000 +0000" channel="RTP 2">
-    <title lang="pt">Abrigo</title>
-  </programme>
-  <programme start="20230211224000 +0000" stop="20230211224500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230211224500 +0000" stop="20230212001500 +0000" channel="RTP 2">
-    <title lang="pt">O Dia Seguinte</title>
-  </programme>
-  <programme start="20230212001500 +0000" stop="20230212002000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230212002000 +0000" stop="20230212012000 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
-  </programme>
-  <programme start="20230212012000 +0000" stop="20230212014500 +0000" channel="RTP 2">
-    <title lang="pt">Lisboa Azul</title>
-  </programme>
-  <programme start="20230212014500 +0000" stop="20230212023500 +0000" channel="RTP 2">
-    <title lang="pt">Pequenos Pássaros</title>
-  </programme>
-  <programme start="20230212023500 +0000" stop="20230212032500 +0000" channel="RTP 2">
-    <title lang="pt">Possessões</title>
-  </programme>
-  <programme start="20230212032500 +0000" stop="20230212053000 +0000" channel="RTP 2">
-    <title lang="pt">Na Medida do Impossível</title>
-  </programme>
-  <programme start="20230212053000 +0000" stop="20230212060000 +0000" channel="RTP 2">
-    <title lang="pt">Fundação Inatel - Uma Longa História</title>
-  </programme>
-  <programme start="20230212060000 +0000" stop="20230212063200 +0000" channel="RTP 2">
-    <title lang="pt">A Fé dos Homens</title>
-  </programme>
-  <programme start="20230212063200 +0000" stop="20230212070000 +0000" channel="RTP 2">
-    <title lang="pt">Repórter África - 2ª Edição</title>
-  </programme>
-  <programme start="20230212070000 +0000" stop="20230212080500 +0000" channel="RTP 2">
-    <title lang="pt">Nações Unidas da Dança</title>
-  </programme>
-  <programme start="20230212080500 +0000" stop="20230212082000 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230212082000 +0000" stop="20230212083000 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230212083000 +0000" stop="20230212084000 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
-  </programme>
-  <programme start="20230212084000 +0000" stop="20230212084500 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
-  </programme>
-  <programme start="20230212084500 +0000" stop="20230212085000 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
-  </programme>
-  <programme start="20230212085000 +0000" stop="20230212085500 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
-  </programme>
-  <programme start="20230212085500 +0000" stop="20230212091000 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230212091000 +0000" stop="20230212092000 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230212092000 +0000" stop="20230212093000 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230212093000 +0000" stop="20230212094000 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230212094000 +0000" stop="20230212095500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230212095500 +0000" stop="20230212100500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230212100500 +0000" stop="20230212101500 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230212101500 +0000" stop="20230212102000 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230212102000 +0000" stop="20230212103000 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230212103000 +0000" stop="20230212104000 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230212104000 +0000" stop="20230212111000 +0000" channel="RTP 2">
-    <title lang="pt">Exploradores da Natureza</title>
-  </programme>
-  <programme start="20230212111000 +0000" stop="20230212112500 +0000" channel="RTP 2">
-    <title lang="pt">A Minha Cena</title>
-  </programme>
-  <programme start="20230212112500 +0000" stop="20230212113500 +0000" channel="RTP 2">
-    <title lang="pt">Dennis e Gnasher: Os Aventureiros</title>
-  </programme>
-  <programme start="20230212113500 +0000" stop="20230212114500 +0000" channel="RTP 2">
-    <title lang="pt">Dennis e Gnasher: Os Aventureiros</title>
-  </programme>
-  <programme start="20230212114500 +0000" stop="20230212115500 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230212115500 +0000" stop="20230212120500 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230212120500 +0000" stop="20230212122000 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230212122000 +0000" stop="20230212123000 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230212123000 +0000" stop="20230212124000 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230212124000 +0000" stop="20230212124500 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230212124500 +0000" stop="20230212130000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230212130000 +0000" stop="20230212131000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230212131000 +0000" stop="20230212132000 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230212132000 +0000" stop="20230212132500 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230212132500 +0000" stop="20230212133500 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230212133500 +0000" stop="20230212134000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230212134000 +0000" stop="20230212140000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230212140000 +0000" stop="20230212143000 +0000" channel="RTP 2">
-    <title lang="pt">Herdeiros da Noite</title>
-  </programme>
-  <programme start="20230212143000 +0000" stop="20230212145500 +0000" channel="RTP 2">
-    <title lang="pt">Herdeiros da Noite</title>
-  </programme>
-  <programme start="20230212145500 +0000" stop="20230212150000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230212150000 +0000" stop="20230212170000 +0000" channel="RTP 2">
-    <title lang="pt">Desporto 2</title>
-  </programme>
-  <programme start="20230212170000 +0000" stop="20230212173000 +0000" channel="RTP 2">
-    <title lang="pt">Biosfera</title>
-  </programme>
-  <programme start="20230212173000 +0000" stop="20230212183000 +0000" channel="RTP 2">
-    <title lang="pt">Os Segredos do Big Data</title>
-  </programme>
-  <programme start="20230212183000 +0000" stop="20230212190000 +0000" channel="RTP 2">
-    <title lang="pt">Come a Sopa</title>
-  </programme>
-  <programme start="20230212190000 +0000" stop="20230212193000 +0000" channel="RTP 2">
-    <title lang="pt">Faça Chuva Faça Sol</title>
-  </programme>
-  <programme start="20230212193000 +0000" stop="20230212195500 +0000" channel="RTP 2">
-    <title lang="pt">As Nossas Plantas</title>
-  </programme>
-  <programme start="20230212195500 +0000" stop="20230212203500 +0000" channel="RTP 2">
-    <title lang="pt">Tudo Menos Clássica</title>
-  </programme>
-  <programme start="20230212203500 +0000" stop="20230212204000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230212204000 +0000" stop="20230212213000 +0000" channel="RTP 2">
-    <title lang="pt">Sankt Maik</title>
-  </programme>
-  <programme start="20230212213000 +0000" stop="20230212220000 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
-  </programme>
-  <programme start="20230212220000 +0000" stop="20230212230000 +0000" channel="RTP 2">
-    <title lang="pt">Vera Mantero</title>
-  </programme>
-  <programme start="20230212230000 +0000" stop="20230212230500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230212230500 +0000" stop="20230213003000 +0000" channel="RTP 2">
-    <title lang="pt">Axilas</title>
-  </programme>
-  <programme start="20230213003000 +0000" stop="20230213021000 +0000" channel="RTP 2">
-    <title lang="pt">Festival Jovens Músicos 2016 - Concerto Música de Câmara</title>
-  </programme>
-  <programme start="20230213021000 +0000" stop="20230213030000 +0000" channel="RTP 2">
-    <title lang="pt">Planeta A</title>
-  </programme>
-  <programme start="20230213030000 +0000" stop="20230213035000 +0000" channel="RTP 2">
-    <title lang="pt">Pequenos Pássaros</title>
-  </programme>
-  <programme start="20230213035000 +0000" stop="20230213044500 +0000" channel="RTP 2">
-    <title lang="pt">Até Que A Morte Nos Separe</title>
-  </programme>
-  <programme start="20230213044500 +0000" stop="20230213060500 +0000" channel="RTP 2">
-    <title lang="pt">Maria João Pires Toca Beethoven com Orquestra Gulbenkian</title>
-  </programme>
-  <programme start="20230213060500 +0000" stop="20230213070000 +0000" channel="RTP 2">
-    <title lang="pt">Criar Copiar Criar</title>
-  </programme>
-  <programme start="20230213070000 +0000" stop="20230213080500 +0000" channel="RTP 2">
-    <title lang="pt">Nações Unidas da Dança</title>
-  </programme>
-  <programme start="20230213080500 +0000" stop="20230213082000 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230213082000 +0000" stop="20230213083000 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230213083000 +0000" stop="20230213084000 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
-  </programme>
-  <programme start="20230213084000 +0000" stop="20230213084500 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
-  </programme>
-  <programme start="20230213084500 +0000" stop="20230213085000 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
-  </programme>
-  <programme start="20230213085000 +0000" stop="20230213085500 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
-  </programme>
-  <programme start="20230213085500 +0000" stop="20230213091000 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230213091000 +0000" stop="20230213092000 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230213092000 +0000" stop="20230213093000 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230213093000 +0000" stop="20230213094000 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230213094000 +0000" stop="20230213095500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230213095500 +0000" stop="20230213100500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230213100500 +0000" stop="20230213101500 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230213101500 +0000" stop="20230213102000 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230213102000 +0000" stop="20230213103000 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230213103000 +0000" stop="20230213104000 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230213104000 +0000" stop="20230213111000 +0000" channel="RTP 2">
-    <title lang="pt">Exploradores da Natureza</title>
-  </programme>
-  <programme start="20230213111000 +0000" stop="20230213112500 +0000" channel="RTP 2">
-    <title lang="pt">A Minha Cena</title>
-  </programme>
-  <programme start="20230213112500 +0000" stop="20230213113500 +0000" channel="RTP 2">
-    <title lang="pt">Dennis e Gnasher: Os Aventureiros</title>
-  </programme>
-  <programme start="20230213113500 +0000" stop="20230213114500 +0000" channel="RTP 2">
-    <title lang="pt">Dennis e Gnasher: Os Aventureiros</title>
-  </programme>
-  <programme start="20230213114500 +0000" stop="20230213115500 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230213115500 +0000" stop="20230213120500 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230213120500 +0000" stop="20230213122000 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230213122000 +0000" stop="20230213123000 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230213123000 +0000" stop="20230213124000 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230213124000 +0000" stop="20230213124500 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230213124500 +0000" stop="20230213130000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230213130000 +0000" stop="20230213131000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230213131000 +0000" stop="20230213132000 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230213132000 +0000" stop="20230213132500 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230213132500 +0000" stop="20230213133500 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230213133500 +0000" stop="20230213134000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230213134000 +0000" stop="20230213140000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="RTP 2">
-    <title lang="pt">Herdeiros da Noite</title>
-  </programme>
-  <programme start="20230213143000 +0000" stop="20230213145500 +0000" channel="RTP 2">
-    <title lang="pt">Herdeiros da Noite</title>
-  </programme>
-  <programme start="20230213145500 +0000" stop="20230213150000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230213150000 +0000" stop="20230213170000 +0000" channel="RTP 2">
-    <title lang="pt">Desporto 2</title>
-  </programme>
-  <programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="RTP 2">
-    <title lang="pt">Caminhos</title>
-  </programme>
-  <programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="RTP 2">
-    <title lang="pt">70x7</title>
-  </programme>
-  <programme start="20230213180000 +0000" stop="20230213180500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230213180500 +0000" stop="20230213190000 +0000" channel="RTP 2">
-    <title lang="pt">Inesquecíveis Viagens de Comboio</title>
-  </programme>
-  <programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="RTP 2">
-    <title lang="pt">Temos Programa</title>
-  </programme>
-  <programme start="20230213193000 +0000" stop="20230213202500 +0000" channel="RTP 2">
-    <title lang="pt">O Casarão</title>
-  </programme>
-  <programme start="20230213202500 +0000" stop="20230213203500 +0000" channel="RTP 2">
-    <title lang="pt">Aulas em Casa</title>
-  </programme>
-  <programme start="20230213203500 +0000" stop="20230213204000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="RTP 2">
-    <title lang="pt">Sankt Maik</title>
-  </programme>
-  <programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
-  </programme>
-  <programme start="20230213220000 +0000" stop="20230213232500 +0000" channel="RTP 2">
-    <title lang="pt">O Que Escondiam Os Seus Olhos</title>
-  </programme>
-  <programme start="20230213232500 +0000" stop="20230213233000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="RTP 2">
-    <title lang="pt">Mythos</title>
-  </programme>
-  <programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="RTP 2">
-    <title lang="pt">Festival Iminente 2022: Karol Conká</title>
-  </programme>
-  <programme start="20230214005000 +0000" stop="20230214005500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230214005500 +0000" stop="20230214011000 +0000" channel="RTP 2">
-    <title lang="pt">Voz do Cidadão</title>
-  </programme>
-  <programme start="20230214011000 +0000" stop="20230214021000 +0000" channel="RTP 2">
-    <title lang="pt">Cinemax</title>
-  </programme>
-  <programme start="20230214021000 +0000" stop="20230214030000 +0000" channel="RTP 2">
-    <title lang="pt">Pequenos Pássaros</title>
-  </programme>
-  <programme start="20230214030000 +0000" stop="20230214030500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230214030500 +0000" stop="20230214044000 +0000" channel="RTP 2">
-    <title lang="pt">Luís de Matos - Impossível: Especial Natal</title>
-  </programme>
-  <programme start="20230214044000 +0000" stop="20230214064000 +0000" channel="RTP 2">
-    <title lang="pt">Circo Dallas em Ponta Delgada</title>
-  </programme>
-  <programme start="20230214064000 +0000" stop="20230214070200 +0000" channel="RTP 2">
-    <title lang="pt">The World as a Whole</title>
-  </programme>
-  <programme start="20230214070200 +0000" stop="20230214071500 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230214071500 +0000" stop="20230214072500 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230214072500 +0000" stop="20230214073000 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
-  </programme>
-  <programme start="20230214073000 +0000" stop="20230214073500 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
-  </programme>
-  <programme start="20230214073500 +0000" stop="20230214074000 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230214074000 +0000" stop="20230214075000 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
-  </programme>
-  <programme start="20230214075000 +0000" stop="20230214080500 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230214080500 +0000" stop="20230214081500 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230214081500 +0000" stop="20230214082500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230214082500 +0000" stop="20230214083500 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230214083500 +0000" stop="20230214084500 +0000" channel="RTP 2">
-    <title lang="pt">Radar XS</title>
-  </programme>
-  <programme start="20230214084500 +0000" stop="20230214085500 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230214085500 +0000" stop="20230214090000 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230214090000 +0000" stop="20230214091000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230214091000 +0000" stop="20230214092000 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230214092000 +0000" stop="20230214092500 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230214092500 +0000" stop="20230214095000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230214095000 +0000" stop="20230214100000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230214100000 +0000" stop="20230214100500 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230214100500 +0000" stop="20230214103000 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
-  </programme>
-  <programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="RTP 2">
-    <title lang="pt">Joga Quem Quizzer</title>
-  </programme>
-  <programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="RTP 2">
-    <title lang="pt">ModaLisboa 50</title>
-  </programme>
-  <programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="RTP 2">
-    <title lang="pt">Mães: Amor e Vida</title>
-  </programme>
-  <programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="RTP 2">
-    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
-  </programme>
-  <programme start="20230214133000 +0000" stop="20230214135500 +0000" channel="RTP 2">
-    <title lang="pt">Sentir a Madeira</title>
-  </programme>
-  <programme start="20230214135500 +0000" stop="20230214140000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
-  </programme>
-  <programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="RTP 2">
-    <title lang="pt">A Fé dos Homens</title>
-  </programme>
-  <programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="RTP 2">
-    <title lang="pt">Elogio da Paixão</title>
-  </programme>
-  <programme start="20230214160000 +0000" stop="20230214170100 +0000" channel="RTP 2">
-    <title lang="pt">Panda Goes Wild</title>
-  </programme>
-  <programme start="20230214170100 +0000" stop="20230214171000 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230214171000 +0000" stop="20230214171500 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230214171500 +0000" stop="20230214172000 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
-  </programme>
-  <programme start="20230214172000 +0000" stop="20230214174000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230214174000 +0000" stop="20230214175500 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230214175500 +0000" stop="20230214180500 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230214180500 +0000" stop="20230214181500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230214181500 +0000" stop="20230214182500 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230214182500 +0000" stop="20230214183500 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230214183500 +0000" stop="20230214185000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230214185000 +0000" stop="20230214190500 +0000" channel="RTP 2">
-    <title lang="pt">O Corpo Humano</title>
-  </programme>
-  <programme start="20230214190500 +0000" stop="20230214191000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230214191000 +0000" stop="20230214192000 +0000" channel="RTP 2">
-    <title lang="pt">Radar XS</title>
-  </programme>
-  <programme start="20230214192000 +0000" stop="20230214193000 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230214193000 +0000" stop="20230214193500 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230214193500 +0000" stop="20230214195500 +0000" channel="RTP 2">
-    <title lang="pt">As Aventuras de Ladybug</title>
-  </programme>
-  <programme start="20230214195500 +0000" stop="20230214200000 +0000" channel="RTP 2">
-    <title lang="pt">DuARTe: Uma Peça de Arte</title>
-  </programme>
-  <programme start="20230214200000 +0000" stop="20230214202000 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
-  </programme>
-  <programme start="20230214202000 +0000" stop="20230214202500 +0000" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
-  </programme>
-  <programme start="20230214202500 +0000" stop="20230214203000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230214203000 +0000" stop="20230214212500 +0000" channel="RTP 2">
-    <title lang="pt">Bósnia e Herzegovina</title>
-  </programme>
-  <programme start="20230214212500 +0000" stop="20230214213000 +0000" channel="RTP 2">
-    <title lang="pt">Hora da Sorte: Lotaria Nacional</title>
-  </programme>
-  <programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
-  </programme>
-  <programme start="20230214220000 +0000" stop="20230214225000 +0000" channel="RTP 2">
-    <title lang="pt">Abrigo</title>
-  </programme>
-  <programme start="20230214225000 +0000" stop="20230214225500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230214225500 +0000" stop="20230214232000 +0000" channel="RTP 2">
-    <title lang="pt">Mulheres Que Contam</title>
-  </programme>
-  <programme start="20230214232000 +0000" stop="20230215010000 +0000" channel="RTP 2">
-    <title lang="pt">Pop Aye</title>
-  </programme>
-  <programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="RTP 2">
-    <title lang="pt">Esec-Tv</title>
-  </programme>
-  <programme start="20230215013000 +0000" stop="20230215013500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230215013500 +0000" stop="20230215023500 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
-  </programme>
-  <programme start="20230215023500 +0000" stop="20230215040000 +0000" channel="RTP 2">
-    <title lang="pt">Home: O País da Ilusão</title>
-  </programme>
-  <programme start="20230215040000 +0000" stop="20230215045000 +0000" channel="RTP 2">
-    <title lang="pt">Pequenos Pássaros</title>
-  </programme>
-  <programme start="20230215045000 +0000" stop="20230215052000 +0000" channel="RTP 2">
-    <title lang="pt">Caminhos</title>
-  </programme>
-  <programme start="20230215052000 +0000" stop="20230215055000 +0000" channel="RTP 2">
-    <title lang="pt">Temos Programa</title>
-  </programme>
-  <programme start="20230215055000 +0000" stop="20230215055500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230215055500 +0000" stop="20230215060000 +0000" channel="RTP 2">
-    <title lang="pt">Afazeres do Mês</title>
-  </programme>
-  <programme start="20230215060000 +0000" stop="20230215063200 +0000" channel="RTP 2">
-    <title lang="pt">Faça Chuva Faça Sol</title>
-  </programme>
-  <programme start="20230215063200 +0000" stop="20230215070200 +0000" channel="RTP 2">
-    <title lang="pt">Repórter África - 2ª Edição</title>
-  </programme>
-  <programme start="20230215070200 +0000" stop="20230215071500 +0000" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230215071500 +0000" stop="20230215072500 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230215072500 +0000" stop="20230215073000 +0000" channel="RTP 2">
-    <title lang="pt">Momonstros</title>
-  </programme>
-  <programme start="20230215073000 +0000" stop="20230215073500 +0000" channel="RTP 2">
-    <title lang="pt">Kiri e Lou</title>
-  </programme>
-  <programme start="20230215073500 +0000" stop="20230215074000 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230215074000 +0000" stop="20230215075000 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
-  </programme>
-  <programme start="20230215075000 +0000" stop="20230215080500 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230215080500 +0000" stop="20230215081500 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230215081500 +0000" stop="20230215082500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230215082500 +0000" stop="20230215083500 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230215083500 +0000" stop="20230215084000 +0000" channel="RTP 2">
-    <title lang="pt">MathXplosion</title>
-  </programme>
-  <programme start="20230215084000 +0000" stop="20230215084500 +0000" channel="RTP 2">
-    <title lang="pt">MathXplosion</title>
-  </programme>
-  <programme start="20230215084500 +0000" stop="20230215085500 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230215085500 +0000" stop="20230215090000 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230215090000 +0000" stop="20230215091000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230215091000 +0000" stop="20230215092000 +0000" channel="RTP 2">
-    <title lang="pt">Squish</title>
-  </programme>
-  <programme start="20230215092000 +0000" stop="20230215092500 +0000" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230215092500 +0000" stop="20230215095000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230215095000 +0000" stop="20230215100000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230215100000 +0000" stop="20230215100500 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230215100500 +0000" stop="20230215103000 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
-  </programme>
-  <programme start="20230215103000 +0000" stop="20230215110000 +0000" channel="RTP 2">
-    <title lang="pt">Joga Quem Quizzer</title>
-  </programme>
-  <programme start="20230215110000 +0000" stop="20230215120000 +0000" channel="RTP 2">
-    <title lang="pt">Ensaio de Amor</title>
-  </programme>
-  <programme start="20230215120000 +0000" stop="20230215130000 +0000" channel="RTP 2">
-    <title lang="pt">Mães: Amor e Vida</title>
-  </programme>
-  <programme start="20230215130000 +0000" stop="20230215133000 +0000" channel="RTP 2">
-    <title lang="pt">Visita Guiada</title>
-  </programme>
-  <programme start="20230215133000 +0000" stop="20230215135500 +0000" channel="RTP 2">
-    <title lang="pt">Sentir a Madeira</title>
-  </programme>
-  <programme start="20230215135500 +0000" stop="20230215140000 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230215140000 +0000" stop="20230215150000 +0000" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
-  </programme>
-  <programme start="20230215150000 +0000" stop="20230215153000 +0000" channel="RTP 2">
-    <title lang="pt">A Fé dos Homens</title>
-  </programme>
-  <programme start="20230215153000 +0000" stop="20230215160000 +0000" channel="RTP 2">
-    <title lang="pt">Elogio da Paixão</title>
-  </programme>
-  <programme start="20230215160000 +0000" stop="20230215170100 +0000" channel="RTP 2">
-    <title lang="pt">Bison dEurope: Colosse des Fôrets</title>
-  </programme>
-  <programme start="20230215170100 +0000" stop="20230215171000 +0000" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230215171000 +0000" stop="20230215171500 +0000" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230215171500 +0000" stop="20230215172000 +0000" channel="RTP 2">
-    <title lang="pt">Coelhos Corajosos</title>
-  </programme>
-  <programme start="20230215172000 +0000" stop="20230215174000 +0000" channel="RTP 2">
-    <title lang="pt">Vale dos Mumins</title>
-  </programme>
-  <programme start="20230215174000 +0000" stop="20230215175500 +0000" channel="RTP 2">
-    <title lang="pt">Waffle, o Cão Maravilha</title>
-  </programme>
-  <programme start="20230215175500 +0000" stop="20230215180500 +0000" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230215180500 +0000" stop="20230215181500 +0000" channel="RTP 2">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20230215181500 +0000" stop="20230215182500 +0000" channel="RTP 2">
-    <title lang="pt">Ideiafix e os Irredutíveis</title>
-  </programme>
-  <programme start="20230215182500 +0000" stop="20230215183500 +0000" channel="RTP 2">
-    <title lang="pt">Bell e Sebastião</title>
-  </programme>
-  <programme start="20230215183500 +0000" stop="20230215185000 +0000" channel="RTP 2">
-    <title lang="pt">Luke, o Viajante no Tempo</title>
-  </programme>
-  <programme start="20230215185000 +0000" stop="20230215190500 +0000" channel="RTP 2">
-    <title lang="pt">O Corpo Humano</title>
-  </programme>
-  <programme start="20230215190500 +0000" stop="20230215191000 +0000" channel="RTP 2">
-    <title lang="pt">As Perguntas da Mily</title>
-  </programme>
-  <programme start="20230215191000 +0000" stop="20230215192000 +0000" channel="RTP 2">
-    <title lang="pt">MathXplosion</title>
-  </programme>
-  <programme start="20230215192000 +0000" stop="20230215193000 +0000" channel="RTP 2">
-    <title lang="pt">As Regras da Flora</title>
-  </programme>
-  <programme start="20230215193000 +0000" stop="20230215193500 +0000" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230215193500 +0000" stop="20230215200000 +0000" channel="RTP 2">
-    <title lang="pt">As Aventuras de Ladybug</title>
-  </programme>
-  <programme start="20230215200000 +0000" stop="20230215202500 +0000" channel="RTP 2">
-    <title lang="pt">Era Uma Vez... O Homem</title>
-  </programme>
-  <programme start="20230215202500 +0000" stop="20230215203000 +0000" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
-  </programme>
-  <programme start="20230215203000 +0000" stop="20230215203500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230215203500 +0000" stop="20230215213000 +0000" channel="RTP 2">
-    <title lang="pt">Bósnia e Herzegovina</title>
-  </programme>
-  <programme start="20230215213000 +0000" stop="20230215220000 +0000" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
-  </programme>
-  <programme start="20230215220000 +0000" stop="20230215225000 +0000" channel="RTP 2">
-    <title lang="pt">Abrigo</title>
-  </programme>
-  <programme start="20230215225000 +0000" stop="20230215225500 +0000" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230215225500 +0000" stop="20230215232500 +0000" channel="RTP 2">
-    <title lang="pt">Nada Será Como Dante</title>
-  </programme>
-  <programme start="20230215232500 +0000" stop="20230215234500 +0000" channel="RTP 2">
-    <title lang="pt">Regresso a Ítaca</title>
-  </programme>
-  <programme start="20230215234500 +0000" stop="20230216004000 +0000" channel="RTP 2">
-    <title lang="pt">Depois do Caos</title>
+  <programme start="20230215234500 +0000" stop="20230216003000 +0000" channel="SIC">
+    <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
 </tv>
