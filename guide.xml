@@ -16,6 +16,11 @@
     <display-name lang="pt">TVI HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV HD</display-name>
+    <icon src="https:/particulares/Style Library/GuiaTv_CanaisLogos/CMTV.png" />
+    <url>http://www.nos.pt</url>
+  </channel>
   <channel id="Porto Canal">
     <display-name lang="pt">Porto Canal</display-name>
     <url>http://www.nos.pt</url>
@@ -2909,6 +2914,447 @@
   </programme>
   <programme start="20230219213000 +0000" stop="20230220003000 +0000" channel="TVI HD">
     <title lang="pt">Gala de Aniversário TVI - 30 anos</title>
+  </programme>
+  <programme start="20230214003000 +0000" stop="20230214012500 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.44</title>
+  </programme>
+  <programme start="20230214012500 +0000" stop="20230214023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230214023000 +0000" stop="20230214024600 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230214024600 +0000" stop="20230214045800 +0000" channel="CMTV">
+    <title lang="pt">Pé em Riste T.23 Ep.7</title>
+  </programme>
+  <programme start="20230214045800 +0000" stop="20230214051500 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230214051500 +0000" stop="20230214054500 +0000" channel="CMTV">
+    <title lang="pt">Falar Global T.12 Ep.7</title>
+  </programme>
+  <programme start="20230214054500 +0000" stop="20230214060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230214060000 +0000" stop="20230214091500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230214091500 +0000" stop="20230214105300 +0000" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+  </programme>
+  <programme start="20230214105300 +0000" stop="20230214125300 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.45</title>
+  </programme>
+  <programme start="20230214125300 +0000" stop="20230214145300 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.45</title>
+  </programme>
+  <programme start="20230214145300 +0000" stop="20230214150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230214150800 +0000" stop="20230214163000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura T.23 Ep.32</title>
+  </programme>
+  <programme start="20230214163000 +0000" stop="20230214171800 +0000" channel="CMTV">
+    <title lang="pt">Direto CM T.23 Ep.32</title>
+  </programme>
+  <programme start="20230214171800 +0000" stop="20230214185000 +0000" channel="CMTV">
+    <title lang="pt">Mercado T.23 Ep.32</title>
+  </programme>
+  <programme start="20230214185000 +0000" stop="20230214194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+  </programme>
+  <programme start="20230214194500 +0000" stop="20230214214500 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.45</title>
+  </programme>
+  <programme start="20230214214500 +0000" stop="20230214223000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro - Champions T.23 Ep.1</title>
+  </programme>
+  <programme start="20230214223000 +0000" stop="20230215003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.38</title>
+  </programme>
+  <programme start="20230215003000 +0000" stop="20230215012500 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.45</title>
+  </programme>
+  <programme start="20230215012500 +0000" stop="20230215023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230215023000 +0000" stop="20230215025200 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230215025200 +0000" stop="20230215045800 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.38</title>
+  </programme>
+  <programme start="20230215045800 +0000" stop="20230215054500 +0000" channel="CMTV">
+    <title lang="pt">Reportagem CM T.23 Ep.5</title>
+  </programme>
+  <programme start="20230215054500 +0000" stop="20230215060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230215060000 +0000" stop="20230215091500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230215091500 +0000" stop="20230215105300 +0000" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+  </programme>
+  <programme start="20230215105300 +0000" stop="20230215125300 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.46</title>
+  </programme>
+  <programme start="20230215125300 +0000" stop="20230215145300 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.46</title>
+  </programme>
+  <programme start="20230215145300 +0000" stop="20230215150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230215150800 +0000" stop="20230215163000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura T.23 Ep.33</title>
+  </programme>
+  <programme start="20230215163000 +0000" stop="20230215171800 +0000" channel="CMTV">
+    <title lang="pt">Direto CM T.23 Ep.33</title>
+  </programme>
+  <programme start="20230215171800 +0000" stop="20230215185000 +0000" channel="CMTV">
+    <title lang="pt">Mercado T.23 Ep.33</title>
+  </programme>
+  <programme start="20230215185000 +0000" stop="20230215195500 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.46</title>
+  </programme>
+  <programme start="20230215195500 +0000" stop="20230215204500 +0000" channel="CMTV">
+    <title lang="pt">Golos T.23 Ep.18</title>
+  </programme>
+  <programme start="20230215204500 +0000" stop="20230215210000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230215210000 +0000" stop="20230215211500 +0000" channel="CMTV">
+    <title lang="pt">Golos T.23 Ep.18</title>
+  </programme>
+  <programme start="20230215211500 +0000" stop="20230215213000 +0000" channel="CMTV">
+    <title lang="pt">Jogadas Decisivas T.23 Ep.18</title>
+  </programme>
+  <programme start="20230215213000 +0000" stop="20230215214500 +0000" channel="CMTV">
+    <title lang="pt">Duelo Final T.23 Ep.18</title>
+  </programme>
+  <programme start="20230215214500 +0000" stop="20230215223000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro - Champions T.23 Ep.2</title>
+  </programme>
+  <programme start="20230215223000 +0000" stop="20230216003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.39</title>
+  </programme>
+  <programme start="20230216003000 +0000" stop="20230216012500 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.46</title>
+  </programme>
+  <programme start="20230216012500 +0000" stop="20230216023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230216023000 +0000" stop="20230216025100 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230216025100 +0000" stop="20230216045200 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.39</title>
+  </programme>
+  <programme start="20230216045200 +0000" stop="20230216051500 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230216051500 +0000" stop="20230216054500 +0000" channel="CMTV">
+    <title lang="pt">Reportagem CM T.22 Ep.33</title>
+  </programme>
+  <programme start="20230216054500 +0000" stop="20230216060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230216060000 +0000" stop="20230216091500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230216091500 +0000" stop="20230216105300 +0000" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+  </programme>
+  <programme start="20230216105300 +0000" stop="20230216125300 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.47</title>
+  </programme>
+  <programme start="20230216125300 +0000" stop="20230216145300 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.47</title>
+  </programme>
+  <programme start="20230216145300 +0000" stop="20230216150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230216150800 +0000" stop="20230216163000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura T.23 Ep.34</title>
+  </programme>
+  <programme start="20230216163000 +0000" stop="20230216171800 +0000" channel="CMTV">
+    <title lang="pt">Direto CM T.23 Ep.34</title>
+  </programme>
+  <programme start="20230216171800 +0000" stop="20230216185000 +0000" channel="CMTV">
+    <title lang="pt">Mercado T.23 Ep.34</title>
+  </programme>
+  <programme start="20230216185000 +0000" stop="20230216194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+  </programme>
+  <programme start="20230216194500 +0000" stop="20230216214500 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.47</title>
+  </programme>
+  <programme start="20230216214500 +0000" stop="20230217003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.40</title>
+  </programme>
+  <programme start="20230217003000 +0000" stop="20230217012500 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.47</title>
+  </programme>
+  <programme start="20230217012500 +0000" stop="20230217023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230217023000 +0000" stop="20230217045700 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.40</title>
+  </programme>
+  <programme start="20230217045700 +0000" stop="20230217052000 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230217052000 +0000" stop="20230217054500 +0000" channel="CMTV">
+    <title lang="pt">Sábado Viajante T.2 Ep.8</title>
+  </programme>
+  <programme start="20230217054500 +0000" stop="20230217060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230217060000 +0000" stop="20230217091500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230217091500 +0000" stop="20230217105300 +0000" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+  </programme>
+  <programme start="20230217105300 +0000" stop="20230217125300 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.48</title>
+  </programme>
+  <programme start="20230217125300 +0000" stop="20230217145300 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.48</title>
+  </programme>
+  <programme start="20230217145300 +0000" stop="20230217150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230217150800 +0000" stop="20230217163000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura T.23 Ep.35</title>
+  </programme>
+  <programme start="20230217163000 +0000" stop="20230217171800 +0000" channel="CMTV">
+    <title lang="pt">Direto CM T.23 Ep.35</title>
+  </programme>
+  <programme start="20230217171800 +0000" stop="20230217185000 +0000" channel="CMTV">
+    <title lang="pt">Mercado T.23 Ep.35</title>
+  </programme>
+  <programme start="20230217185000 +0000" stop="20230217194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+  </programme>
+  <programme start="20230217194500 +0000" stop="20230217212000 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.48</title>
+  </programme>
+  <programme start="20230217212000 +0000" stop="20230217215700 +0000" channel="CMTV">
+    <title lang="pt">Investigação Sábado T.23 Ep.6</title>
+  </programme>
+  <programme start="20230217215700 +0000" stop="20230218003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.41</title>
+  </programme>
+  <programme start="20230218003000 +0000" stop="20230218012500 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.48</title>
+  </programme>
+  <programme start="20230218012500 +0000" stop="20230218023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218023000 +0000" stop="20230218030000 +0000" channel="CMTV">
+    <title lang="pt">Doa a Quem Doer T.23 Ep.4</title>
+  </programme>
+  <programme start="20230218030000 +0000" stop="20230218032300 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230218032300 +0000" stop="20230218034500 +0000" channel="CMTV">
+    <title lang="pt">Reportagem CM T.23 Ep.6</title>
+  </programme>
+  <programme start="20230218034500 +0000" stop="20230218054500 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.41</title>
+  </programme>
+  <programme start="20230218054500 +0000" stop="20230218060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218060000 +0000" stop="20230218102000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218102000 +0000" stop="20230218103000 +0000" channel="CMTV">
+    <title lang="pt">Sábado Viajante T.2 Ep.10</title>
+  </programme>
+  <programme start="20230218103000 +0000" stop="20230218105300 +0000" channel="CMTV">
+    <title lang="pt">Aquela Máquina T.12 Ep.8</title>
+  </programme>
+  <programme start="20230218105300 +0000" stop="20230218111500 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.49</title>
+  </programme>
+  <programme start="20230218111500 +0000" stop="20230218113000 +0000" channel="CMTV">
+    <title lang="pt">Falar Global T.12 Ep.8</title>
+  </programme>
+  <programme start="20230218113000 +0000" stop="20230218115300 +0000" channel="CMTV">
+    <title lang="pt">GPS - Guia Para Sair T.23 Ep.8</title>
+  </programme>
+  <programme start="20230218115300 +0000" stop="20230218125300 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.7</title>
+  </programme>
+  <programme start="20230218125300 +0000" stop="20230218143500 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.49</title>
+  </programme>
+  <programme start="20230218143500 +0000" stop="20230218145300 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230218145300 +0000" stop="20230218150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218150800 +0000" stop="20230218153000 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230218153000 +0000" stop="20230218155300 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218155300 +0000" stop="20230218165300 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218165300 +0000" stop="20230218175300 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218175300 +0000" stop="20230218185000 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 6 Fim-De-Semana</title>
+  </programme>
+  <programme start="20230218185000 +0000" stop="20230218194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7 Fim-De-Semana</title>
+  </programme>
+  <programme start="20230218194500 +0000" stop="20230218202500 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.49</title>
+  </programme>
+  <programme start="20230218202500 +0000" stop="20230218211500 +0000" channel="CMTV">
+    <title lang="pt">Golos T.23 Ep.19</title>
+  </programme>
+  <programme start="20230218211500 +0000" stop="20230218213000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230218213000 +0000" stop="20230218214500 +0000" channel="CMTV">
+    <title lang="pt">Golos T.23 Ep.19</title>
+  </programme>
+  <programme start="20230218214500 +0000" stop="20230218220000 +0000" channel="CMTV">
+    <title lang="pt">Jogadas Decisivas T.23 Ep.19</title>
+  </programme>
+  <programme start="20230218220000 +0000" stop="20230218221500 +0000" channel="CMTV">
+    <title lang="pt">Duelo Final T.23 Ep.19</title>
+  </programme>
+  <programme start="20230218221500 +0000" stop="20230219003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.42</title>
+  </programme>
+  <programme start="20230219003000 +0000" stop="20230219013000 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.49</title>
+  </programme>
+  <programme start="20230219013000 +0000" stop="20230219023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219023000 +0000" stop="20230219044000 +0000" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Benedetta</title>
+  </programme>
+  <programme start="20230219044000 +0000" stop="20230219054500 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.42</title>
+  </programme>
+  <programme start="20230219054500 +0000" stop="20230219060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219060000 +0000" stop="20230219102500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219102500 +0000" stop="20230219105300 +0000" channel="CMTV">
+    <title lang="pt">Falar Global T.12 Ep.7</title>
+  </programme>
+  <programme start="20230219105300 +0000" stop="20230219112500 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.50</title>
+  </programme>
+  <programme start="20230219112500 +0000" stop="20230219115300 +0000" channel="CMTV">
+    <title lang="pt">Prato da Casa T.11 Ep.7</title>
+  </programme>
+  <programme start="20230219115300 +0000" stop="20230219145300 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.50</title>
+  </programme>
+  <programme start="20230219145300 +0000" stop="20230219150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219150800 +0000" stop="20230219153500 +0000" channel="CMTV">
+    <title lang="pt">Reportagem CM T.23 Ep.8</title>
+  </programme>
+  <programme start="20230219153500 +0000" stop="20230219155300 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219155300 +0000" stop="20230219160800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219160800 +0000" stop="20230219163500 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230219163500 +0000" stop="20230219170800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219170800 +0000" stop="20230219173500 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230219173500 +0000" stop="20230219175300 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230219175300 +0000" stop="20230219185000 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 6 Fim-De-Semana</title>
+  </programme>
+  <programme start="20230219185000 +0000" stop="20230219194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7 Fim-De-Semana</title>
+  </programme>
+  <programme start="20230219194500 +0000" stop="20230219215700 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.50</title>
+  </programme>
+  <programme start="20230219215700 +0000" stop="20230220003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.43</title>
+  </programme>
+  <programme start="20230220003000 +0000" stop="20230220013000 +0000" channel="CMTV">
+    <title lang="pt">Jornal da Meia-Noite T.23 Ep.50</title>
+  </programme>
+  <programme start="20230220013000 +0000" stop="20230220023000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230220023000 +0000" stop="20230220025500 +0000" channel="CMTV">
+    <title lang="pt">Reportagem CM T.23 Ep.7</title>
+  </programme>
+  <programme start="20230220025500 +0000" stop="20230220050000 +0000" channel="CMTV">
+    <title lang="pt">Liga D'Ouro T.23 Ep.43</title>
+  </programme>
+  <programme start="20230220050000 +0000" stop="20230220054500 +0000" channel="CMTV">
+    <title lang="pt">Investigação Sábado T.23 Ep.5</title>
+  </programme>
+  <programme start="20230220054500 +0000" stop="20230220060000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230220060000 +0000" stop="20230220091500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230220091500 +0000" stop="20230220105300 +0000" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+  </programme>
+  <programme start="20230220105300 +0000" stop="20230220125300 +0000" channel="CMTV">
+    <title lang="pt">Jornal de Portugal T.23 Ep.51</title>
+  </programme>
+  <programme start="20230220125300 +0000" stop="20230220145300 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde T.23 Ep.51</title>
+  </programme>
+  <programme start="20230220145300 +0000" stop="20230220150800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20230220150800 +0000" stop="20230220163000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura T.23 Ep.36</title>
+  </programme>
+  <programme start="20230220163000 +0000" stop="20230220171800 +0000" channel="CMTV">
+    <title lang="pt">Direto CM T.23 Ep.36</title>
+  </programme>
+  <programme start="20230220171800 +0000" stop="20230220185000 +0000" channel="CMTV">
+    <title lang="pt">Mercado T.23 Ep.36</title>
+  </programme>
+  <programme start="20230220185000 +0000" stop="20230220194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+  </programme>
+  <programme start="20230220194500 +0000" stop="20230220213000 +0000" channel="CMTV">
+    <title lang="pt">Grande Jornal da Noite T.23 Ep.51</title>
+  </programme>
+  <programme start="20230220213000 +0000" stop="20230220215700 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20230220215700 +0000" stop="20230221003000 +0000" channel="CMTV">
+    <title lang="pt">Pé em Riste T.23 Ep.8</title>
   </programme>
   <programme start="20230213003000 +0000" stop="20230213060000 +0000" channel="Porto Canal">
     <title lang="pt">Noite Desportiva</title>
