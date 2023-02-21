@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RTP1">
-    <display-name lang="en">RTP 1 HD</display-name>
-    <url>http://www.rpt.pt</url>
+  <channel id="RTPHD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/110/" />
+    <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="RTP2">
     <display-name lang="en">RTP 2 HD</display-name>
@@ -16,6 +17,909 @@
     <display-name lang="pt">TVI HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <programme start="20230221014100 +0000" stop="20230221021000 +0000" channel="RTPHD">
+    <title lang="pt">eLiga Portugal</title>
+    <desc lang="pt">Quem vai ser o Campeão Nacional de Futebol Virtual?Jornada a jornada, as 18 equipas da Liga Portugal Bwin lutam por um lugar nos Playoffs que vão decidir o vencedor da eLiga Portugal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222459829/4_3/684/513" />
+    <episode-num system="onscreen">T7 Ep5</episode-num>
+  </programme>
+  <programme start="20230221021000 +0000" stop="20230221030000 +0000" channel="RTPHD">
+    <title lang="pt">Grandiosa Enciclopédia do Ludopédio</title>
+    <sub-title lang="pt">Inter de Milão</sub-title>
+    <desc lang="pt">As deslocações de equipas portuguesas a San Siro têm sido muito negativas. O Fc Porto vai defrontar o Inter de Milão na próxima 4.ª feira na 1.ª mão dos oitavos de final da Liga dos Campeões em mais uma oportunidade para "fintar" a história.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222508488/4_3/684/513" />
+    <episode-num system="onscreen">T8 </episode-num>
+  </programme>
+  <programme start="20230221030000 +0000" stop="20230221050800 +0000" channel="RTPHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <sub-title lang="pt">ter 21-fev, 03:00</sub-title>
+    <desc lang="pt">Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa "A Nossa Tarde" tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858016/4_3/684/513" />
+  </programme>
+  <programme start="20230221050800 +0000" stop="20230221060900 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">ter 21-fev, 05:08</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827107/4_3/684/513" />
+  </programme>
+  <programme start="20230221060900 +0000" stop="20230221063000 +0000" channel="RTPHD">
+    <title lang="pt">Manchetes 3</title>
+    <sub-title lang="pt">ter 21-fev, 06:09</sub-title>
+    <desc lang="pt">Todos os dias as manchetes dos Jornais de referência estão na RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827108/4_3/684/513" />
+  </programme>
+  <programme start="20230221063000 +0000" stop="20230221100000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">ter 21-fev, 06:30</sub-title>
+    <desc lang="pt">O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827109/4_3/684/513" />
+  </programme>
+  <programme start="20230221100000 +0000" stop="20230221125900 +0000" channel="RTPHD">
+    <title lang="pt">Carnaval de Estarreja</title>
+    <sub-title lang="pt">ter 21-fev, 10:00</sub-title>
+    <desc lang="pt">Terça-feira é dia de Carnaval e os festejos são a partir de Estarreja. Sónia Araújo e Jorge Gabriel juntam-se aos milhares de foliões nas ruas da cidade para dar a conhecer a história daquele que é um dos Carnavais mais acarinhados pelos portugueses.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879396/4_3/684/513" />
+  </programme>
+  <programme start="20230221125900 +0000" stop="20230221141500 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">ter 21-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827111/4_3/684/513" />
+  </programme>
+  <programme start="20230221141500 +0000" stop="20230221173000 +0000" channel="RTPHD">
+    <title lang="pt">Carnaval de Estarreja</title>
+    <sub-title lang="pt">ter 21-fev, 14:15</sub-title>
+    <desc lang="pt">Terça-feira é dia de Carnaval e os festejos são a partir de Estarreja. Sónia Araújo e Jorge Gabriel juntam-se aos milhares de foliões nas ruas da cidade para dar a conhecer a história daquele que é um dos Carnavais mais acarinhados pelos portugueses.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879397/4_3/684/513" />
+  </programme>
+  <programme start="20230221173000 +0000" stop="20230221190600 +0000" channel="RTPHD">
+    <title lang="pt">Portugal em Direto</title>
+    <sub-title lang="pt">ter 21-fev, 17:30</sub-title>
+    <desc lang="pt">A atualidade diária do nosso país. "Portugal em Direto" é um espaço de informação nacional apresentado pela jornalista Dina Aguiar, que aposta na atualidade nacional, sempre atenta aos problemas das populações, contando para isso com o empenhamento e colaboração dos centros regionais da RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827113/4_3/684/513" />
+  </programme>
+  <programme start="20230221190600 +0000" stop="20230221195900 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">ter 21-fev, 19:06</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827114/4_3/684/513" />
+  </programme>
+  <programme start="20230221195900 +0000" stop="20230221210100 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">ter 21-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827115/4_3/684/513" />
+  </programme>
+  <programme start="20230221210100 +0000" stop="20230221220400 +0000" channel="RTPHD">
+    <title lang="pt">Porquinho Mealheiro</title>
+    <desc lang="pt">Neste divertido concurso, o conhecimento e a confiança de uma família são postos à prova, enquanto respondem a perguntas de cultura geral. Têm como objetivo acumular o máximo possível de dinheiro no Porquinho Mealheiro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501954/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep34</episode-num>
+  </programme>
+  <programme start="20230221220400 +0000" stop="20230222003900 +0000" channel="RTPHD">
+    <title lang="pt">Espero por Ti no Politeama</title>
+    <sub-title lang="pt">ter 21-fev, 22:04</sub-title>
+    <desc lang="pt">"Espero Por Ti no Politeama", a Revista-Cabaré de Filipe La Féria, é uma sátira ao Portugal de hoje e uma celebração da Vida, da Esperança e do Otimismo.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827117/4_3/684/513" />
+    <premiere />
+  </programme>
+  <programme start="20230222003900 +0000" stop="20230222023900 +0000" channel="RTPHD">
+    <title lang="pt">Tralala</title>
+    <desc lang="pt">Pode alguém ser quem não é? Tralala é um músico de rua e vive num edifício abandonado em Paris. Uma aparição, uma rapariga etérea vestida de azul, que surge de súbito e depois se evapora, vai mudar a sua vida.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_21825124/4_3/684/513" />
+  </programme>
+  <programme start="20230222023900 +0000" stop="20230222030100 +0000" channel="RTPHD">
+    <title lang="pt">Europa Minha</title>
+    <desc lang="pt">O programa de actualidade europeia "Europa Minha" acompanha semanalmente os temas que mais preocupam os cidadãos europeus com reportagens e entrevistas em todos os países membros da União Europeia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222499423/4_3/684/513" />
+    <episode-num system="onscreen">T8 Ep7</episode-num>
+  </programme>
+  <programme start="20230222030100 +0000" stop="20230222060100 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">qua 22-fev, 03:01</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827120/4_3/684/513" />
+  </programme>
+  <programme start="20230222060100 +0000" stop="20230222062200 +0000" channel="RTPHD">
+    <title lang="pt">Manchetes 3</title>
+    <sub-title lang="pt">qua 22-fev, 06:01</sub-title>
+    <desc lang="pt">Todos os dias as manchetes dos Jornais de referência estão na RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827121/4_3/684/513" />
+  </programme>
+  <programme start="20230222062200 +0000" stop="20230222083000 +0000" channel="RTPHD">
+    <title lang="pt">Portugal x Camarões (Direto): Futebol Feminino</title>
+    <sub-title lang="pt">qua 22-fev, 06:22</sub-title>
+    <desc lang="pt">A Seleção Nacional feminina disputa o acesso ao Mundial de 2023 com os Camarões, no Estádio Waikato, em Hamilton, na Nova Zelândia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574960073/4_3/684/513" />
+  </programme>
+  <programme start="20230222083000 +0000" stop="20230222100000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">qua 22-fev, 08:30</sub-title>
+    <desc lang="pt">O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827123/4_3/684/513" />
+  </programme>
+  <programme start="20230222100000 +0000" stop="20230222125900 +0000" channel="RTPHD">
+    <title lang="pt">Praça da Alegria</title>
+    <sub-title lang="pt">qua 22-fev, 10:00</sub-title>
+    <desc lang="pt">Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à Praça da Alegria! Porque sabemos que gosta da nossa companhia, oferecemos boa disposição até à hora de almoço! De segunda a sexta-feira, a Praça da Alegria leva até si a melhor música, as últimas tendências da moda e conselhos úteis.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827124/4_3/684/513" />
+  </programme>
+  <programme start="20230222125900 +0000" stop="20230222142300 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">qua 22-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827125/4_3/684/513" />
+  </programme>
+  <programme start="20230222142300 +0000" stop="20230222150500 +0000" channel="RTPHD">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Tiago despede-se de Francisco e deseja-lhe boa sorte. Francisco pede-lhe para mostrarem o que valem e continuarem o espírito da Dominó. Cecília continua com muitas dúvidas em deixar ir o filho com o pai para Londres. Maria João tenta convencer a irmã a ir ao Vadio...(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22116837/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep210</episode-num>
+  </programme>
+  <programme start="20230222150500 +0000" stop="20230222173000 +0000" channel="RTPHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <sub-title lang="pt">qua 22-fev, 15:05</sub-title>
+    <desc lang="pt">Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa "A Nossa Tarde" tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827127/4_3/684/513" />
+  </programme>
+  <programme start="20230222173000 +0000" stop="20230222190600 +0000" channel="RTPHD">
+    <title lang="pt">Portugal em Direto</title>
+    <sub-title lang="pt">qua 22-fev, 17:30</sub-title>
+    <desc lang="pt">A atualidade diária do nosso país. "Portugal em Direto" é um espaço de informação nacional apresentado pela jornalista Dina Aguiar, que aposta na atualidade nacional, sempre atenta aos problemas das populações, contando para isso com o empenhamento e colaboração dos centros regionais da RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827128/4_3/684/513" />
+  </programme>
+  <programme start="20230222190600 +0000" stop="20230222195900 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">qua 22-fev, 19:06</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827129/4_3/684/513" />
+  </programme>
+  <programme start="20230222195900 +0000" stop="20230222210100 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">qua 22-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827130/4_3/684/513" />
+  </programme>
+  <programme start="20230222210100 +0000" stop="20230222215100 +0000" channel="RTPHD">
+    <title lang="pt">Cavalos de Corrida</title>
+    <desc lang="pt">1981. Domingos e Olinda discutem qual a próxima moradia a roubar. Enquanto a vida acontece, a dupla é seguida por uma figura misteriosa. Uma proposta irrecusável atravessa o caminho de Domingos durante um assalto impulsivo.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501968/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep1</episode-num>
+  </programme>
+  <programme start="20230222215100 +0000" stop="20230222225700 +0000" channel="RTPHD">
+    <title lang="pt">Porquinho Mealheiro</title>
+    <desc lang="pt">Neste divertido concurso, o conhecimento e a confiança de uma família são postos à prova, enquanto respondem a perguntas de cultura geral. Têm como objetivo acumular o máximo possível de dinheiro no Porquinho Mealheiro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501970/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep35</episode-num>
+  </programme>
+  <programme start="20230222225700 +0000" stop="20230223002200 +0000" channel="RTPHD">
+    <title lang="pt">Cá por Casa Com Herman José</title>
+    <sub-title lang="pt">The Gift, Filipe Sambado, Heitor Lourenço, Sofia Grillo, Paula Neves, Sofia Ribeiro</sub-title>
+    <desc lang="pt">Neste Cá Por Casa, Herman recebe The Gift, Filipe Sambado, Heitor Lourenço, Sofia Grillo, Paula Neves, Sofia Ribeiro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501971/4_3/684/513" />
+    <episode-num system="onscreen">T9 Ep18</episode-num>
+  </programme>
+  <programme start="20230223002200 +0000" stop="20230223011900 +0000" channel="RTPHD">
+    <title lang="pt">Hipermercados: A Queda do Império</title>
+    <sub-title lang="pt">qui 23-fev, 00:22</sub-title>
+    <desc lang="pt">Os fornecedores evocam um clima de ameaça permanente, métodos mafiosos, redes organizadas imaginadas por advogados de grandes marcas. As mudanças nos padrões de consumo e a chegada de gigantes do e-commerce como a Amazon estão a abalar o domínio dos grandes grupos de distribuição em massa.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574829929/4_3/684/513" />
+  </programme>
+  <programme start="20230223011900 +0000" stop="20230223021100 +0000" channel="RTPHD">
+    <title lang="pt">Janela Indiscreta</title>
+    <desc lang="pt">O Janela Indiscreta é o seu programa de cinema! Apresenta, em primeira mão, estreias cinematográficas e entrevistas exclusivas aos protagonistas das produções nacionais e internacionais, dando a conhecer curiosidades e histórias de bastidores.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501974/4_3/684/513" />
+    <episode-num system="onscreen">T15 Ep8</episode-num>
+  </programme>
+  <programme start="20230223021100 +0000" stop="20230223033800 +0000" channel="RTPHD">
+    <title lang="pt">Fronteiras XXI</title>
+    <sub-title lang="pt">Que Transportes para o Futuro?</sub-title>
+    <desc lang="pt">O fim da venda de carros a diesel e a gasolina em 2035 acaba de ser aprovado pela União Europeia. Uma medida destinada a reduzir para zero as emissões de dióxido de carbono, que está longe de ser isolada e terá impactos na forma como nos deslocaremos no futuro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222274583/4_3/684/513" />
+    <episode-num system="onscreen">T6 Ep6</episode-num>
+  </programme>
+  <programme start="20230223033800 +0000" stop="20230223060900 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">qui 23-fev, 03:38</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827137/4_3/684/513" />
+  </programme>
+  <programme start="20230223060900 +0000" stop="20230223063000 +0000" channel="RTPHD">
+    <title lang="pt">Manchetes 3</title>
+    <sub-title lang="pt">qui 23-fev, 06:09</sub-title>
+    <desc lang="pt">Todos os dias as manchetes dos Jornais de referência estão na RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827138/4_3/684/513" />
+  </programme>
+  <programme start="20230223063000 +0000" stop="20230223100000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">qui 23-fev, 06:30</sub-title>
+    <desc lang="pt">O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827139/4_3/684/513" />
+  </programme>
+  <programme start="20230223100000 +0000" stop="20230223125900 +0000" channel="RTPHD">
+    <title lang="pt">Praça da Alegria</title>
+    <sub-title lang="pt">qui 23-fev, 10:00</sub-title>
+    <desc lang="pt">Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à Praça da Alegria! Porque sabemos que gosta da nossa companhia, oferecemos boa disposição até à hora de almoço! De segunda a sexta-feira, a Praça da Alegria leva até si a melhor música, as últimas tendências da moda e conselhos úteis.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827140/4_3/684/513" />
+  </programme>
+  <programme start="20230223125900 +0000" stop="20230223142200 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">qui 23-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827141/4_3/684/513" />
+  </programme>
+  <programme start="20230223142200 +0000" stop="20230223150500 +0000" channel="RTPHD">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Tiago vê que Sofia anda a ver coisas sobre bebés na internet mas não releva o assunto. Tiago continua com uma atitude irresponsável e responde mal quando Sofia lhe chama a atenção por andar a abusar das drogas. Teresa mostra a Alice o processo que descobriu em casa.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22432854/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep211</episode-num>
+  </programme>
+  <programme start="20230223150500 +0000" stop="20230223173000 +0000" channel="RTPHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <sub-title lang="pt">qui 23-fev, 15:05</sub-title>
+    <desc lang="pt">Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa "A Nossa Tarde" tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827143/4_3/684/513" />
+  </programme>
+  <programme start="20230223173000 +0000" stop="20230223190700 +0000" channel="RTPHD">
+    <title lang="pt">Portugal em Direto</title>
+    <sub-title lang="pt">qui 23-fev, 17:30</sub-title>
+    <desc lang="pt">A atualidade diária do nosso país. "Portugal em Direto" é um espaço de informação nacional apresentado pela jornalista Dina Aguiar, que aposta na atualidade nacional, sempre atenta aos problemas das populações, contando para isso com o empenhamento e colaboração dos centros regionais da RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827144/4_3/684/513" />
+  </programme>
+  <programme start="20230223190700 +0000" stop="20230223195900 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">qui 23-fev, 19:07</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827145/4_3/684/513" />
+  </programme>
+  <programme start="20230223195900 +0000" stop="20230223210100 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">qui 23-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827146/4_3/684/513" />
+  </programme>
+  <programme start="20230223210100 +0000" stop="20230223214000 +0000" channel="RTPHD">
+    <title lang="pt">365 Dias Debaixo de Fogo</title>
+    <sub-title lang="pt">qui 23-fev, 21:01</sub-title>
+    <desc lang="pt">365 Dias Debaixo de Fogo.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906862/4_3/684/513" />
+  </programme>
+  <programme start="20230223214000 +0000" stop="20230223224300 +0000" channel="RTPHD">
+    <title lang="pt">Porquinho Mealheiro</title>
+    <desc lang="pt">Neste divertido concurso, o conhecimento e a confiança de uma família são postos à prova, enquanto respondem a perguntas de cultura geral. Têm como objetivo acumular o máximo possível de dinheiro no Porquinho Mealheiro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501977/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep36</episode-num>
+  </programme>
+  <programme start="20230223224300 +0000" stop="20230223235300 +0000" channel="RTPHD">
+    <title lang="pt">Natália 100 Anos</title>
+    <sub-title lang="pt">qui 23-fev, 22:43</sub-title>
+    <desc lang="pt">Ana Bacalhau, Áurea, Amélia Muge, Elisa Rodrigues, Katia Guerreiro, Mafalda Veiga, Patrícia Antunes, Patrícia Silveira, Maria João, Rita Redshoes, Sofia Escobar e Viviane subiram ao palco para homenagear Natália Correia, num concerto inteiramente alicerçado na sua poesia, musicada por Renato Júnior.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827149/4_3/684/513" />
+  </programme>
+  <programme start="20230223235300 +0000" stop="20230224010300 +0000" channel="RTPHD">
+    <title lang="pt">Insubmissa</title>
+    <sub-title lang="pt">Natália na Resistência</sub-title>
+    <desc lang="pt">Documentário que tem como ponto de partida o bar Botequim, no bairro da Graça, em Lisboa, de que Natália Correia foi fundadora, proprietária e principal animadora. Durante uma longa fase, o Botequim foi o centro da vida da escritora, sendo a grande figura da tertúlia que se formava em seu redor.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_221953710/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep1</episode-num>
+  </programme>
+  <programme start="20230224010300 +0000" stop="20230224021900 +0000" channel="RTPHD">
+    <title lang="pt">Insubmissa</title>
+    <sub-title lang="pt">Natália na Liberdade</sub-title>
+    <desc lang="pt">Documentário que tem como ponto de partida o bar Botequim, no bairro da Graça, em Lisboa, de que Natália Correia foi fundadora, proprietária e principal animadora. Durante uma longa fase, o Botequim foi o centro da vida da escritora, sendo a grande figura da tertúlia que se formava em seu redor.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_221954439/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep2</episode-num>
+  </programme>
+  <programme start="20230224021900 +0000" stop="20230224031900 +0000" channel="RTPHD">
+    <title lang="pt">Grande Entrevista</title>
+    <sub-title lang="pt">António José Telo e Cândida Pinto</sub-title>
+    <desc lang="pt">Um ano de guerra na Ucrânia. Porque tarda uma solução para o conflito? Como se sobrevive debaixo de ataques permanentes? O historiador e especialista militar António José Telo e a jornalista Cândida Pinto que testemunhou o dia 1 da invasão russa da Ucrânia, na Grande Entrevista com Vítor Gonçalves.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501978/4_3/684/513" />
+    <episode-num system="onscreen">T16 Ep8</episode-num>
+  </programme>
+  <programme start="20230224031900 +0000" stop="20230224060900 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">sex 24-fev, 03:19</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827152/4_3/684/513" />
+  </programme>
+  <programme start="20230224060900 +0000" stop="20230224063000 +0000" channel="RTPHD">
+    <title lang="pt">Manchetes 3</title>
+    <sub-title lang="pt">sex 24-fev, 06:09</sub-title>
+    <desc lang="pt">Todos os dias as manchetes dos Jornais de referência estão na RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574827153/4_3/684/513" />
+  </programme>
+  <programme start="20230224063000 +0000" stop="20230224100000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">sex 24-fev, 06:30</sub-title>
+    <desc lang="pt">O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858017/4_3/684/513" />
+  </programme>
+  <programme start="20230224100000 +0000" stop="20230224125900 +0000" channel="RTPHD">
+    <title lang="pt">Praça da Alegria</title>
+    <sub-title lang="pt">sex 24-fev, 10:00</sub-title>
+    <desc lang="pt">Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à Praça da Alegria! Porque sabemos que gosta da nossa companhia, oferecemos boa disposição até à hora de almoço! De segunda a sexta-feira, a Praça da Alegria leva até si a melhor música, as últimas tendências da moda e conselhos úteis.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858018/4_3/684/513" />
+  </programme>
+  <programme start="20230224125900 +0000" stop="20230224141500 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">sex 24-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858019/4_3/684/513" />
+  </programme>
+  <programme start="20230224141500 +0000" stop="20230224151500 +0000" channel="RTPHD">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Teresa combina ir com Sofia ao ginecologista por causa da gravidez. Jaime começa a liderar a Dominó. Raquel chega atrasada logo no primeiro dia mas Tiago justifica a ausência dela perante o patrão. Ao chegar, Raquel fica um pouco incomodada ao saber que foi Tiago quem a ajudou.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22121478/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep212</episode-num>
+  </programme>
+  <programme start="20230224151500 +0000" stop="20230224173000 +0000" channel="RTPHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <sub-title lang="pt">sex 24-fev, 15:15</sub-title>
+    <desc lang="pt">Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa "A Nossa Tarde" tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858021/4_3/684/513" />
+  </programme>
+  <programme start="20230224173000 +0000" stop="20230224190000 +0000" channel="RTPHD">
+    <title lang="pt">Portugal em Direto</title>
+    <sub-title lang="pt">sex 24-fev, 17:30</sub-title>
+    <desc lang="pt">A atualidade diária do nosso país. "Portugal em Direto" é um espaço de informação nacional apresentado pela jornalista Dina Aguiar, que aposta na atualidade nacional, sempre atenta aos problemas das populações, contando para isso com o empenhamento e colaboração dos centros regionais da RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858022/4_3/684/513" />
+  </programme>
+  <programme start="20230224190000 +0000" stop="20230224195900 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">sex 24-fev, 19:00</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858023/4_3/684/513" />
+  </programme>
+  <programme start="20230224195900 +0000" stop="20230224210000 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">sex 24-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858024/4_3/684/513" />
+  </programme>
+  <programme start="20230224210000 +0000" stop="20230224213000 +0000" channel="RTPHD">
+    <title lang="pt">Em Estado de Guerra</title>
+    <sub-title lang="pt">sex 24-fev, 21:00</sub-title>
+    <desc lang="pt">Em Estado de Guerra.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906863/4_3/684/513" />
+  </programme>
+  <programme start="20230224213000 +0000" stop="20230224224500 +0000" channel="RTPHD">
+    <title lang="pt">Porquinho Mealheiro</title>
+    <desc lang="pt">Neste divertido concurso, o conhecimento e a confiança de uma família são postos à prova, enquanto respondem a perguntas de cultura geral. Têm como objetivo acumular o máximo possível de dinheiro no Porquinho Mealheiro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222503168/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep37</episode-num>
+  </programme>
+  <programme start="20230224224500 +0000" stop="20230224233000 +0000" channel="RTPHD">
+    <title lang="pt">Operação Maré Negra</title>
+    <desc lang="pt">Após a apreensão de um carregamento de cocaína, Siguenza e Anxo vão para a prisão, de onde Nando acabou de fugir. Cesáreo tenta ajudá-lo a reconstruir a sua vida, mas os seus planos são outros.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222503169/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep3</episode-num>
+  </programme>
+  <programme start="20230224233000 +0000" stop="20230225003000 +0000" channel="RTPHD">
+    <title lang="pt">Rua das Pretas</title>
+    <desc lang="pt">Os 12 episódios foram filmados no Coliseu dos Recreios e no Coliseu do Porto. Entre os convidados estão Paulo de Carvalho, Tito Paris, Selma Uamusse, Rita Redshoes, Luca Argel, Tiago Nacarato, Dora Morelenbaum ou Moacyr Luz.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222503170/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep3</episode-num>
+  </programme>
+  <programme start="20230225003000 +0000" stop="20230225011500 +0000" channel="RTPHD">
+    <title lang="pt">Anatomia de Grey</title>
+    <sub-title lang="pt">Helplessly Hoping</sub-title>
+    <desc lang="pt">As equipas têm de intervir numa situação tensa e que tem muito em jogo. Entretanto, Jo convence Hayes a infringir as regras num caso, enquanto Maggie e Winston se reaproximam.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_221589204/4_3/684/513" />
+    <episode-num system="onscreen">T17 Ep7</episode-num>
+  </programme>
+  <programme start="20230225011500 +0000" stop="20230225021500 +0000" channel="RTPHD">
+    <title lang="pt">Reprimitivar - O Regresso à Natureza</title>
+    <sub-title lang="pt">sáb 25-fev, 01:15</sub-title>
+    <desc lang="pt">Um pouco por todo o mundo, existem vários projetospara dar novamente espaço à natureza. O objetivo é criar áreas selvagens que se desenvolvam com pouca intervenção humana. Reprimitivar promete ser uma forma económica de conservação com a qual podemos aumentar a biodiversidade e proteger o clima.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858030/4_3/684/513" />
+  </programme>
+  <programme start="20230225021500 +0000" stop="20230225040000 +0000" channel="RTPHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <sub-title lang="pt">sáb 25-fev, 02:15</sub-title>
+    <desc lang="pt">Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa "A Nossa Tarde" tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858031/4_3/684/513" />
+  </programme>
+  <programme start="20230225040000 +0000" stop="20230225061500 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">sáb 25-fev, 04:00</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574858032/4_3/684/513" />
+  </programme>
+  <programme start="20230225061500 +0000" stop="20230225063000 +0000" channel="RTPHD">
+    <title lang="pt">As Palavras do Mundo</title>
+    <desc lang="pt">A partir de uma seleção cuidada de obras de referência e de entrevistas a especialistas de diferentes áreas científicas, oferecemos uma leitura do mundo atual, tendo como ponto de partida obras de autores como Margaret Atwood, Olga Tokarczuk, Sandro William Junqueira, Virgílio ou John Le Carré.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222498580/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep1</episode-num>
+  </programme>
+  <programme start="20230225063000 +0000" stop="20230225063100 +0000" channel="RTPHD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <sub-title lang="pt">sáb 25-fev, 06:30</sub-title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o Zig Zag. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879398/4_3/684/513" />
+  </programme>
+  <programme start="20230225063100 +0000" stop="20230225063500 +0000" channel="RTPHD">
+    <title lang="pt">Cuida Bem de Mim</title>
+    <desc lang="pt">"Cuida Bem de Mim" é uma série infantil de 12 episódios em forma de canção, onde são abordados variados temas relacionados com o mundo infantil tais como: os medos, a ansiedade, a autonomia, os momentos de birra, o bulliyng, o uso de telemóveis, os videojogos, entre outros.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222417993/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep12</episode-num>
+  </programme>
+  <programme start="20230225063500 +0000" stop="20230225064500 +0000" channel="RTPHD">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">Uma série infantil sobre livros que contam as aventuras de uma família galega.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22765452/4_3/684/513" />
+    <episode-num system="onscreen">Ep2</episode-num>
+  </programme>
+  <programme start="20230225064500 +0000" stop="20230225065000 +0000" channel="RTPHD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar XS é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222499465/4_3/684/513" />
+    <episode-num system="onscreen">T5 Ep70</episode-num>
+  </programme>
+  <programme start="20230225065000 +0000" stop="20230225070000 +0000" channel="RTPHD">
+    <title lang="pt">O Panda e o Galo</title>
+    <desc lang="pt">Uma amizade improvável acontece: um panda e um galo de Barcelos são os melhores amigos. Que histórias irão o Panda, os seus amigos do bosque e o seu novo amigo português contar?(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222252812/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep7</episode-num>
+  </programme>
+  <programme start="20230225070000 +0000" stop="20230225071000 +0000" channel="RTPHD">
+    <title lang="pt">Histórias Zigzásticas</title>
+    <desc lang="pt">20 histórias contadas por atores que te vão animar o dia!(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222422446/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep1</episode-num>
+  </programme>
+  <programme start="20230225071000 +0000" stop="20230225072500 +0000" channel="RTPHD">
+    <title lang="pt">A Minha Cena</title>
+    <desc lang="pt">No programa "A Minha Cena" as crianças são as protagonistas. Todas as semanas, em cada episódio, as crianças conduzem-nos pela sua vida e mostram-nos as suas "cenas favoritas".(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222317815/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep15</episode-num>
+  </programme>
+  <programme start="20230225072500 +0000" stop="20230225074000 +0000" channel="RTPHD">
+    <title lang="pt">Dennis &amp; Gnasher: Os Aventureiros</title>
+    <desc lang="pt">Dennis é um rapazinho com uma imaginação extraordinária e uma atitude destemida. Com o seu incrível cão Gnasher e os amigos Pieface, Jj e Rubi elaboram planos completamente malucos, enfrentam todo tipo de encrencas e desafios, não importa o quão grande possam ser!(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_221965126/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep22</episode-num>
+  </programme>
+  <programme start="20230225074000 +0000" stop="20230225075500 +0000" channel="RTPHD">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <desc lang="pt">Conjunto de documentários de vários países em que crianças e jovens narram a sua vida e se propõem cumprir um desafio.Ao longo de cada documentário, ficamos a saber onde vivem, como é a sua família e quais são os seus sonhos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222439661/4_3/684/513" />
+    <episode-num system="onscreen">T5 Ep3</episode-num>
+  </programme>
+  <programme start="20230225075500 +0000" stop="20230225080000 +0000" channel="RTPHD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar XS é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222502020/4_3/684/513" />
+    <episode-num system="onscreen">T5 Ep71</episode-num>
+  </programme>
+  <programme start="20230225080000 +0000" stop="20230225100000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal - Fim de Semana</title>
+    <sub-title lang="pt">sáb 25-fev, 08:00</sub-title>
+    <desc lang="pt">Um espaço informativo em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879407/4_3/684/513" />
+  </programme>
+  <programme start="20230225100000 +0000" stop="20230225110000 +0000" channel="RTPHD">
+    <title lang="pt">Oceanos Com Vida</title>
+    <desc lang="pt">Os oceanos são o lar de criaturas que remontam às origens da Terra e são o lugar onde a vida floresce e o perigo espreita. Ao longo dos três episódios descubra lugares encantados cheios de segredos, mistérios e maravilhas ocultas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222503893/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep3</episode-num>
+  </programme>
+  <programme start="20230225110000 +0000" stop="20230225125900 +0000" channel="RTPHD">
+    <title lang="pt">Aqui Portugal</title>
+    <sub-title lang="pt">Serpa</sub-title>
+    <desc lang="pt">Todas as semanas partimos à descoberta de uma localidade diferente, usos, costumes, tradições, e comemorações do nosso Portugal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_224923341/4_3/684/513" />
+  </programme>
+  <programme start="20230225125900 +0000" stop="20230225140000 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">sáb 25-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879410/4_3/684/513" />
+  </programme>
+  <programme start="20230225140000 +0000" stop="20230225143000 +0000" channel="RTPHD">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Programa da responsabilidade de Ana Sousa Dias, Provedora do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespetadores em cada semana.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222497787/4_3/684/513" />
+    <episode-num system="onscreen">T12 Ep7</episode-num>
+  </programme>
+  <programme start="20230225143000 +0000" stop="20230225190000 +0000" channel="RTPHD">
+    <title lang="pt">Aqui Portugal</title>
+    <sub-title lang="pt">Serpa</sub-title>
+    <desc lang="pt">Todas as semanas partimos à descoberta de uma localidade diferente, usos, costumes, tradições, e comemorações do nosso Portugal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_224923342/4_3/684/513" />
+  </programme>
+  <programme start="20230225190000 +0000" stop="20230225195900 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">sáb 25-fev, 19:00</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879412/4_3/684/513" />
+  </programme>
+  <programme start="20230225195900 +0000" stop="20230225210000 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">sáb 25-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879413/4_3/684/513" />
+  </programme>
+  <programme start="20230225210000 +0000" stop="20230226003000 +0000" channel="RTPHD">
+    <title lang="pt">Festival da Canção 2023</title>
+    <sub-title lang="pt">1.ª Semifinal</sub-title>
+    <desc lang="pt">A primeira semifinal do Festival da Canção acontece a 25 de fevereiro com apresentação de Tânia Ribas de Oliveira e José Carlos Malato e com reportagem de Inês Lopes Gonçalves na Green Room.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222503909/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep1</episode-num>
+  </programme>
+  <programme start="20230226003000 +0000" stop="20230226021500 +0000" channel="RTPHD">
+    <title lang="pt">Beirute - O Resgate</title>
+    <desc lang="pt">Em 1982, um ex-diplomata americano, Mason Skiles, agora um alcoólatra que trabalha como mediador, vê-se de regresso à cidade que abandonou 10 anos antes: Beirute. Aí, terá de negociar pela vida de um amigo que deixou para trás...(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_21301552/4_3/684/513" />
+  </programme>
+  <programme start="20230226021500 +0000" stop="20230226030000 +0000" channel="RTPHD">
+    <title lang="pt">Janela Indiscreta</title>
+    <desc lang="pt">O Janela Indiscreta é o seu programa de cinema! Apresenta, em primeira mão, estreias cinematográficas e entrevistas exclusivas aos protagonistas das produções nacionais e internacionais, dando a conhecer curiosidades e histórias de bastidores.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222501974/4_3/684/513" />
+    <episode-num system="onscreen">T15 Ep8</episode-num>
+  </programme>
+  <programme start="20230226030000 +0000" stop="20230226040000 +0000" channel="RTPHD">
+    <title lang="pt">Hipermercados: A Queda do Império</title>
+    <sub-title lang="pt">dom 26-fev, 03:00</sub-title>
+    <desc lang="pt">Os fornecedores evocam um clima de ameaça permanente, métodos mafiosos, redes organizadas imaginadas por advogados de grandes marcas. As mudanças nos padrões de consumo e a chegada de gigantes do e-commerce como a Amazon estão a abalar o domínio dos grandes grupos de distribuição em massa.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879417/4_3/684/513" />
+  </programme>
+  <programme start="20230226040000 +0000" stop="20230226060000 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">dom 26-fev, 04:00</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574879418/4_3/684/513" />
+  </programme>
+  <programme start="20230226060000 +0000" stop="20230226063000 +0000" channel="RTPHD">
+    <title lang="pt">Todas as Palavras</title>
+    <desc lang="pt">Cláudia Andrade, autora de «O Santo Ilusionista», e Paula Hawkins, autora de «A Rapariga no Comboio».(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222499416/4_3/684/513" />
+    <episode-num system="onscreen">T8 Ep6</episode-num>
+  </programme>
+  <programme start="20230226063000 +0000" stop="20230226063100 +0000" channel="RTPHD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <sub-title lang="pt">dom 26-fev, 06:30</sub-title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o Zig Zag. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906864/4_3/684/513" />
+  </programme>
+  <programme start="20230226063100 +0000" stop="20230226063500 +0000" channel="RTPHD">
+    <title lang="pt">Banda Zig Zag</title>
+    <desc lang="pt">Todos foram aprender um instrumento e escolheram falar de alguns temas que nem sempre são motivo de letras de músicas!(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22749246/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep9</episode-num>
+  </programme>
+  <programme start="20230226063500 +0000" stop="20230226064500 +0000" channel="RTPHD">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">Uma série infantil sobre livros que contam as aventuras de uma família galega.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22766042/4_3/684/513" />
+    <episode-num system="onscreen">Ep3</episode-num>
+  </programme>
+  <programme start="20230226064500 +0000" stop="20230226070000 +0000" channel="RTPHD">
+    <title lang="pt">O Panda e o Galo</title>
+    <desc lang="pt">Uma amizade improvável acontece: um panda e um galo de Barcelos são os melhores amigos. Que histórias irão o Panda, os seus amigos do bosque e o seu novo amigo português contar?(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222253991/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep8</episode-num>
+  </programme>
+  <programme start="20230226070000 +0000" stop="20230226071000 +0000" channel="RTPHD">
+    <title lang="pt">Histórias Zigzásticas</title>
+    <desc lang="pt">20 histórias contadas por atores que te vão animar o dia!(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222423636/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep2</episode-num>
+  </programme>
+  <programme start="20230226071000 +0000" stop="20230226072500 +0000" channel="RTPHD">
+    <title lang="pt">A Minha Cena</title>
+    <desc lang="pt">No programa "A Minha Cena" as crianças são as protagonistas. Todas as semanas, em cada episódio, as crianças conduzem-nos pela sua vida e mostram-nos as suas "cenas favoritas".(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222325715/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep16</episode-num>
+  </programme>
+  <programme start="20230226072500 +0000" stop="20230226073500 +0000" channel="RTPHD">
+    <title lang="pt">Dennis &amp; Gnasher: Os Aventureiros</title>
+    <desc lang="pt">Dennis é um rapazinho com uma imaginação extraordinária e uma atitude destemida. Com o seu incrível cão Gnasher e os amigos Pieface, Jj e Rubi elaboram planos completamente malucos, enfrentam todo tipo de encrencas e desafios, não importa o quão grande possam ser!(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_221966889/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep23</episode-num>
+  </programme>
+  <programme start="20230226073500 +0000" stop="20230226075000 +0000" channel="RTPHD">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <desc lang="pt">Conjunto de documentários de vários países em que crianças e jovens narram a sua vida e se propõem cumprir um desafio.Ao longo de cada documentário, ficamos a saber onde vivem, como é a sua família e quais são os seus sonhos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222440226/4_3/684/513" />
+    <episode-num system="onscreen">T5 Ep4</episode-num>
+  </programme>
+  <programme start="20230226075000 +0000" stop="20230226080000 +0000" channel="RTPHD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar XS é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222503187/4_3/684/513" />
+    <episode-num system="onscreen">T5 Ep72</episode-num>
+  </programme>
+  <programme start="20230226080000 +0000" stop="20230226103000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal - Fim de Semana</title>
+    <sub-title lang="pt">dom 26-fev, 08:00</sub-title>
+    <desc lang="pt">Um espaço informativo em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906873/4_3/684/513" />
+  </programme>
+  <programme start="20230226103000 +0000" stop="20230226113000 +0000" channel="RTPHD">
+    <title lang="pt">Eucaristia Dominical</title>
+    <desc lang="pt">A celebração dominical do dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222504873/4_3/684/513" />
+    <episode-num system="onscreen">Ep8</episode-num>
+  </programme>
+  <programme start="20230226113000 +0000" stop="20230226120000 +0000" channel="RTPHD">
+    <title lang="pt">Hora dos Portugueses</title>
+    <desc lang="pt">Magazine semanal com diferentes olhares, junto de comunidades de portugueses espalhados pelo mundo, para retratar as atuais formas de viver a portugalidade nos diferentes territórios e reconhecer os feitos e conquistas dos portugueses que compõem estes grupos de cidadãos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222504882/4_3/684/513" />
+    <episode-num system="onscreen">T9 Ep7</episode-num>
+  </programme>
+  <programme start="20230226120000 +0000" stop="20230226125900 +0000" channel="RTPHD">
+    <title lang="pt">Ursos em Casa</title>
+    <desc lang="pt">Acompanhe a jornada de Giles Clark que embarcou numa missão para desmantelar o comércio ilegal de animais selvagens e ajudar a construir um novo santuário para ursos no Laos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222504883/4_3/684/513" />
+    <episode-num system="onscreen">T1 Ep2</episode-num>
+  </programme>
+  <programme start="20230226125900 +0000" stop="20230226141500 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">dom 26-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906877/4_3/684/513" />
+  </programme>
+  <programme start="20230226141500 +0000" stop="20230226150000 +0000" channel="RTPHD">
+    <title lang="pt">Faz Faísca</title>
+    <desc lang="pt">"Faz Faísca" põe os olhos no mundo social e artístico e nas figuras mais conhecidas e seguidas do panorama nacional e internacional. Acompanha os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e os temas fortes nas redes sociais.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222504884/4_3/684/513" />
+    <episode-num system="onscreen">T7 Ep4</episode-num>
+  </programme>
+  <programme start="20230226150000 +0000" stop="20230226195900 +0000" channel="RTPHD">
+    <title lang="pt">Aqui Portugal</title>
+    <sub-title lang="pt">Figueira de Castelo Rodrigo</sub-title>
+    <desc lang="pt">Todas as semanas partimos à descoberta de uma localidade diferente, usos, costumes, tradições, e comemorações do nosso Portugal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_224906879/4_3/684/513" />
+  </programme>
+  <programme start="20230226195900 +0000" stop="20230226211500 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">dom 26-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906880/4_3/684/513" />
+  </programme>
+  <programme start="20230226211500 +0000" stop="20230227000000 +0000" channel="RTPHD">
+    <title lang="pt">Dança Comigo</title>
+    <desc lang="pt">Dança Comigo está de volta com apresentação de Sílvia Alberto, com luxuoso painel de jurados composto por Sónia Araújo, Noua Wong e Filipe La Féria e com convidados muito especiais. As celebridades vão mostrar-nos as suas habilidades na pista de dança, sempre ao sabor de vários ritmos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222504886/4_3/684/513" />
+    <episode-num system="onscreen">T5 Ep5</episode-num>
+  </programme>
+  <programme start="20230227000000 +0000" stop="20230227020000 +0000" channel="RTPHD">
+    <title lang="pt">O Alojamento</title>
+    <desc lang="pt">Uma futura madrasta está com os dois filhos do seu noivo de férias numa vila remota. Assim que as relações começam a descongelar entre o trio, acontecem alguns eventos estranhos e assustadores.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_21792479/4_3/684/513" />
+  </programme>
+  <programme start="20230227020000 +0000" stop="20230227024500 +0000" channel="RTPHD">
+    <title lang="pt">Faz Faísca</title>
+    <desc lang="pt">"Faz Faísca" põe os olhos no mundo social e artístico e nas figuras mais conhecidas e seguidas do panorama nacional e internacional. Acompanha os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e os temas fortes nas redes sociais.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222504884/4_3/684/513" />
+    <episode-num system="onscreen">T7 Ep4</episode-num>
+  </programme>
+  <programme start="20230227024500 +0000" stop="20230227034500 +0000" channel="RTPHD">
+    <title lang="pt">Reprimitivar - O Regresso à Natureza</title>
+    <sub-title lang="pt">seg 27-fev, 02:45</sub-title>
+    <desc lang="pt">Um pouco por todo o mundo, existem vários projetospara dar novamente espaço à natureza. O objetivo é criar áreas selvagens que se desenvolvam com pouca intervenção humana. Reprimitivar promete ser uma forma económica de conservação com a qual podemos aumentar a biodiversidade e proteger o clima.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906884/4_3/684/513" />
+  </programme>
+  <programme start="20230227034500 +0000" stop="20230227060900 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">seg 27-fev, 03:45</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906885/4_3/684/513" />
+  </programme>
+  <programme start="20230227060900 +0000" stop="20230227063000 +0000" channel="RTPHD">
+    <title lang="pt">Manchetes 3</title>
+    <sub-title lang="pt">seg 27-fev, 06:09</sub-title>
+    <desc lang="pt">Todos os dias as manchetes dos Jornais de referência estão na RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574906886/4_3/684/513" />
+  </programme>
+  <programme start="20230227063000 +0000" stop="20230227100000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">seg 27-fev, 06:30</sub-title>
+    <desc lang="pt">O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945514/4_3/684/513" />
+  </programme>
+  <programme start="20230227100000 +0000" stop="20230227125900 +0000" channel="RTPHD">
+    <title lang="pt">Praça da Alegria</title>
+    <sub-title lang="pt">seg 27-fev, 10:00</sub-title>
+    <desc lang="pt">Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à Praça da Alegria! Porque sabemos que gosta da nossa companhia, oferecemos boa disposição até à hora de almoço! De segunda a sexta-feira, a Praça da Alegria leva até si a melhor música, as últimas tendências da moda e conselhos úteis.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945515/4_3/684/513" />
+  </programme>
+  <programme start="20230227125900 +0000" stop="20230227141500 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">seg 27-fev, 12:59</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945516/4_3/684/513" />
+  </programme>
+  <programme start="20230227141500 +0000" stop="20230227151500 +0000" channel="RTPHD">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Guilherme está preocupado com o estado de saúde da mãe mas Álvaro não se arrepende do que fez. Apesar de Teresa ter devolvido o processo pessoal de Alice a Guilherme, o pai lembra-lhe que Teresa não é de confiança.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_22433777/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep213</episode-num>
+  </programme>
+  <programme start="20230227151500 +0000" stop="20230227173000 +0000" channel="RTPHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <sub-title lang="pt">seg 27-fev, 15:15</sub-title>
+    <desc lang="pt">Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa "A Nossa Tarde" tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945518/4_3/684/513" />
+  </programme>
+  <programme start="20230227173000 +0000" stop="20230227190000 +0000" channel="RTPHD">
+    <title lang="pt">Portugal em Direto</title>
+    <sub-title lang="pt">seg 27-fev, 17:30</sub-title>
+    <desc lang="pt">A atualidade diária do nosso país. "Portugal em Direto" é um espaço de informação nacional apresentado pela jornalista Dina Aguiar, que aposta na atualidade nacional, sempre atenta aos problemas das populações, contando para isso com o empenhamento e colaboração dos centros regionais da RTP.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945519/4_3/684/513" />
+  </programme>
+  <programme start="20230227190000 +0000" stop="20230227194500 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">seg 27-fev, 19:00</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945520/4_3/684/513" />
+  </programme>
+  <programme start="20230227194500 +0000" stop="20230227195900 +0000" channel="RTPHD">
+    <title lang="pt">Direito de Antena</title>
+    <sub-title lang="pt">seg 27-fev, 19:45</sub-title>
+    <desc lang="pt">Espaço da responsabilidade das entidades intervenientes. Destina-se essencialmente à divulgação de campanhas políticas, de solidariedade ou outras associações de caráter diverso.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945521/4_3/684/513" />
+  </programme>
+  <programme start="20230227195900 +0000" stop="20230227210000 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">seg 27-fev, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_574945522/4_3/684/513" />
+  </programme>
+  <programme start="20230227210000 +0000" stop="20230227213000 +0000" channel="RTPHD">
+    <title lang="pt">Primeira Pessoa</title>
+    <desc lang="pt">Abordagens distintas e plurais de diferentes figuras da sociedade, enriquecidas por enquadramentos cenográficos, significativos e únicos. Conversas construídas a partir da narrativa pessoal do entrevistado, pela jornalista Fátima Campos Ferreira.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222508500/4_3/684/513" />
+    <episode-num system="onscreen">T4 Ep3</episode-num>
+  </programme>
+  <programme start="20230227213000 +0000" stop="20230227224500 +0000" channel="RTPHD">
+    <title lang="pt">Porquinho Mealheiro</title>
+    <desc lang="pt">Neste divertido concurso, o conhecimento e a confiança de uma família são postos à prova, enquanto respondem a perguntas de cultura geral. Têm como objetivo acumular o máximo possível de dinheiro no Porquinho Mealheiro.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222508501/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep38</episode-num>
+  </programme>
+  <programme start="20230227224500 +0000" stop="20230227234500 +0000" channel="RTPHD">
+    <title lang="pt">Programa a Designar</title>
+    <sub-title lang="pt">seg 27-fev, 22:45</sub-title>
+    <desc lang="pt">Programa a designar oportunamente.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_564871020/4_3/684/513" />
+  </programme>
+  <programme start="20230227234500 +0000" stop="20230228010000 +0000" channel="RTPHD">
+    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
+    <sub-title lang="pt">Carlão</sub-title>
+    <desc lang="pt">José Pedro Vasconcelos recebe Carlão, em Portimão, para uma atuação e conversa cheia de surpresas e alguns assobios para o lado.(n)</desc>
+    <category lang="pt">Nacional</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/110_222221296/4_3/684/513" />
+    <episode-num system="onscreen">T3 Ep3</episode-num>
+  </programme>
   <programme start="20230221070000 +0000" stop="20230221070100 +0000" channel="RTP2">
     <title lang="en">Espaço Zig Zag</title>
     <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos.(n)</desc>
