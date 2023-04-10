@@ -98,6 +98,7 @@
   </channel>
   <channel id="SPORT.TV6 HD">
     <display-name lang="pt">SPORT TV6 HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv6.png" />
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP Açores">
@@ -140,4 +141,423 @@
     <display-name lang="pt">TVI HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+    <channel id="Espacial 25 Abril">
+    <display-name lang="pt">Espacial 25 Abril</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <programme start="20230410020000 +0100" stop="20230418060000 +0100" channel="Espacial 25 Abril">
+    <title lang="pt">Espacial 25 Abril</title>
+    <desc lang="pt">Espacial 25 Abril</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245582/XL" />
+  </programme>
+  <programme start="20230410020000 +0100" stop="20230410060000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245582/XL" />
+  </programme>
+  <programme start="20230410060000 +0100" stop="20230410090000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277156/XL" />
+  </programme>
+  <programme start="20230410090000 +0100" stop="20230410100000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277150/XL" />
+  </programme>
+  <programme start="20230410100000 +0100" stop="20230410120000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277152/XL" />
+  </programme>
+  <programme start="20230410120000 +0100" stop="20230410140000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277152/XL" />
+  </programme>
+  <programme start="20230410140000 +0100" stop="20230410160000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277152/XL" />
+  </programme>
+  <programme start="20230410160000 +0100" stop="20230410180000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277152/XL" />
+  </programme>
+  <programme start="20230410180000 +0100" stop="20230410200000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277152/XL" />
+  </programme>
+  <programme start="20230410200000 +0100" stop="20230410220000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277152/XL" />
+  </programme>
+  <programme start="20230410220000 +0100" stop="20230410223000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277154/XL" />
+  </programme>
+  <programme start="20230410223000 +0100" stop="20230411000000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277158/XL" />
+  </programme>
+  <programme start="20230411000000 +0100" stop="20230411020000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277166/XL" />
+  </programme>
+  <programme start="20230411020000 +0100" stop="20230411040000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277166/XL" />
+  </programme>
+  <programme start="20230411040000 +0100" stop="20230411080000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277168/XL" />
+  </programme>
+  <programme start="20230411080000 +0100" stop="20230411090000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277170/XL" />
+  </programme>
+  <programme start="20230411090000 +0100" stop="20230411100000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277160/XL" />
+  </programme>
+  <programme start="20230411100000 +0100" stop="20230411120000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277162/XL" />
+  </programme>
+  <programme start="20230411120000 +0100" stop="20230411140000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277162/XL" />
+  </programme>
+  <programme start="20230411140000 +0100" stop="20230411160000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277162/XL" />
+  </programme>
+  <programme start="20230411160000 +0100" stop="20230411180000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277162/XL" />
+  </programme>
+  <programme start="20230411180000 +0100" stop="20230411200000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277162/XL" />
+  </programme>
+  <programme start="20230411200000 +0100" stop="20230411220000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277162/XL" />
+  </programme>
+  <programme start="20230411220000 +0100" stop="20230411223000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277164/XL" />
+  </programme>
+  <programme start="20230411223000 +0100" stop="20230412000000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277172/XL" />
+  </programme>
+  <programme start="20230412000000 +0100" stop="20230412020000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277180/XL" />
+  </programme>
+  <programme start="20230412020000 +0100" stop="20230412040000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277180/XL" />
+  </programme>
+  <programme start="20230412040000 +0100" stop="20230412060000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277180/XL" />
+  </programme>
+  <programme start="20230412060000 +0100" stop="20230412090000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277182/XL" />
+  </programme>
+  <programme start="20230412090000 +0100" stop="20230412100000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277174/XL" />
+  </programme>
+  <programme start="20230412100000 +0100" stop="20230412120000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277176/XL" />
+  </programme>
+  <programme start="20230412120000 +0100" stop="20230412140000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277176/XL" />
+  </programme>
+  <programme start="20230412140000 +0100" stop="20230412160000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277176/XL" />
+  </programme>
+  <programme start="20230412160000 +0100" stop="20230412180000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277176/XL" />
+  </programme>
+  <programme start="20230412180000 +0100" stop="20230412200000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277176/XL" />
+  </programme>
+  <programme start="20230412200000 +0100" stop="20230412220000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277176/XL" />
+  </programme>
+  <programme start="20230412220000 +0100" stop="20230412223000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277178/XL" />
+  </programme>
+  <programme start="20230412223000 +0100" stop="20230413000000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277184/XL" />
+  </programme>
+  <programme start="20230413000000 +0100" stop="20230413020000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277190/XL" />
+  </programme>
+  <programme start="20230413020000 +0100" stop="20230413040000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277190/XL" />
+  </programme>
+  <programme start="20230413040000 +0100" stop="20230413060000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277190/XL" />
+  </programme>
+  <programme start="20230413060000 +0100" stop="20230413090000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+    <desc lang="pt">Acompanhe esta prova da WSL World Tour.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277192/XL" />
+  </programme>
+  <programme start="20230413090000 +0100" stop="20230413100000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277186/XL" />
+  </programme>
+  <programme start="20230413100000 +0100" stop="20230413120000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277188/XL" />
+  </programme>
+  <programme start="20230413120000 +0100" stop="20230413140000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277188/XL" />
+  </programme>
+  <programme start="20230413140000 +0100" stop="20230413160000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277188/XL" />
+  </programme>
+  <programme start="20230413160000 +0100" stop="20230413180000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277188/XL" />
+  </programme>
+  <programme start="20230413180000 +0100" stop="20230413200000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277188/XL" />
+  </programme>
+  <programme start="20230413200000 +0100" stop="20230413220000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Basileia x Nice - Conference League (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Conference League.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277194/XL" />
+  </programme>
+  <programme start="20230413220000 +0100" stop="20230414000000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277188/XL" />
+  </programme>
+  <programme start="20230414000000 +0100" stop="20230414020000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414020000 +0100" stop="20230414040000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414040000 +0100" stop="20230414060000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414060000 +0100" stop="20230414080000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414080000 +0100" stop="20230414100000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414100000 +0100" stop="20230414120000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414120000 +0100" stop="20230414140000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414140000 +0100" stop="20230414160000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414160000 +0100" stop="20230414180000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230414180000 +0100" stop="20230414193000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277198/XL" />
+  </programme>
+  <programme start="20230414193000 +0100" stop="20230414220000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Basquetebol: Barcelona x Valência - Euroliga (Direto)</title>
+    <desc lang="pt">Transmissão do jogo a contar para a Euroliga de Basquetebol.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277200/XL" />
+  </programme>
+  <programme start="20230414220000 +0100" stop="20230415000000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277196/XL" />
+  </programme>
+  <programme start="20230415000000 +0100" stop="20230415020000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277202/XL" />
+  </programme>
+  <programme start="20230415020000 +0100" stop="20230415040000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277202/XL" />
+  </programme>
+  <programme start="20230415040000 +0100" stop="20230415060000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277202/XL" />
+  </programme>
+  <programme start="20230415060000 +0100" stop="20230415080000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277202/XL" />
+  </programme>
+  <programme start="20230415080000 +0100" stop="20230415104500 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277204/XL" />
+  </programme>
+  <programme start="20230415104500 +0100" stop="20230415125000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Western Sydney Wanderers x Melbourne Victory - Liga Australiana (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Liga Australiana.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277208/XL" />
+  </programme>
+  <programme start="20230415125000 +0100" stop="20230415153000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277204/XL" />
+  </programme>
+  <programme start="20230415153000 +0100" stop="20230415174000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Leixões x SP. Covilhã - Segunda Liga (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Segunda Liga.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277210/XL" />
+  </programme>
+  <programme start="20230415174000 +0100" stop="20230415190000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277206/XL" />
+  </programme>
+  <programme start="20230415190000 +0100" stop="20230415210000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Ténis: Estados Unidos x Áustria - Billie Jean King Cup (Direto)</title>
+    <desc lang="pt">Transmissão do torneio de Ténis.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277212/XL" />
+  </programme>
+  <programme start="20230415210000 +0100" stop="20230415223000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Ténis: Estados Unidos x Áustria - Billie Jean King Cup (Direto)</title>
+    <desc lang="pt">Transmissão do torneio de Ténis.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277214/XL" />
+  </programme>
+  <programme start="20230415223000 +0100" stop="20230416012000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Ténis: Estados Unidos x Áustria - Billie Jean King Cup (Direto)</title>
+    <desc lang="pt">Transmissão do torneio de Ténis.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277216/XL" />
+  </programme>
+  <programme start="20230416012000 +0100" stop="20230416020000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277218/XL" />
+  </programme>
+  <programme start="20230416020000 +0100" stop="20230416040000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277220/XL" />
+  </programme>
+  <programme start="20230416040000 +0100" stop="20230416060000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277220/XL" />
+  </programme>
+  <programme start="20230416060000 +0100" stop="20230416080000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277220/XL" />
+  </programme>
+  <programme start="20230416080000 +0100" stop="20230416100000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277220/XL" />
+  </programme>
+  <programme start="20230416100000 +0100" stop="20230416120000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277220/XL" />
+  </programme>
+  <programme start="20230416120000 +0100" stop="20230416140000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277220/XL" />
+  </programme>
+  <programme start="20230416140000 +0100" stop="20230416153000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <desc lang="pt">Fora De Horas - Sem Transmissão.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277222/XL" />
+  </programme>
+  <programme start="20230416153000 +0100" stop="20230416174000 +0100" channel="SPORT.TV6 HD">
+    <title lang="pt">Penafiel x Nacional - Segunda Liga (Direto)</title>
+    <desc lang="pt">Transmissão do jogo a contar para a Segunda Liga.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18277224/XL" />
+  </programme>
 </tv>
