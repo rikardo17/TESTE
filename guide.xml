@@ -142,12 +142,12 @@
     <url>http://www.nos.pt</url>
   </channel>
     <channel id="Espacial 25 Abril">
-    <display-name lang="pt">Espacial 25 Abril</display-name>
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | Especial 25 de Abril</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-    <programme start="20230410020000 +0100" stop="20230418060000 +0100" channel="Espacial 25 Abril">
-    <title lang="pt">Espacial 25 Abril</title>
-    <desc lang="pt">Espacial 25 Abril</desc>
+    <programme start="20230410020000 +0100" stop="20230418060000 +0100" channel="ᶜᵃⁿᵃˡ | Especial 25 de Abril">
+    <title lang="pt">Especial 25 Abril</title>
+    <desc lang="pt">Especial 25 Abril</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245582/XL" />
   </programme>
   <programme start="20230410020000 +0100" stop="20230410060000 +0100" channel="SPORT.TV6 HD">
