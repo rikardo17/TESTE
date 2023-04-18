@@ -177,6 +177,11 @@
     <display-name lang="pt">ELEVEN EXTRA 4</display-name>
     <url>http://www.nostv.pt</url>
   </channel>
+  <channel id="W-Sport">
+    <display-name lang="pt">W-Sport</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/w-sport-meo-logo.webp" />
+    <url>http://www.meo.pt</url>
+  </channel>
   <channel id="BTV1 HD">
     <display-name lang="pt">BTV1 HD</display-name>
     <url>http://www.nostv.pt</url>
@@ -35685,7 +35690,6 @@
     <desc lang="pt">Following the Good Friday Agreement in Northern Ireland - a generation of young people have lived in relative peace. Jordan Kenny explores what it means to be a 'peace baby'.</desc>
     <category lang="pt">Notícias</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/37_475613700/4_3/684/513" />
-    <premiere />
   </programme>
   <programme start="20230418030000 +0000" stop="20230418033000 +0000" channel="BBC World News">
     <title lang="pt">BBC News</title>
@@ -35693,6 +35697,7 @@
     <desc lang="pt">Twenty-four hours a day - the latest national and international stories as they break.</desc>
     <category lang="pt">Notícias</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/37_475613701/4_3/684/513" />
+    <premiere />
   </programme>
   <programme start="20230418033000 +0000" stop="20230418040000 +0000" channel="BBC World News">
     <title lang="pt">HARDtalk</title>
@@ -60113,6 +60118,601 @@
     <rating system="Imdb">
       <value>M3</value>
     </rating>
+  </programme>
+  <programme start="20230418010000 +0100" stop="20230418030000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: RB Leipzig v SC Freiburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch RB Leipzig v SC Freiburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214726/XL" />
+  </programme>
+  <programme start="20230418030000 +0100" stop="20230418043000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: UCLA v Arizona</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch UCLA v Arizona.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214727/XL" />
+  </programme>
+  <programme start="20230418043000 +0100" stop="20230418050000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: V. Williams, D. Klishina, R. Iffland</title>
+    <desc lang="pt">V. Williams reflects on a life well lived, long jumper D. Klishina competes under a neutral flag. R. Iffland takes cliff diving to new heights. M. Vos takes Tour De France.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214728/XL" />
+  </programme>
+  <programme start="20230418050000 +0100" stop="20230418062000 +0100" channel="W-Sport">
+    <title lang="pt">Netball SL 2023: Man Thunder v Surrey Storm</title>
+    <desc lang="pt">Watch Manchester Thunder v Surrey Storm in Netball Super League 2023.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245819/XL" />
+  </programme>
+  <programme start="20230418062000 +0100" stop="20230418065000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: N. Osaka, S. Williams, S. Gilmore</title>
+    <desc lang="pt">First Grand Slam title, first Australian surfer qualify for the Olympics and Japan keeps producing some of the greatest wrestlers in the world.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214730/XL" />
+  </programme>
+  <programme start="20230418065000 +0100" stop="20230418084000 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester City v Arsenal</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester City v Arsenal.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214731/XL" />
+  </programme>
+  <programme start="20230418084000 +0100" stop="20230418103000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Inter v Roma</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Inter v Roma.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214732/XL" />
+  </programme>
+  <programme start="20230418103000 +0100" stop="20230418110000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: S. Fitzgibbons, T. Schoenmaker</title>
+    <desc lang="pt">Wild surfing ride to California, furore at the Commonwealth Games, gymnastic highs and deeps, a legend on the floor, and the lovely Martina Hingis bows out of the WTA in style.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214733/XL" />
+  </programme>
+  <programme start="20230418110000 +0100" stop="20230418115000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2Q1</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Round 2 Qualification 1.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214734/XL" />
+  </programme>
+  <programme start="20230418115000 +0100" stop="20230418123000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2Q2</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Round 2 Qualification 2.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214735/XL" />
+  </programme>
+  <programme start="20230418123000 +0100" stop="20230418130000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: C. Shields, A. Shiraishi, M. Lee</title>
+    <desc lang="pt">Claressa Shields kick started a glorious career, climber Ashima Shiraishi made history when she was still a teenager. Abby Wambach continues her work as an activist.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214736/XL" />
+  </programme>
+  <programme start="20230418130000 +0100" stop="20230418143000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: UCLA v Washington</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214737/XL" />
+  </programme>
+  <programme start="20230418143000 +0100" stop="20230418163000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Inter v Roma</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Inter v Roma.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214732/XL" />
+  </programme>
+  <programme start="20230418163000 +0100" stop="20230418180000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Basketball-22: Prairie View v Washington State</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in basketball.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214738/XL" />
+  </programme>
+  <programme start="20230418180000 +0100" stop="20230418200000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: California v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch California v UCLA.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304964/XL" />
+  </programme>
+  <programme start="20230418200000 +0100" stop="20230418215000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: Bayern Munich v Wolfsburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch Bayern Munich v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214741/XL" />
+  </programme>
+  <programme start="20230418215000 +0100" stop="20230418230000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 VB 2022: Oregon v California</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in volleyball. Watch Oregon v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214743/XL" />
+  </programme>
+  <programme start="20230418230000 +0100" stop="20230418235000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2Q1</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Round 2 Qualification 1.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214734/XL" />
+  </programme>
+  <programme start="20230418235000 +0100" stop="20230419003000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2Q2</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Round 2 Qualification 2.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214735/XL" />
+  </programme>
+  <programme start="20230419003000 +0100" stop="20230419010000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: C. Shields, A. Shiraishi, M. Lee</title>
+    <desc lang="pt">Claressa Shields kick started a glorious career, climber Ashima Shiraishi made history when she was still a teenager. Abby Wambach continues her work as an activist.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214744/XL" />
+  </programme>
+  <programme start="20230419010000 +0100" stop="20230419023000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: UCLA v Washington</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214745/XL" />
+  </programme>
+  <programme start="20230419023000 +0100" stop="20230419043000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Inter v Roma</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Inter v Roma.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214746/XL" />
+  </programme>
+  <programme start="20230419043000 +0100" stop="20230419060000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Basketball-22: Prairie View v Washington State</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in basketball.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214747/XL" />
+  </programme>
+  <programme start="20230419060000 +0100" stop="20230419080000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: California v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch California v UCLA.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304965/XL" />
+  </programme>
+  <programme start="20230419080000 +0100" stop="20230419095000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: Bayern Munich v Wolfsburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch Bayern Munich v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214750/XL" />
+  </programme>
+  <programme start="20230419095000 +0100" stop="20230419110000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 VB 2022: Oregon v California</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in volleyball. Watch Oregon v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214752/XL" />
+  </programme>
+  <programme start="20230419110000 +0100" stop="20230419112000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2RR</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Round 2 Redemption race.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214753/XL" />
+  </programme>
+  <programme start="20230419112000 +0100" stop="20230419115000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2GF</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Grand Final of Round 2.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214754/XL" />
+  </programme>
+  <programme start="20230419115000 +0100" stop="20230419131000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: Arizona State v California</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214755/XL" />
+  </programme>
+  <programme start="20230419131000 +0100" stop="20230419143000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 VB 2022: Utah v California</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in volleyball. Watch Utah v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214756/XL" />
+  </programme>
+  <programme start="20230419143000 +0100" stop="20230419162000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: Bayern Munich v Wolfsburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch Bayern Munich v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214750/XL" />
+  </programme>
+  <programme start="20230419162000 +0100" stop="20230419173500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Basketball-22: Troy v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in basketball.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214757/XL" />
+  </programme>
+  <programme start="20230419173500 +0100" stop="20230419191000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: Washington v Utah</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch Washington v Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304966/XL" />
+  </programme>
+  <programme start="20230419191000 +0100" stop="20230419211500 +0100" channel="W-Sport">
+    <title lang="pt">LIVE WSL 22-23: Manchester Utd v Arsenal</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester Utd v Arsenal.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276588/XL" />
+  </programme>
+  <programme start="20230419211500 +0100" stop="20230419215000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: S. Biles, L. Nasser, R. Atherton</title>
+    <desc lang="pt">Simone Biles goes to the Tokyo Olympics. Rachel Atherton bounces back from injury, Rhiannan Iffland for gender equality in the world of cliff diving.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214761/XL" />
+  </programme>
+  <programme start="20230419215000 +0100" stop="20230419230000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 VB 2022: California v Stanford</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in volleyball. Watch California v Stanford.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214762/XL" />
+  </programme>
+  <programme start="20230419230000 +0100" stop="20230419232000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2RR</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Round 2 Redemption race.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214753/XL" />
+  </programme>
+  <programme start="20230419232000 +0100" stop="20230419235000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2GF</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Grand Final of Round 2.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214754/XL" />
+  </programme>
+  <programme start="20230419235000 +0100" stop="20230420011000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: Arizona State v California</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214755/XL" />
+  </programme>
+  <programme start="20230420011000 +0100" stop="20230420023000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 VB 2022: Utah v California</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in volleyball. Watch Utah v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214763/XL" />
+  </programme>
+  <programme start="20230420023000 +0100" stop="20230420042000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: Bayern Munich v Wolfsburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch Bayern Munich v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214764/XL" />
+  </programme>
+  <programme start="20230420042000 +0100" stop="20230420053500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Basketball-22: Troy v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in basketball.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18214765/XL" />
+  </programme>
+  <programme start="20230420053500 +0100" stop="20230420071000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: Washington v Utah</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch Washington v Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304967/XL" />
+  </programme>
+  <programme start="20230420071000 +0100" stop="20230420091500 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester Utd v Arsenal</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester Utd v Arsenal.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276589/XL" />
+  </programme>
+  <programme start="20230420091500 +0100" stop="20230420095000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: S. Biles, L. Nasser, R. Atherton</title>
+    <desc lang="pt">Simone Biles goes to the Tokyo Olympics. Rachel Atherton bounces back from injury, Rhiannan Iffland for gender equality in the world of cliff diving.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245824/XL" />
+  </programme>
+  <programme start="20230420095000 +0100" stop="20230420110000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 VB 2022: California v Stanford</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in volleyball. Watch California v Stanford.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245825/XL" />
+  </programme>
+  <programme start="20230420110000 +0100" stop="20230420130000 +0100" channel="W-Sport">
+    <title lang="pt">Vrouwen Eredivisie 22-23: PSV x Ajax</title>
+    <desc lang="pt">The Eredivisie is the Netherlands Football League competition for Womens professional football. Watch PSV x Ajax.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245826/XL" />
+  </programme>
+  <programme start="20230420130000 +0100" stop="20230420144000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: California v Utah</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245827/XL" />
+  </programme>
+  <programme start="20230420144000 +0100" stop="20230420163000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Juventus v Fiorentina</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Juventus v Fiorentina.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245831/XL" />
+  </programme>
+  <programme start="20230420163000 +0100" stop="20230420190000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: UCLA v Stanford</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch UCLA v Stanford.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304968/XL" />
+  </programme>
+  <programme start="20230420190000 +0100" stop="20230420210000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga 22-23: Duisburg v Wolfsburg</title>
+    <desc lang="pt">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Duisburg v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276590/XL" />
+  </programme>
+  <programme start="20230420210000 +0100" stop="20230420223000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: Santa Clara v California</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch Santa Clara v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245832/XL" />
+  </programme>
+  <programme start="20230420223000 +0100" stop="20230420230000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: Surfing league at Tokyo</title>
+    <desc lang="pt">The fascinating story of the three best heptathletes' journey to the top of sport. The surfing women are ready the Olympics, and our homage to female sport trailblazers.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245833/XL" />
+  </programme>
+  <programme start="20230420230000 +0100" stop="20230421010000 +0100" channel="W-Sport">
+    <title lang="pt">Vrouwen Eredivisie 22-23: PSV x Ajax</title>
+    <desc lang="pt">The Eredivisie is the Netherlands Football League competition for Womens professional football. Watch PSV x Ajax.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245826/XL" />
+  </programme>
+  <programme start="20230421010000 +0100" stop="20230421024000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: California v Utah</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245834/XL" />
+  </programme>
+  <programme start="20230421024000 +0100" stop="20230421043000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Juventus v Fiorentina</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Juventus v Fiorentina.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245839/XL" />
+  </programme>
+  <programme start="20230421043000 +0100" stop="20230421070000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: UCLA v Stanford</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch UCLA v Stanford.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304969/XL" />
+  </programme>
+  <programme start="20230421070000 +0100" stop="20230421090000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga 22-23: Duisburg v Wolfsburg</title>
+    <desc lang="pt">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Duisburg v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276591/XL" />
+  </programme>
+  <programme start="20230421090000 +0100" stop="20230421103000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: Santa Clara v California</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch Santa Clara v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245840/XL" />
+  </programme>
+  <programme start="20230421103000 +0100" stop="20230421110000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: Surfing league at Tokyo</title>
+    <desc lang="pt">The fascinating story of the three best heptathletes' journey to the top of sport. The surfing women are ready the Olympics, and our homage to female sport trailblazers.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245841/XL" />
+  </programme>
+  <programme start="20230421110000 +0100" stop="20230421124500 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester City v Manchester Utd</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester City v Manchester Utd.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245842/XL" />
+  </programme>
+  <programme start="20230421124500 +0100" stop="20230421143000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: UCLA v Arizona</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245843/XL" />
+  </programme>
+  <programme start="20230421143000 +0100" stop="20230421162000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga 22-23: Duisburg v Wolfsburg</title>
+    <desc lang="pt">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Duisburg v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276591/XL" />
+  </programme>
+  <programme start="20230421162000 +0100" stop="20230421174500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: Santa Clara v California</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch Santa Clara v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245840/XL" />
+  </programme>
+  <programme start="20230421174500 +0100" stop="20230421181500 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: S. Coxsey, M. Sharapova, K. Ohashi</title>
+    <desc lang="pt">Shauna Coxsey wasn't letting the pandemic get in the way of her training. Maria Sharapova called it a day, and gymnast Kately Ohashi proved that one size does not fit all.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245845/XL" />
+  </programme>
+  <programme start="20230421181500 +0100" stop="20230421192500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Basketball-22: Cal Poly v Stanford</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in basketball.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245836/XL" />
+  </programme>
+  <programme start="20230421192500 +0100" stop="20230421210000 +0100" channel="W-Sport">
+    <title lang="pt">LIVE Netball SL 2023: Severn Stars v London Pulse</title>
+    <desc lang="pt">Watch Severn Stars v London Pulse in Netball Super League 2023.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245846/XL" />
+  </programme>
+  <programme start="20230421210000 +0100" stop="20230421213000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: L. Thompson, D. Muhammad</title>
+    <desc lang="pt">Lexi Thompson shares the secrets of her success, Dalilah Muhammad is smashing records, Mary Kom holds India's hopes in her hands as she prepares for the Tokyo Olympics.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245847/XL" />
+  </programme>
+  <programme start="20230421213000 +0100" stop="20230421230000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: BYU v Arizona State</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch BYU v Arizona State.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304970/XL" />
+  </programme>
+  <programme start="20230421230000 +0100" stop="20230422004500 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester City v Manchester Utd</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester City v Manchester Utd.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245842/XL" />
+  </programme>
+  <programme start="20230422004500 +0100" stop="20230422023000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: UCLA v Arizona</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245849/XL" />
+  </programme>
+  <programme start="20230422023000 +0100" stop="20230422042000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga 22-23: Duisburg v Wolfsburg</title>
+    <desc lang="pt">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Duisburg v Wolfsburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276944/XL" />
+  </programme>
+  <programme start="20230422042000 +0100" stop="20230422054500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: Santa Clara v California</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch Santa Clara v California.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245851/XL" />
+  </programme>
+  <programme start="20230422054500 +0100" stop="20230422061500 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: S. Coxsey, M. Sharapova, K. Ohashi</title>
+    <desc lang="pt">Shauna Coxsey wasn't letting the pandemic get in the way of her training. Maria Sharapova called it a day, and gymnast Kately Ohashi proved that one size does not fit all.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245853/XL" />
+  </programme>
+  <programme start="20230422061500 +0100" stop="20230422072500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Basketball-22: Cal Poly v Stanford</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in basketball.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304971/XL" />
+  </programme>
+  <programme start="20230422072500 +0100" stop="20230422090000 +0100" channel="W-Sport">
+    <title lang="pt">Netball SL 2023: Severn Stars v London Pulse</title>
+    <desc lang="pt">Watch Severn Stars v London Pulse in Netball Super League 2023.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245854/XL" />
+  </programme>
+  <programme start="20230422090000 +0100" stop="20230422093000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: L. Thompson, D. Muhammad</title>
+    <desc lang="pt">Lexi Thompson shares the secrets of her success, Dalilah Muhammad is smashing records, Mary Kom holds India's hopes in her hands as she prepares for the Tokyo Olympics.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245855/XL" />
+  </programme>
+  <programme start="20230422093000 +0100" stop="20230422110000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Softball 23: BYU v Arizona State</title>
+    <desc lang="pt">The Pac-12 Conference softball tournament is a single-elimination tournament and seeding is based on Pac-12 regular season standings. Watch BYU v Arizona State.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304972/XL" />
+  </programme>
+  <programme start="20230422110000 +0100" stop="20230422112500 +0100" channel="W-Sport">
+    <title lang="pt">GCL HL-23: GCL HL-23 Miami Beach ep2</title>
+    <desc lang="pt">Show Jumping - Highlights from the Global Champions League held in Miami Beach.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245860/XL" />
+  </programme>
+  <programme start="20230422112500 +0100" stop="20230422133000 +0100" channel="W-Sport">
+    <title lang="pt">LIVE Serie A Femminile 22-23: Milan v Inter</title>
+    <desc lang="pt">Suivez la Milan face à la Inter en Serie A Femminile, le championnat élite d'Italie de football professionnel féminin.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276946/XL" />
+  </programme>
+  <programme start="20230422133000 +0100" stop="20230422153000 +0100" channel="W-Sport">
+    <title lang="pt">LIVE Serie A Femminile 22-23: Roma v Juventus</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Roma v Juventus.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276949/XL" />
+  </programme>
+  <programme start="20230422153000 +0100" stop="20230422170000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: UCLA v Washington</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276950/XL" />
+  </programme>
+  <programme start="20230422170000 +0100" stop="20230422185000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga 22-23: Bayern Munich v Freiburg</title>
+    <desc lang="pt">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Bayern Munich v Freiburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276951/XL" />
+  </programme>
+  <programme start="20230422185000 +0100" stop="20230422202000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: USC v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch USC v UCLA.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304973/XL" />
+  </programme>
+  <programme start="20230422202000 +0100" stop="20230422215000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: USC v Loyola Marymount</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch USC v Loyola Marymount.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304974/XL" />
+  </programme>
+  <programme start="20230422215000 +0100" stop="20230422223000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2GF</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Grand Final of Round 2.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276952/XL" />
+  </programme>
+  <programme start="20230422223000 +0100" stop="20230422230000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: A. Gasser, A. Kerber, C. Shields</title>
+    <desc lang="pt">Anna Gasser became the first Big Air Olympic champion. Nyimas Bunga Cinta is another young gun on the skateboarding scene. Claressa Shields is going after Laila Ali's title.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245858/XL" />
+  </programme>
+  <programme start="20230422230000 +0100" stop="20230422232500 +0100" channel="W-Sport">
+    <title lang="pt">GCL HL-23: GCL HL-23 Miami Beach ep2</title>
+    <desc lang="pt">Show Jumping - Highlights from the Global Champions League held in Miami Beach.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245860/XL" />
+  </programme>
+  <programme start="20230422232500 +0100" stop="20230423013000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Milan v Inter</title>
+    <desc lang="pt">Suivez la Milan face à la Inter en Serie A Femminile, le championnat élite d'Italie de football professionnel féminin.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276953/XL" />
+  </programme>
+  <programme start="20230423013000 +0100" stop="20230423033000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Roma v Juventus</title>
+    <desc lang="pt">The Italian Womens Serie A is the premier professional football league for women in Italy. Watch Roma v Juventus.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276954/XL" />
+  </programme>
+  <programme start="20230423033000 +0100" stop="20230423050000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: UCLA v Washington</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245876/XL" />
+  </programme>
+  <programme start="20230423050000 +0100" stop="20230423065000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga 22-23: Bayern Munich v Freiburg</title>
+    <desc lang="pt">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Bayern Munich v Freiburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276955/XL" />
+  </programme>
+  <programme start="20230423065000 +0100" stop="20230423082000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: USC v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch USC v UCLA.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304975/XL" />
+  </programme>
+  <programme start="20230423082000 +0100" stop="20230423095000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: USC v Loyola Marymount</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch USC v Loyola Marymount.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304976/XL" />
+  </programme>
+  <programme start="20230423095000 +0100" stop="20230423103000 +0100" channel="W-Sport">
+    <title lang="pt">Extreme E-23: Extreme E-23 Saudi Arabia R2GF</title>
+    <desc lang="pt">Kicking off its third season, Extreme E returns to Saudi Arabia for the third Desert X Prix, held in the futuristic region of NEOM.Watch Grand Final of Round 2.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276957/XL" />
+  </programme>
+  <programme start="20230423103000 +0100" stop="20230423110000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: A. Gasser, A. Kerber, C. Shields</title>
+    <desc lang="pt">Anna Gasser became the first Big Air Olympic champion. Nyimas Bunga Cinta is another young gun on the skateboarding scene. Claressa Shields is going after Laila Ali's title.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245866/XL" />
+  </programme>
+  <programme start="20230423110000 +0100" stop="20230423131500 +0100" channel="W-Sport">
+    <title lang="pt">LIVE Vrouwen Eredivisie 22-23</title>
+    <desc lang="pt">The Eredivisie is the Netherlands Football League competition for Womens professional football.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245875/XL" />
+  </programme>
+  <programme start="20230423131500 +0100" stop="20230423144500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: Loyola Marymount v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch Loyola Marymount v UCLA.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245879/XL" />
+  </programme>
+  <programme start="20230423144500 +0100" stop="20230423154500 +0100" channel="W-Sport">
+    <title lang="pt">Santos Tour Down Under 23 HL</title>
+    <desc lang="pt">Le Santos Tour Down Under est le premier événement de l'UCI WorldTour et lance la saison internationale de cyclisme professionnel féminin au cœur de l'été australien.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304977/XL" />
+  </programme>
+  <programme start="20230423154500 +0100" stop="20230423161500 +0100" channel="W-Sport">
+    <title lang="pt">LGCT-23 HL: LGCT-23 HL Miami Beach ep2</title>
+    <desc lang="pt">Show Jumping - Highlights from the Longines Global Champions Tour held in Miami Beach.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245870/XL" />
+  </programme>
+  <programme start="20230423161500 +0100" stop="20230423164500 +0100" channel="W-Sport">
+    <title lang="pt">Electric Odyssey</title>
+    <desc lang="pt">Extreme E is the World's major Off Road series where teams are racing fully electric powered vehicles in some of the most challenging and beautiful places around the World.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276961/XL" />
+  </programme>
+  <programme start="20230423164500 +0100" stop="20230423184000 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester Utd v Arsenal</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester Utd v Arsenal.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245867/XL" />
+  </programme>
+  <programme start="20230423184000 +0100" stop="20230423204500 +0100" channel="W-Sport">
+    <title lang="pt">LIVE WSL 22-23: Manchester City v West Ham Utd</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester City v West Ham Utd.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245881/XL" />
+  </programme>
+  <programme start="20230423204500 +0100" stop="20230423223000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: RB Leipzig v SC Freiburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch RB Leipzig v SC Freiburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276962/XL" />
+  </programme>
+  <programme start="20230423223000 +0100" stop="20230423230000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: A. Chmelecki, S. Wevers, C. Gauff</title>
+    <desc lang="pt">Amy Chmelecki inspires women all around the world. Sanne Wevers and Sharon van Rouwendaal shine brightly in Rio.Coco Gauff supports the 'Black Live Matter' movement.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245882/XL" />
+  </programme>
+  <programme start="20230423230000 +0100" stop="20230424011500 +0100" channel="W-Sport">
+    <title lang="pt">Vrouwen Eredivisie 22-23</title>
+    <desc lang="pt">The Eredivisie is the Netherlands Football League competition for Womens professional football.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245883/XL" />
+  </programme>
+  <programme start="20230424011500 +0100" stop="20230424024500 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Beach Volleyball 22/23: Loyola Marymount v UCLA</title>
+    <desc lang="pt">The PAC12 is a collegiate conference on the West Coast of the USA featuring Universities that compete in Beach volleyball. Watch Loyola Marymount v UCLA.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245887/XL" />
+  </programme>
+  <programme start="20230424024500 +0100" stop="20230424034500 +0100" channel="W-Sport">
+    <title lang="pt">Santos Tour Down Under 23 HL</title>
+    <desc lang="pt">Le Santos Tour Down Under est le premier événement de l'UCI WorldTour et lance la saison internationale de cyclisme professionnel féminin au cœur de l'été australien.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304978/XL" />
+  </programme>
+  <programme start="20230424034500 +0100" stop="20230424041500 +0100" channel="W-Sport">
+    <title lang="pt">LGCT-23 HL: LGCT-23 HL Miami Beach ep2</title>
+    <desc lang="pt">Show Jumping - Highlights from the Longines Global Champions Tour held in Miami Beach.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18304979/XL" />
+  </programme>
+  <programme start="20230424041500 +0100" stop="20230424044500 +0100" channel="W-Sport">
+    <title lang="pt">Electric Odyssey</title>
+    <desc lang="pt">Extreme E is the World's major Off Road series where teams are racing fully electric powered vehicles in some of the most challenging and beautiful places around the World.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276964/XL" />
+  </programme>
+  <programme start="20230424044500 +0100" stop="20230424064000 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester Utd v Arsenal</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester Utd v Arsenal.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245896/XL" />
+  </programme>
+  <programme start="20230424064000 +0100" stop="20230424084500 +0100" channel="W-Sport">
+    <title lang="pt">WSL 22-23: Manchester City v West Ham Utd</title>
+    <desc lang="pt">The WSL is England's Premier Football League competition for Womens professional football. Watch Manchester City v West Ham Utd.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245889/XL" />
+  </programme>
+  <programme start="20230424084500 +0100" stop="20230424103000 +0100" channel="W-Sport">
+    <title lang="pt">Frauen Bundesliga Cup - 22-23: RB Leipzig v SC Freiburg</title>
+    <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch RB Leipzig v SC Freiburg.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276965/XL" />
+  </programme>
+  <programme start="20230424103000 +0100" stop="20230424110000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: A. Chmelecki, S. Wevers, C. Gauff</title>
+    <desc lang="pt">Amy Chmelecki inspires women all around the world. Sanne Wevers and Sharon van Rouwendaal shine brightly in Rio.Coco Gauff supports the 'Black Live Matter' movement.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245891/XL" />
+  </programme>
+  <programme start="20230424110000 +0100" stop="20230424123000 +0100" channel="W-Sport">
+    <title lang="pt">Netball SL 2023: Severn Stars v London Pulse</title>
+    <desc lang="pt">Watch Severn Stars v London Pulse in Netball Super League 2023.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245892/XL" />
+  </programme>
+  <programme start="20230424123000 +0100" stop="20230424130000 +0100" channel="W-Sport">
+    <title lang="pt">Sports Woman: Moore, Fairtex, King, Scarlett</title>
+    <desc lang="pt">Carissa Moore bravely took a year off. Billie Jean King continues to change the landscape for women and esports Scarlett became the first esports champion at PyeongChang 2018.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245893/XL" />
+  </programme>
+  <programme start="20230424130000 +0100" stop="20230424145000 +0100" channel="W-Sport">
+    <title lang="pt">PAC12 Gymnastics: Iowa St v UCLA</title>
+    <desc lang="pt">Gymnastics - The best Universities in the region, featuring some of the World's best gymnasts compete for the PAC 12 Conference Title at the Maverik Centre, Salt Lake City, Utah.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245894/XL" />
+  </programme>
+  <programme start="20230424145000 +0100" stop="20230424152000 +0100" channel="W-Sport">
+    <title lang="pt">GCL HL-23: GCL HL-23 Doha</title>
+    <desc lang="pt">Show Jumping - Highlights from the Global Champions League held in Doha.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18245895/XL" />
+  </programme>
+  <programme start="20230424152000 +0100" stop="20230424172000 +0100" channel="W-Sport">
+    <title lang="pt">Serie A Femminile 22-23: Milan v Inter</title>
+    <desc lang="pt">Suivez la Milan face à la Inter en Serie A Femminile, le championnat élite d'Italie de football professionnel féminin.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18276966/XL" />
   </programme>
   <programme start="20230418000000 +0000" stop="20230418003000 +0000" channel="BTV1 HD">
     <title lang="pt">Sob a Lei</title>
