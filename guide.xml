@@ -182,6 +182,11 @@
     <display-name lang="pt">ELEVEN EXTRA 4</display-name>
     <url>http://www.nostv.pt</url>
   </channel>
+  <channel id="Fightbox HD">
+    <display-name lang="pt">Fightbox HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/350/" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="W-Sport">
     <display-name lang="pt">W-SPORT HD</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/w-sport-meo-logo.webp" />
@@ -190,6 +195,20 @@
   <channel id="BTV1 HD">
     <display-name lang="pt">BTV1 HD</display-name>
     <url>http://www.nostv.pt</url>
+  </channel>
+  <channel id="WWE">
+    <display-name lang="en">WWE HD</display-name>
+    <icon src="https://sec.wwe.com/f/styles/og_16x9/public/wwe_default.jpg" />
+    <url>http://www.wwe.com</url>
+  </channel>
+  <channel id="COMBATE">
+    <display-name lang="pt">COMBATE</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="RedBull TV">
+    <display-name lang="en">RedBull TV HD</display-name>
+    <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
+    <url>http://www.redbull.tv</url>
   </channel>
   <channel id="RTP 1 HD">
     <display-name lang="pt">RTP 1 HD</display-name>
@@ -35702,7 +35721,6 @@
     <desc lang="pt">Twenty-four hours a day - the latest national and international stories as they break.</desc>
     <category lang="pt">Notícias</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/37_475613701/4_3/684/513" />
-    <premiere />
   </programme>
   <programme start="20230418033000 +0000" stop="20230418040000 +0000" channel="BBC World News">
     <title lang="pt">HARDtalk</title>
@@ -35710,6 +35728,7 @@
     <desc lang="pt">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives.</desc>
     <category lang="pt">Notícias</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/37_473132203/4_3/684/513" />
+    <premiere />
   </programme>
   <programme start="20230418040000 +0000" stop="20230418043000 +0000" channel="BBC World News">
     <title lang="pt">BBC News</title>
@@ -60329,6 +60348,763 @@
       <value>M3</value>
     </rating>
   </programme>
+  <programme start="20230418022000 +0000" stop="20230418030500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hard Knocks Fighting</title>
+    <sub-title lang="pt">ter 18-abr, 03:20</sub-title>
+    <desc lang="pt">HKFC is one of the world's premier MMA promotions, showcasing elite up and coming athletes on a global stage. With over 50 events, HKFC has earned a reputation of being a world class organization, through its global audience and draw of talent.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242090/4_3/684/513" />
+  </programme>
+  <programme start="20230418030500 +0000" stop="20230418031500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 04:05</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242091/4_3/684/513" />
+  </programme>
+  <programme start="20230418031500 +0000" stop="20230418033000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 04:15</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242092/4_3/684/513" />
+  </programme>
+  <programme start="20230418033000 +0000" stop="20230418034000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 04:30</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242093/4_3/684/513" />
+  </programme>
+  <programme start="20230418034000 +0000" stop="20230418035000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 04:40</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242094/4_3/684/513" />
+    <premiere />
+  </programme>
+  <programme start="20230418035000 +0000" stop="20230418040000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 04:50</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242095/4_3/684/513" />
+  </programme>
+  <programme start="20230418040000 +0000" stop="20230418041500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 05:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242096/4_3/684/513" />
+  </programme>
+  <programme start="20230418041500 +0000" stop="20230418082000 +0000" channel="Fightbox HD">
+    <title lang="pt">Lnk Boxing Night 8, Arena Riga, 14.07.2018</title>
+    <sub-title lang="pt">ter 18-abr, 05:15</sub-title>
+    <desc lang="pt">This international professional boxing event in Jurmala (Latvia) on July 14, 2018. During the event, ten fights were held in various weight categories. The fights featured fighters from Latvia, Russia, Belarus, Serbia, and Poland.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242097/4_3/684/513" />
+  </programme>
+  <programme start="20230418082000 +0000" stop="20230418083000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 09:20</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242098/4_3/684/513" />
+  </programme>
+  <programme start="20230418083000 +0000" stop="20230418084000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 09:30</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242099/4_3/684/513" />
+  </programme>
+  <programme start="20230418084000 +0000" stop="20230418085000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 09:40</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242100/4_3/684/513" />
+  </programme>
+  <programme start="20230418085000 +0000" stop="20230418090000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">ter 18-abr, 09:50</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242101/4_3/684/513" />
+  </programme>
+  <programme start="20230418090000 +0000" stop="20230418093500 +0000" channel="Fightbox HD">
+    <title lang="pt">Punch Down 7, Poznań, Poland</title>
+    <sub-title lang="pt">ter 18-abr, 10:00</sub-title>
+    <desc lang="pt">WHAT IS PUNCHDOWN? The main idea of the competition is to have fun! Participants compete with each other on the rules of the knockout stage (bracket) in 1vs1 duels, hitting each other on the cheek with an open hand, maximum 3 blows per person.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242102/4_3/684/513" />
+  </programme>
+  <programme start="20230418093500 +0000" stop="20230418114000 +0000" channel="Fightbox HD">
+    <title lang="pt">NEW War 2019</title>
+    <sub-title lang="pt">ter 18-abr, 10:35</sub-title>
+    <desc lang="pt">NEW Wrestling's (New European Championship Wrestling) most hardcore event of the year. The word "violence" has a whole new meaning when top NEW stars and international talent meet in extreme stipulation matches.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242103/4_3/684/513" />
+  </programme>
+  <programme start="20230418114000 +0000" stop="20230418150000 +0000" channel="Fightbox HD">
+    <title lang="pt">WGP Kickboxing Brazil</title>
+    <sub-title lang="pt">ter 18-abr, 12:40</sub-title>
+    <desc lang="pt">WGP Kickboxing Brazil is the premier kickboxing promotion in Latin America. Promoted since 2011, endorsed by the Brazilian Kickboxing Confederation and WAKO PRO, the promotion organizes several professional kickboxing events with the best athletes of Latin America and of the world.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242104/4_3/684/513" />
+  </programme>
+  <programme start="20230418150000 +0000" stop="20230418173000 +0000" channel="Fightbox HD">
+    <title lang="pt">King Of Kings Grand Prix</title>
+    <sub-title lang="pt">ter 18-abr, 16:00</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242105/4_3/684/513" />
+  </programme>
+  <programme start="20230418173000 +0000" stop="20230418200000 +0000" channel="Fightbox HD">
+    <title lang="pt">World Grand Prix Fight TNA, Tatneft Arena, Kazan, Russia</title>
+    <sub-title lang="pt">ter 18-abr, 18:30</sub-title>
+    <desc lang="pt">TATNEFT CUP tournament takes place in Kazan (Russia) at the "Tatneft Arena" in Ice Sports Palace. Several fights are scheduled for the event in three weight categories involving fighters from Russia, Turkey, Israel, Serbia, Romania and Belarus.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242106/4_3/684/513" />
+  </programme>
+  <programme start="20230418200000 +0000" stop="20230418204500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hard Knocks Fighting</title>
+    <sub-title lang="pt">ter 18-abr, 21:00</sub-title>
+    <desc lang="pt">HKFC is one of the world's premier MMA promotions, showcasing elite up and coming athletes on a global stage. With over 50 events, HKFC has earned a reputation of being a world class organization, through its global audience and draw of talent.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242107/4_3/684/513" />
+  </programme>
+  <programme start="20230418204500 +0000" stop="20230418233000 +0000" channel="Fightbox HD">
+    <title lang="pt">RXF MMA Championship, Romania - Special Edition</title>
+    <sub-title lang="pt">ter 18-abr, 21:45</sub-title>
+    <desc lang="pt">Real Xtreme Fighting (RXF), the largest promotion in Romania and the undisputed leader in the organization of events dedicated to Mixed Martial Arts (MMA), is pleased to invite you on RXF Gala.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242108/4_3/684/513" />
+  </programme>
+  <programme start="20230418233000 +0000" stop="20230419023500 +0000" channel="Fightbox HD">
+    <title lang="pt">Makowski FC Tournament - Zielona Gora, Poland</title>
+    <sub-title lang="pt">qua 19-abr, 00:30</sub-title>
+    <desc lang="pt">Makowski Fighting Championship returns to FightBox HD on Saturday March 27 from Nowa Sól Poland. The best Polish fighters and top international talent will clash in three different disciplines.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242109/4_3/684/513" />
+  </programme>
+  <programme start="20230419023500 +0000" stop="20230419025500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">qua 19-abr, 03:35</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242110/4_3/684/513" />
+  </programme>
+  <programme start="20230419025500 +0000" stop="20230419031500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">qua 19-abr, 03:55</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242111/4_3/684/513" />
+  </programme>
+  <programme start="20230419031500 +0000" stop="20230419034000 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">qua 19-abr, 04:15</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242112/4_3/684/513" />
+  </programme>
+  <programme start="20230419034000 +0000" stop="20230419034500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qua 19-abr, 04:40</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242113/4_3/684/513" />
+  </programme>
+  <programme start="20230419034500 +0000" stop="20230419040000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qua 19-abr, 04:45</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242114/4_3/684/513" />
+  </programme>
+  <programme start="20230419040000 +0000" stop="20230419041500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qua 19-abr, 05:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242115/4_3/684/513" />
+  </programme>
+  <programme start="20230419041500 +0000" stop="20230419064500 +0000" channel="Fightbox HD">
+    <title lang="pt">King Of Kings Grand Prix</title>
+    <sub-title lang="pt">qua 19-abr, 05:15</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242116/4_3/684/513" />
+  </programme>
+  <programme start="20230419064500 +0000" stop="20230419091500 +0000" channel="Fightbox HD">
+    <title lang="pt">World Grand Prix Fight TNA, Tatneft Arena, Kazan, Russia</title>
+    <sub-title lang="pt">qua 19-abr, 07:45</sub-title>
+    <desc lang="pt">TATNEFT CUP tournament takes place in Kazan (Russia) at the "Tatneft Arena" in Ice Sports Palace. Several fights are scheduled for the event in three weight categories involving fighters from Russia, Turkey, Israel, Serbia, Romania and Belarus.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242117/4_3/684/513" />
+  </programme>
+  <programme start="20230419091500 +0000" stop="20230419092500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qua 19-abr, 10:15</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242118/4_3/684/513" />
+  </programme>
+  <programme start="20230419092500 +0000" stop="20230419094000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qua 19-abr, 10:25</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242119/4_3/684/513" />
+  </programme>
+  <programme start="20230419094000 +0000" stop="20230419113000 +0000" channel="Fightbox HD">
+    <title lang="pt">Enfusion '102, Alkmaar, Netherlands</title>
+    <sub-title lang="pt">qua 19-abr, 10:40</sub-title>
+    <desc lang="pt">Enfusion Kickboxing is one of the world's top Kickboxing organizations. Live events take place all over the world and include Enfusion Live and Enfusion Talent which are both full events of about 2 hours held on the same night.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242120/4_3/684/513" />
+  </programme>
+  <programme start="20230419113000 +0000" stop="20230419135500 +0000" channel="Fightbox HD">
+    <title lang="pt">Colosseum / Prometheus, Ploiesti, Romania</title>
+    <sub-title lang="pt">qua 19-abr, 12:30</sub-title>
+    <desc lang="pt">An exceptional show of sound and lights, kickboxing and MMA gala, in which we will have fighters from Romania and beyond. A gala where heroes of martial arts from Romania will meet some of the strongest opponents.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242121/4_3/684/513" />
+  </programme>
+  <programme start="20230419135500 +0000" stop="20230419170000 +0000" channel="Fightbox HD">
+    <title lang="pt">Makowski FC Tournament - Zielona Gora, Poland</title>
+    <sub-title lang="pt">qua 19-abr, 14:55</sub-title>
+    <desc lang="pt">Makowski Fighting Championship returns to FightBox HD on Saturday March 27 from Nowa Sól Poland. The best Polish fighters and top international talent will clash in three different disciplines.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242122/4_3/684/513" />
+  </programme>
+  <programme start="20230419170000 +0000" stop="20230419190000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fightbox King Of Kings Heroes Series, MMMA Bushido Brussels, Belgium</title>
+    <sub-title lang="pt">qua 19-abr, 18:00</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242123/4_3/684/513" />
+  </programme>
+  <programme start="20230419190000 +0000" stop="20230419213000 +0000" channel="Fightbox HD">
+    <title lang="pt">Kings Of Kings Grand Prix</title>
+    <sub-title lang="pt">qua 19-abr, 20:00</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242124/4_3/684/513" />
+  </programme>
+  <programme start="20230419213000 +0000" stop="20230419233500 +0000" channel="Fightbox HD">
+    <title lang="pt">NEW War 2019</title>
+    <sub-title lang="pt">qua 19-abr, 22:30</sub-title>
+    <desc lang="pt">NEW Wrestling's (New European Championship Wrestling) most hardcore event of the year. The word "violence" has a whole new meaning when top NEW stars and international talent meet in extreme stipulation matches.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242125/4_3/684/513" />
+  </programme>
+  <programme start="20230419233500 +0000" stop="20230420001000 +0000" channel="Fightbox HD">
+    <title lang="pt">UK Wrestling Showdown</title>
+    <sub-title lang="pt">qui 20-abr, 00:35</sub-title>
+    <desc lang="pt">UK Wrestling promotes live wrestling featuring some of the top names in the UK plus rising talent. This unique brand of Sports &amp; Entertainment is the ultimate family entertainment experience. Join us every week for all the action from inside the squared circle from the UKW Arena.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242126/4_3/684/513" />
+  </programme>
+  <programme start="20230420001000 +0000" stop="20230420004000 +0000" channel="Fightbox HD">
+    <title lang="pt">UK Wrestling Showdown</title>
+    <sub-title lang="pt">qui 20-abr, 01:10</sub-title>
+    <desc lang="pt">UK Wrestling promotes live wrestling featuring some of the top names in the UK plus rising talent. This unique brand of Sports &amp; Entertainment is the ultimate family entertainment experience. Join us every week for all the action from inside the squared circle from the UKW Arena.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242127/4_3/684/513" />
+  </programme>
+  <programme start="20230420004000 +0000" stop="20230420011500 +0000" channel="Fightbox HD">
+    <title lang="pt">UK Wrestling Showdown</title>
+    <sub-title lang="pt">qui 20-abr, 01:40</sub-title>
+    <desc lang="pt">UK Wrestling promotes live wrestling featuring some of the top names in the UK plus rising talent. This unique brand of Sports &amp; Entertainment is the ultimate family entertainment experience. Join us every week for all the action from inside the squared circle from the UKW Arena.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242128/4_3/684/513" />
+  </programme>
+  <programme start="20230420011500 +0000" stop="20230420040000 +0000" channel="Fightbox HD">
+    <title lang="pt">LUX 013 Fighting League, Mexico</title>
+    <sub-title lang="pt">qui 20-abr, 02:15</sub-title>
+    <desc lang="pt">LUX FIGHTING LEAGUE is the most exclusive MMA league in Latin America. Founded in 2017, LUX has organized 6 action packed events and have already made a name for themselves by hosting some of the best fighters from Latin America.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242129/4_3/684/513" />
+  </programme>
+  <programme start="20230420040000 +0000" stop="20230420041000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qui 20-abr, 05:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242130/4_3/684/513" />
+  </programme>
+  <programme start="20230420041000 +0000" stop="20230420081500 +0000" channel="Fightbox HD">
+    <title lang="pt">Professional Boxing - All Eyez On Brussels, Belgium</title>
+    <sub-title lang="pt">qui 20-abr, 05:10</sub-title>
+    <desc lang="pt">Best moments of All Eyez On Brussels, Belgium.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242131/4_3/684/513" />
+  </programme>
+  <programme start="20230420081500 +0000" stop="20230420100500 +0000" channel="Fightbox HD">
+    <title lang="pt">New No Regrets 2019</title>
+    <sub-title lang="pt">qui 20-abr, 09:15</sub-title>
+    <desc lang="pt">NEW Wrestling's (New European Championship Wrestling) most hardcore event of the year. The word "violence" has a whole new meaning when top NEW stars and international talent meet in extreme stipulation matches.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242132/4_3/684/513" />
+  </programme>
+  <programme start="20230420100500 +0000" stop="20230420102000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qui 20-abr, 11:05</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242133/4_3/684/513" />
+  </programme>
+  <programme start="20230420102000 +0000" stop="20230420103000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">qui 20-abr, 11:20</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242134/4_3/684/513" />
+  </programme>
+  <programme start="20230420103000 +0000" stop="20230420141000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fox Sports Africa Boxing, South Africa</title>
+    <sub-title lang="pt">qui 20-abr, 11:30</sub-title>
+    <desc lang="pt">ESPN Africa Boxing brings boxing fans a series of knockout events throughout the year. Fighters from all over the African continent are represented on the roster: Each event has 4 regular fights (4 to 8 rounds) and 2 WBA title fights (12 rounds).</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_473574829/4_3/684/513" />
+  </programme>
+  <programme start="20230420141000 +0000" stop="20230420190000 +0000" channel="Fightbox HD">
+    <title lang="pt">LNK Boxing Night 9, Arena Riga</title>
+    <sub-title lang="pt">qui 20-abr, 15:10</sub-title>
+    <desc lang="pt">This international professional boxing event took place in Riga (Latvia). During the event, ten fights were held in various weight categories. The fights featured fighters from Latvia, Russia, Belarus, Serbia, and Poland.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242135/4_3/684/513" />
+  </programme>
+  <programme start="20230420190000 +0000" stop="20230420194500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hard Knocks Fighting</title>
+    <sub-title lang="pt">qui 20-abr, 20:00</sub-title>
+    <desc lang="pt">HKFC is one of the world's premier MMA promotions, showcasing elite up and coming athletes on a global stage. With over 50 events, HKFC has earned a reputation of being a world class organization, through its global audience and draw of talent.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242136/4_3/684/513" />
+  </programme>
+  <programme start="20230420194500 +0000" stop="20230420203000 +0000" channel="Fightbox HD">
+    <title lang="pt">Hard Knocks Fighting</title>
+    <sub-title lang="pt">qui 20-abr, 20:45</sub-title>
+    <desc lang="pt">HKFC is one of the world's premier MMA promotions, showcasing elite up and coming athletes on a global stage. With over 50 events, HKFC has earned a reputation of being a world class organization, through its global audience and draw of talent.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242137/4_3/684/513" />
+  </programme>
+  <programme start="20230420203000 +0000" stop="20230420213000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fighting Rookies 2014</title>
+    <sub-title lang="pt">qui 20-abr, 21:30</sub-title>
+    <desc lang="pt">Fighting Rookies is a competition with a unique chance for a kickboxer to clim the ladder of success in his sport. The Rookies compete for a chance to become professionals and get the experience needed to succeed at the highest level.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242138/4_3/684/513" />
+  </programme>
+  <programme start="20230420213000 +0000" stop="20230420222000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fighting Rookies 2014</title>
+    <sub-title lang="pt">qui 20-abr, 22:30</sub-title>
+    <desc lang="pt">Fighting Rookies is a competition with a unique chance for a kickboxer to clim the ladder of success in his sport. The Rookies compete for a chance to become professionals and get the experience needed to succeed at the highest level.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242139/4_3/684/513" />
+  </programme>
+  <programme start="20230420222000 +0000" stop="20230420224000 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">qui 20-abr, 23:20</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242140/4_3/684/513" />
+  </programme>
+  <programme start="20230420224000 +0000" stop="20230420230000 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">qui 20-abr, 23:40</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242141/4_3/684/513" />
+  </programme>
+  <programme start="20230420230000 +0000" stop="20230420232500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">sex 21-abr, 00:00</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242142/4_3/684/513" />
+  </programme>
+  <programme start="20230420232500 +0000" stop="20230421011500 +0000" channel="Fightbox HD">
+    <title lang="pt">Bangkok Fight Night</title>
+    <sub-title lang="pt">sex 21-abr, 00:25</sub-title>
+    <desc lang="pt">Located in the impressive MBK Center in the heart of the Bangkok shopping district, thousands flock to witness the incredible Muay Thai events put on by Bangkok Fight Night every week.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242143/4_3/684/513" />
+  </programme>
+  <programme start="20230421011500 +0000" stop="20230421032500 +0000" channel="Fightbox HD">
+    <title lang="pt">King Of The Cage, Lithuania, 2018 - Part 2</title>
+    <sub-title lang="pt">sex 21-abr, 02:15</sub-title>
+    <desc lang="pt">"King of the Cage" is a competitive even pitting warrior against warrior in hand-to-hand battles of skill honor and art.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242144/4_3/684/513" />
+  </programme>
+  <programme start="20230421032500 +0000" stop="20230421033500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sex 21-abr, 04:25</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242145/4_3/684/513" />
+  </programme>
+  <programme start="20230421033500 +0000" stop="20230421035000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sex 21-abr, 04:35</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242146/4_3/684/513" />
+  </programme>
+  <programme start="20230421035000 +0000" stop="20230421040000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sex 21-abr, 04:50</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242147/4_3/684/513" />
+  </programme>
+  <programme start="20230421040000 +0000" stop="20230421041000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sex 21-abr, 05:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242148/4_3/684/513" />
+  </programme>
+  <programme start="20230421041000 +0000" stop="20230421062500 +0000" channel="Fightbox HD">
+    <title lang="pt">World Grand Prix Fight TNA, Tatneft Arena, Kazan, Russia</title>
+    <sub-title lang="pt">sex 21-abr, 05:10</sub-title>
+    <desc lang="pt">TATNEFT CUP tournament takes place in Kazan (Russia) at the "Tatneft Arena" in Ice Sports Palace. Several fights are scheduled for the event in three weight categories involving fighters from Russia, Turkey, Israel, Serbia, Romania and Belarus.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242149/4_3/684/513" />
+  </programme>
+  <programme start="20230421062500 +0000" stop="20230421083000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fightbox King Of Kings Heroes Series, MMMA Bushido Brussels, Belgium</title>
+    <sub-title lang="pt">sex 21-abr, 07:25</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242150/4_3/684/513" />
+  </programme>
+  <programme start="20230421083000 +0000" stop="20230421084000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sex 21-abr, 09:30</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242151/4_3/684/513" />
+  </programme>
+  <programme start="20230421084000 +0000" stop="20230421085000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sex 21-abr, 09:40</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242152/4_3/684/513" />
+  </programme>
+  <programme start="20230421085000 +0000" stop="20230421094000 +0000" channel="Fightbox HD">
+    <title lang="pt">Punch Down 3, Warsaw, Poland</title>
+    <sub-title lang="pt">sex 21-abr, 09:50</sub-title>
+    <desc lang="pt">WHAT IS PUNCHDOWN? The main idea of the competition is to have fun! Participants compete with each other on the rules of the knockout stage (bracket) in 1vs1 duels, hitting each other on the cheek with an open hand, maximum 3 blows per person.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242153/4_3/684/513" />
+  </programme>
+  <programme start="20230421094000 +0000" stop="20230421143000 +0000" channel="Fightbox HD">
+    <title lang="pt">LNK Boxing Night 9, Arena Riga</title>
+    <sub-title lang="pt">sex 21-abr, 10:40</sub-title>
+    <desc lang="pt">This international professional boxing event took place in Riga (Latvia). During the event, ten fights were held in various weight categories. The fights featured fighters from Latvia, Russia, Belarus, Serbia, and Poland.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242154/4_3/684/513" />
+  </programme>
+  <programme start="20230421143000 +0000" stop="20230421165500 +0000" channel="Fightbox HD">
+    <title lang="pt">Colosseum / Prometheus, Ploiesti, Romania</title>
+    <sub-title lang="pt">sex 21-abr, 15:30</sub-title>
+    <desc lang="pt">An exceptional show of sound and lights, kickboxing and MMA gala, in which we will have fighters from Romania and beyond. A gala where heroes of martial arts from Romania will meet some of the strongest opponents.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242155/4_3/684/513" />
+  </programme>
+  <programme start="20230421165500 +0000" stop="20230421190000 +0000" channel="Fightbox HD">
+    <title lang="pt">NEW War 2019</title>
+    <sub-title lang="pt">sex 21-abr, 17:55</sub-title>
+    <desc lang="pt">NEW Wrestling's (New European Championship Wrestling) most hardcore event of the year. The word "violence" has a whole new meaning when top NEW stars and international talent meet in extreme stipulation matches.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242156/4_3/684/513" />
+  </programme>
+  <programme start="20230421190000 +0000" stop="20230421214500 +0000" channel="Fightbox HD">
+    <title lang="pt">LUX 013 Fighting League, Mexico</title>
+    <sub-title lang="pt">sex 21-abr, 20:00</sub-title>
+    <desc lang="pt">LUX FIGHTING LEAGUE is the most exclusive MMA league in Latin America. Founded in 2017, LUX has organized 6 action packed events and have already made a name for themselves by hosting some of the best fighters from Latin America.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242157/4_3/684/513" />
+  </programme>
+  <programme start="20230421214500 +0000" stop="20230422003500 +0000" channel="Fightbox HD">
+    <title lang="pt">RXF MMA Championship, Romania - Special Edition</title>
+    <sub-title lang="pt">sex 21-abr, 22:45</sub-title>
+    <desc lang="pt">Real Xtreme Fighting (RXF), the largest promotion in Romania and the undisputed leader in the organization of events dedicated to Mixed Martial Arts (MMA), is pleased to invite you on RXF Gala.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242158/4_3/684/513" />
+  </programme>
+  <programme start="20230422003500 +0000" stop="20230422005500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">sáb 22-abr, 01:35</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242159/4_3/684/513" />
+  </programme>
+  <programme start="20230422005500 +0000" stop="20230422011500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">sáb 22-abr, 01:55</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242160/4_3/684/513" />
+  </programme>
+  <programme start="20230422011500 +0000" stop="20230422013500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">sáb 22-abr, 02:15</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242161/4_3/684/513" />
+  </programme>
+  <programme start="20230422013500 +0000" stop="20230422023500 +0000" channel="Fightbox HD">
+    <title lang="pt">Fighting Rookies 2014</title>
+    <sub-title lang="pt">sáb 22-abr, 02:35</sub-title>
+    <desc lang="pt">Fighting Rookies is a competition with a unique chance for a kickboxer to clim the ladder of success in his sport. The Rookies compete for a chance to become professionals and get the experience needed to succeed at the highest level.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242162/4_3/684/513" />
+  </programme>
+  <programme start="20230422023500 +0000" stop="20230422032500 +0000" channel="Fightbox HD">
+    <title lang="pt">Fighting Rookies 2014</title>
+    <sub-title lang="pt">sáb 22-abr, 03:35</sub-title>
+    <desc lang="pt">Fighting Rookies is a competition with a unique chance for a kickboxer to clim the ladder of success in his sport. The Rookies compete for a chance to become professionals and get the experience needed to succeed at the highest level.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242163/4_3/684/513" />
+  </programme>
+  <programme start="20230422032500 +0000" stop="20230422034000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sáb 22-abr, 04:25</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242164/4_3/684/513" />
+  </programme>
+  <programme start="20230422034000 +0000" stop="20230422035000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sáb 22-abr, 04:40</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242165/4_3/684/513" />
+  </programme>
+  <programme start="20230422035000 +0000" stop="20230422040000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sáb 22-abr, 04:50</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242166/4_3/684/513" />
+  </programme>
+  <programme start="20230422040000 +0000" stop="20230422041500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sáb 22-abr, 05:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242167/4_3/684/513" />
+  </programme>
+  <programme start="20230422041500 +0000" stop="20230422061500 +0000" channel="Fightbox HD">
+    <title lang="pt">Fightbox King Of Kings Heroes Series Riga, Latvia</title>
+    <sub-title lang="pt">sáb 22-abr, 05:15</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242168/4_3/684/513" />
+  </programme>
+  <programme start="20230422061500 +0000" stop="20230422093000 +0000" channel="Fightbox HD">
+    <title lang="pt">WGP Kickboxing Brazil</title>
+    <sub-title lang="pt">sáb 22-abr, 07:15</sub-title>
+    <desc lang="pt">WGP Kickboxing Brazil is the premier kickboxing promotion in Latin America. Promoted since 2011, endorsed by the Brazilian Kickboxing Confederation and WAKO PRO, the promotion organizes several professional kickboxing events with the best athletes of Latin America and of the world.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242169/4_3/684/513" />
+  </programme>
+  <programme start="20230422093000 +0000" stop="20230422120000 +0000" channel="Fightbox HD">
+    <title lang="pt">World Grand Prix Fight TNA, Tatneft Arena, Kazan, Russia</title>
+    <sub-title lang="pt">sáb 22-abr, 10:30</sub-title>
+    <desc lang="pt">TATNEFT CUP tournament takes place in Kazan (Russia) at the "Tatneft Arena" in Ice Sports Palace. Several fights are scheduled for the event in three weight categories involving fighters from Russia, Turkey, Israel, Serbia, Romania and Belarus.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242170/4_3/684/513" />
+  </programme>
+  <programme start="20230422120000 +0000" stop="20230422160000 +0000" channel="Fightbox HD">
+    <title lang="pt">Professional Boxing - All Eyez On Brussels, Belgium</title>
+    <sub-title lang="pt">sáb 22-abr, 13:00</sub-title>
+    <desc lang="pt">Best moments of All Eyez On Brussels, Belgium.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242171/4_3/684/513" />
+  </programme>
+  <programme start="20230422160000 +0000" stop="20230422161000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sáb 22-abr, 17:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242172/4_3/684/513" />
+  </programme>
+  <programme start="20230422161000 +0000" stop="20230422162500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">sáb 22-abr, 17:10</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242173/4_3/684/513" />
+  </programme>
+  <programme start="20230422162500 +0000" stop="20230422170000 +0000" channel="Fightbox HD">
+    <title lang="pt">Punch Down 7, Poznań, Poland</title>
+    <sub-title lang="pt">sáb 22-abr, 17:25</sub-title>
+    <desc lang="pt">WHAT IS PUNCHDOWN? The main idea of the competition is to have fun! Participants compete with each other on the rules of the knockout stage (bracket) in 1vs1 duels, hitting each other on the cheek with an open hand, maximum 3 blows per person.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242174/4_3/684/513" />
+  </programme>
+  <programme start="20230422170000 +0000" stop="20230422204000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fox Sports Africa Boxing, South Africa</title>
+    <sub-title lang="pt">sáb 22-abr, 18:00</sub-title>
+    <desc lang="pt">ESPN Africa Boxing brings boxing fans a series of knockout events throughout the year. Fighters from all over the African continent are represented on the roster: Each event has 4 regular fights (4 to 8 rounds) and 2 WBA title fights (12 rounds).</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_473574869/4_3/684/513" />
+  </programme>
+  <programme start="20230422204000 +0000" stop="20230423001500 +0000" channel="Fightbox HD">
+    <title lang="pt">We Love MMA 43</title>
+    <sub-title lang="pt">sáb 22-abr, 21:40</sub-title>
+    <desc lang="pt">We Love MMA, the ultimate combat sport, is one of the best known and successful Mixed Martial Arts series in Europe. Since its inception in 2010 in Berlin the MMA series of tournaments has been drawing huge crowds of fans to the biggest arenas in the country.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242175/4_3/684/513" />
+  </programme>
+  <programme start="20230423001500 +0000" stop="20230423023500 +0000" channel="Fightbox HD">
+    <title lang="pt">NEW Provocation 2019</title>
+    <sub-title lang="pt">dom 23-abr, 01:15</sub-title>
+    <desc lang="pt">NEW Wrestling's (New European Championship Wrestling) most hardcore event of the year. The word "violence" has a whole new meaning when top NEW stars and international talent meet in extreme stipulation matches.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242176/4_3/684/513" />
+  </programme>
+  <programme start="20230423023500 +0000" stop="20230423032500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hard Knocks Fighting</title>
+    <sub-title lang="pt">dom 23-abr, 03:35</sub-title>
+    <desc lang="pt">HKFC is one of the world's premier MMA promotions, showcasing elite up and coming athletes on a global stage. With over 50 events, HKFC has earned a reputation of being a world class organization, through its global audience and draw of talent.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242177/4_3/684/513" />
+  </programme>
+  <programme start="20230423032500 +0000" stop="20230423033500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">dom 23-abr, 04:25</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242178/4_3/684/513" />
+  </programme>
+  <programme start="20230423033500 +0000" stop="20230423034500 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">dom 23-abr, 04:35</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242179/4_3/684/513" />
+  </programme>
+  <programme start="20230423034500 +0000" stop="20230423040000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">dom 23-abr, 04:45</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242180/4_3/684/513" />
+  </programme>
+  <programme start="20230423040000 +0000" stop="20230423041000 +0000" channel="Fightbox HD">
+    <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
+    <sub-title lang="pt">dom 23-abr, 05:00</sub-title>
+    <desc lang="pt">Abu Dhabi Grand Slam is part of the AJP World Ranking and Abu Dhabi World Professional Jiu-Jitsu Qualifying Series.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242181/4_3/684/513" />
+  </programme>
+  <programme start="20230423041000 +0000" stop="20230423071000 +0000" channel="Fightbox HD">
+    <title lang="pt">Makowski FC Tournament - Final, Nowa Sol, Poland</title>
+    <sub-title lang="pt">dom 23-abr, 05:10</sub-title>
+    <desc lang="pt">Makowski Fighting Championship returns to FightBox HD on Saturday March 27 from Nowa Sól Poland. The best Polish fighters and top international talent will clash in three different disciplines.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242182/4_3/684/513" />
+  </programme>
+  <programme start="20230423071000 +0000" stop="20230423101000 +0000" channel="Fightbox HD">
+    <title lang="pt">NEW Extreme VIII 2019</title>
+    <sub-title lang="pt">dom 23-abr, 08:10</sub-title>
+    <desc lang="pt">NEW Wrestling's (New European Championship Wrestling) most hardcore event of the year. The word "violence" has a whole new meaning when top NEW stars and international talent meet in extreme stipulation matches.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242183/4_3/684/513" />
+  </programme>
+  <programme start="20230423101000 +0000" stop="20230423104000 +0000" channel="Fightbox HD">
+    <title lang="pt">UK Wrestling Showdown</title>
+    <sub-title lang="pt">dom 23-abr, 11:10</sub-title>
+    <desc lang="pt">UK Wrestling promotes live wrestling featuring some of the top names in the UK plus rising talent. This unique brand of Sports &amp; Entertainment is the ultimate family entertainment experience. Join us every week for all the action from inside the squared circle from the UKW Arena.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242184/4_3/684/513" />
+  </programme>
+  <programme start="20230423104000 +0000" stop="20230423111000 +0000" channel="Fightbox HD">
+    <title lang="pt">UK Wrestling Showdown</title>
+    <sub-title lang="pt">dom 23-abr, 11:40</sub-title>
+    <desc lang="pt">UK Wrestling promotes live wrestling featuring some of the top names in the UK plus rising talent. This unique brand of Sports &amp; Entertainment is the ultimate family entertainment experience. Join us every week for all the action from inside the squared circle from the UKW Arena.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242185/4_3/684/513" />
+  </programme>
+  <programme start="20230423111000 +0000" stop="20230423114000 +0000" channel="Fightbox HD">
+    <title lang="pt">UK Wrestling Showdown</title>
+    <sub-title lang="pt">dom 23-abr, 12:10</sub-title>
+    <desc lang="pt">UK Wrestling promotes live wrestling featuring some of the top names in the UK plus rising talent. This unique brand of Sports &amp; Entertainment is the ultimate family entertainment experience. Join us every week for all the action from inside the squared circle from the UKW Arena.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242186/4_3/684/513" />
+  </programme>
+  <programme start="20230423114000 +0000" stop="20230423134000 +0000" channel="Fightbox HD">
+    <title lang="pt">Fightbox King Of Kings Heroes Series, MMMA Bushido Brussels, Belgium</title>
+    <sub-title lang="pt">dom 23-abr, 12:40</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242187/4_3/684/513" />
+  </programme>
+  <programme start="20230423134000 +0000" stop="20230423161000 +0000" channel="Fightbox HD">
+    <title lang="pt">Kings Of Kings Grand Prix</title>
+    <sub-title lang="pt">dom 23-abr, 14:40</sub-title>
+    <desc lang="pt">One of the most recognizable brands in the world of kickboxing, King of Kings brings top fighters from around the globe and the most dedicated fans to the biggest arenas in the world to create an amazing spectacle.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242188/4_3/684/513" />
+  </programme>
+  <programme start="20230423161000 +0000" stop="20230423170000 +0000" channel="Fightbox HD">
+    <title lang="pt">Punch Down 3, Warsaw, Poland</title>
+    <sub-title lang="pt">dom 23-abr, 17:10</sub-title>
+    <desc lang="pt">WHAT IS PUNCHDOWN? The main idea of the competition is to have fun! Participants compete with each other on the rules of the knockout stage (bracket) in 1vs1 duels, hitting each other on the cheek with an open hand, maximum 3 blows per person.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242189/4_3/684/513" />
+  </programme>
+  <programme start="20230423170000 +0000" stop="20230423192500 +0000" channel="Fightbox HD">
+    <title lang="pt">Colosseum / Prometheus, Ploiesti, Romania</title>
+    <sub-title lang="pt">dom 23-abr, 18:00</sub-title>
+    <desc lang="pt">An exceptional show of sound and lights, kickboxing and MMA gala, in which we will have fighters from Romania and beyond. A gala where heroes of martial arts from Romania will meet some of the strongest opponents.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242190/4_3/684/513" />
+  </programme>
+  <programme start="20230423192500 +0000" stop="20230423194500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">dom 23-abr, 20:25</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242191/4_3/684/513" />
+  </programme>
+  <programme start="20230423194500 +0000" stop="20230423200500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">dom 23-abr, 20:45</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242192/4_3/684/513" />
+  </programme>
+  <programme start="20230423200500 +0000" stop="20230423202500 +0000" channel="Fightbox HD">
+    <title lang="pt">Hip Show</title>
+    <sub-title lang="pt">dom 23-abr, 21:05</sub-title>
+    <desc lang="pt">Hip Show takes combat sports to a whole new level. The fights are 2-on-2, two teams of two fighters each, in a 3D 12x12 meters arena rather than inside a conventional flat ring. If one of the team members in the arena drops out after a knockout, the fight continues in a 2 versus 1 format.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242193/4_3/684/513" />
+  </programme>
+  <programme start="20230423202500 +0000" stop="20230423231500 +0000" channel="Fightbox HD">
+    <title lang="pt">Lux 014 Fighting League, Mexico</title>
+    <sub-title lang="pt">dom 23-abr, 21:25</sub-title>
+    <desc lang="pt">LUX FIGHTING LEAGUE is the most exclusive MMA league in Latin America. Founded in 2017, LUX has organized 6 action packed events and have already made a name for themselves by hosting some of the best fighters from Latin America.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242194/4_3/684/513" />
+  </programme>
+  <programme start="20230423231500 +0000" stop="20230424020500 +0000" channel="Fightbox HD">
+    <title lang="pt">RXF MMA Championship, Romania - Special Edition</title>
+    <sub-title lang="pt">seg 24-abr, 00:15</sub-title>
+    <desc lang="pt">Real Xtreme Fighting (RXF), the largest promotion in Romania and the undisputed leader in the organization of events dedicated to Mixed Martial Arts (MMA), is pleased to invite you on RXF Gala.</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242195/4_3/684/513" />
+  </programme>
   <programme start="20230418010000 +0100" stop="20230418030000 +0100" channel="W-Sport">
     <title lang="pt">Frauen Bundesliga Cup - 22-23: RB Leipzig v SC Freiburg</title>
     <desc lang="pt">The DFB-Pokal Cup is a German knockout football cup competition. Watch RB Leipzig v SC Freiburg.</desc>
@@ -62245,6 +63021,419 @@
     <rating system="Imdb">
       <value>M3</value>
     </rating>
+  </programme>
+  <programme start="20230418033500 +0000" stop="20230418051500 +0000" channel="WWE">
+    <title lang="en">Sami Zayn</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville and his relationship with Kevin Owens.“The Master Strategist” Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville at WrestleMania, his relationship with Kevin Owens and his evolution into one of the most entertaining performers in WWE.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E29</episode-num>
+  </programme>
+  <programme start="20230418051500 +0000" stop="20230418053000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Kevin Owens discusses some of the most significant matches and moments of his career, including winning the Universal Championship, his rivalry with Sami Zayn and more.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E2</episode-num>
+  </programme>
+  <programme start="20230418053000 +0000" stop="20230418060000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">Kevin Owens reflects on the year 2020 and the opportunities he seized inside the ring and at home with his family.Kevin Owens reflects on the year 2020 in the days leading up to his Tables, Ladders &amp; Chairs Match against Roman Reigns at WWE TLC: Tables, Ladders &amp; Chairs 2020. The Prizefighter opens up about entering the WWE ThunderDome for the first time and new opportunities at home with his family.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E9</episode-num>
+  </programme>
+  <programme start="20230418060000 +0000" stop="20230418063000 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230418063000 +0000" stop="20230418080000 +0000" channel="WWE">
+    <title lang="en">Becky Lynch</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E23</episode-num>
+  </programme>
+  <programme start="20230418080000 +0000" stop="20230418090000 +0000" channel="WWE">
+    <title lang="en">Trish Stratus</title>
+    <sub-title lang="en">WWE 24</sub-title>
+    <desc lang="en">Follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.WWE 24 cameras follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2019 E6</episode-num>
+  </programme>
+  <programme start="20230418090000 +0000" stop="20230418093000 +0000" channel="WWE">
+    <title lang="en">Bianca Belair</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">As she prepares for the 2021 Women’s Royal Rumble Match, Bianca Belair recounts her journey from a standout track star to The EST of WWE.After making her main roster debut in the 2020 Women’s Royal Rumble Match, Bianca Belair prepares to top her standout performance and outlast 29 other Superstars one year later. The EST of WWE reflects on her journey as an athlete, passion for creativity and desire to be a role model for young girls and boys.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2021 E1</episode-num>
+  </programme>
+  <programme start="20230418093000 +0000" stop="20230418100000 +0000" channel="WWE">
+    <title lang="en">Generation Now</title>
+    <sub-title lang="en">Table For 3</sub-title>
+    <desc lang="en">Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their futures.Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their future aspirations as the next generation of WWE Superstars.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20230418100000 +0000" stop="20230418122500 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230418122500 +0000" stop="20230418131500 +0000" channel="WWE">
+    <title lang="en">April 13, 2023</title>
+    <sub-title lang="en">This Week In WWE</sub-title>
+    <desc lang="en">Triple H makes an announcement that shakes the WWE roster to its core. Cody Rhodes takes a stand. Trish Stratus shocks the WWE Universe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230418131500 +0000" stop="20230418134500 +0000" channel="WWE">
+    <title lang="en">NXT Level Up</title>
+    <sub-title lang="en">NXT Level Up</sub-title>
+    <desc lang="en">Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker faces Kale Dixon. Xyon Quinn battles Tavion Heights.Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker squares off against Kale Dixon. Xyon Quinn battles Tavion Heights. Mr. Stone surveys the scene.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230418134500 +0000" stop="20230418141500 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230418141500 +0000" stop="20230418151500 +0000" channel="WWE">
+    <title lang="en">April 12, 2023</title>
+    <sub-title lang="en">WWE's The Bump</sub-title>
+    <desc lang="en">Santos Escobar discusses the revival of The LWO. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver.Santos Escobar discusses the revival of The LWO and their conflict with The Judgment Day. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver. Bronson Reed shares his thoughts on Bobby Lashley.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2023 E19</episode-num>
+  </programme>
+  <programme start="20230418151500 +0000" stop="20230418184000 +0000" channel="WWE">
+    <title lang="en">The Best of WWE Backlash</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E33</episode-num>
+  </programme>
+  <programme start="20230418184000 +0000" stop="20230419033500 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">The NXT UK Heritage Cup No. 1 Contender Tournament kicks off with Mark Andrews facing Noam Dar. Nina Samuels battles Amale.The NXT UK Heritage Cup No. 1 Contender Tournament kicks off with Mark Andrews facing Noam Dar. Nina Samuels and Amale look to settle their differences in the ring. Flash Morgan Webster battles Wolfgang.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2021 E32</episode-num>
+  </programme>
+  <programme start="20230419033500 +0000" stop="20230419051500 +0000" channel="WWE">
+    <title lang="en">Sami Zayn</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville and his relationship with Kevin Owens.“The Master Strategist” Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville at WrestleMania, his relationship with Kevin Owens and his evolution into one of the most entertaining performers in WWE.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E29</episode-num>
+  </programme>
+  <programme start="20230419033500 +0000" stop="20230419051500 +0000" channel="WWE">
+    <title lang="en">Sami Zayn</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville and his relationship with Kevin Owens.“The Master Strategist” Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville at WrestleMania, his relationship with Kevin Owens and his evolution into one of the most entertaining performers in WWE.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E29</episode-num>
+  </programme>
+  <programme start="20230419033500 +0000" stop="20230419051500 +0000" channel="WWE">
+    <title lang="en">Sami Zayn</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville and his relationship with Kevin Owens.“The Master Strategist” Sami Zayn joins Steve Austin to discuss his career, including his match with Johnny Knoxville at WrestleMania, his relationship with Kevin Owens and his evolution into one of the most entertaining performers in WWE.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E29</episode-num>
+  </programme>
+  <programme start="20230419051500 +0000" stop="20230419053000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Kevin Owens discusses some of the most significant matches and moments of his career, including winning the Universal Championship, his rivalry with Sami Zayn and more.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E2</episode-num>
+  </programme>
+  <programme start="20230419051500 +0000" stop="20230419053000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Kevin Owens discusses some of the most significant matches and moments of his career, including winning the Universal Championship, his rivalry with Sami Zayn and more.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E2</episode-num>
+  </programme>
+  <programme start="20230419051500 +0000" stop="20230419053000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Kevin Owens discusses some of the most significant matches and moments of his career, including winning the Universal Championship, his rivalry with Sami Zayn and more.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E2</episode-num>
+  </programme>
+  <programme start="20230419053000 +0000" stop="20230419060000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">Kevin Owens reflects on the year 2020 and the opportunities he seized inside the ring and at home with his family.Kevin Owens reflects on the year 2020 in the days leading up to his Tables, Ladders &amp; Chairs Match against Roman Reigns at WWE TLC: Tables, Ladders &amp; Chairs 2020. The Prizefighter opens up about entering the WWE ThunderDome for the first time and new opportunities at home with his family.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E9</episode-num>
+  </programme>
+  <programme start="20230419053000 +0000" stop="20230419060000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">Kevin Owens reflects on the year 2020 and the opportunities he seized inside the ring and at home with his family.Kevin Owens reflects on the year 2020 in the days leading up to his Tables, Ladders &amp; Chairs Match against Roman Reigns at WWE TLC: Tables, Ladders &amp; Chairs 2020. The Prizefighter opens up about entering the WWE ThunderDome for the first time and new opportunities at home with his family.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E9</episode-num>
+  </programme>
+  <programme start="20230419053000 +0000" stop="20230419060000 +0000" channel="WWE">
+    <title lang="en">Kevin Owens</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">Kevin Owens reflects on the year 2020 and the opportunities he seized inside the ring and at home with his family.Kevin Owens reflects on the year 2020 in the days leading up to his Tables, Ladders &amp; Chairs Match against Roman Reigns at WWE TLC: Tables, Ladders &amp; Chairs 2020. The Prizefighter opens up about entering the WWE ThunderDome for the first time and new opportunities at home with his family.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E9</episode-num>
+  </programme>
+  <programme start="20230419060000 +0000" stop="20230419063000 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230419060000 +0000" stop="20230419063000 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230419060000 +0000" stop="20230419063000 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230419063000 +0000" stop="20230419080000 +0000" channel="WWE">
+    <title lang="en">Becky Lynch</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E23</episode-num>
+  </programme>
+  <programme start="20230419063000 +0000" stop="20230419080000 +0000" channel="WWE">
+    <title lang="en">Becky Lynch</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E23</episode-num>
+  </programme>
+  <programme start="20230419063000 +0000" stop="20230419080000 +0000" channel="WWE">
+    <title lang="en">Becky Lynch</title>
+    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
+    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2022 E23</episode-num>
+  </programme>
+  <programme start="20230419080000 +0000" stop="20230419090000 +0000" channel="WWE">
+    <title lang="en">Trish Stratus</title>
+    <sub-title lang="en">WWE 24</sub-title>
+    <desc lang="en">Follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.WWE 24 cameras follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2019 E6</episode-num>
+  </programme>
+  <programme start="20230419080000 +0000" stop="20230419090000 +0000" channel="WWE">
+    <title lang="en">Trish Stratus</title>
+    <sub-title lang="en">WWE 24</sub-title>
+    <desc lang="en">Follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.WWE 24 cameras follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2019 E6</episode-num>
+  </programme>
+  <programme start="20230419080000 +0000" stop="20230419090000 +0000" channel="WWE">
+    <title lang="en">Trish Stratus</title>
+    <sub-title lang="en">WWE 24</sub-title>
+    <desc lang="en">Follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.WWE 24 cameras follow Trish Stratus as she prepares for the final match of her Hall of Fame career against Charlotte Flair at SummerSlam 2019.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2019 E6</episode-num>
+  </programme>
+  <programme start="20230419090000 +0000" stop="20230419093000 +0000" channel="WWE">
+    <title lang="en">Bianca Belair</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">As she prepares for the 2021 Women’s Royal Rumble Match, Bianca Belair recounts her journey from a standout track star to The EST of WWE.After making her main roster debut in the 2020 Women’s Royal Rumble Match, Bianca Belair prepares to top her standout performance and outlast 29 other Superstars one year later. The EST of WWE reflects on her journey as an athlete, passion for creativity and desire to be a role model for young girls and boys.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2021 E1</episode-num>
+  </programme>
+  <programme start="20230419090000 +0000" stop="20230419093000 +0000" channel="WWE">
+    <title lang="en">Bianca Belair</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">As she prepares for the 2021 Women’s Royal Rumble Match, Bianca Belair recounts her journey from a standout track star to The EST of WWE.After making her main roster debut in the 2020 Women’s Royal Rumble Match, Bianca Belair prepares to top her standout performance and outlast 29 other Superstars one year later. The EST of WWE reflects on her journey as an athlete, passion for creativity and desire to be a role model for young girls and boys.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2021 E1</episode-num>
+  </programme>
+  <programme start="20230419090000 +0000" stop="20230419093000 +0000" channel="WWE">
+    <title lang="en">Bianca Belair</title>
+    <sub-title lang="en">WWE Chronicle</sub-title>
+    <desc lang="en">As she prepares for the 2021 Women’s Royal Rumble Match, Bianca Belair recounts her journey from a standout track star to The EST of WWE.After making her main roster debut in the 2020 Women’s Royal Rumble Match, Bianca Belair prepares to top her standout performance and outlast 29 other Superstars one year later. The EST of WWE reflects on her journey as an athlete, passion for creativity and desire to be a role model for young girls and boys.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2021 E1</episode-num>
+  </programme>
+  <programme start="20230419093000 +0000" stop="20230419100000 +0000" channel="WWE">
+    <title lang="en">Generation Now</title>
+    <sub-title lang="en">Table For 3</sub-title>
+    <desc lang="en">Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their futures.Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their future aspirations as the next generation of WWE Superstars.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20230419093000 +0000" stop="20230419100000 +0000" channel="WWE">
+    <title lang="en">Generation Now</title>
+    <sub-title lang="en">Table For 3</sub-title>
+    <desc lang="en">Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their futures.Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their future aspirations as the next generation of WWE Superstars.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20230419093000 +0000" stop="20230419100000 +0000" channel="WWE">
+    <title lang="en">Generation Now</title>
+    <sub-title lang="en">Table For 3</sub-title>
+    <desc lang="en">Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their futures.Bianca Belair, Rhea Ripley and Queen Zelina look back fondly on the sisterhood they forged while in NXT and discuss their future aspirations as the next generation of WWE Superstars.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20230419100000 +0000" stop="20230419122500 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419100000 +0000" stop="20230419122500 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419100000 +0000" stop="20230419122500 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419122500 +0000" stop="20230419131500 +0000" channel="WWE">
+    <title lang="en">April 13, 2023</title>
+    <sub-title lang="en">This Week In WWE</sub-title>
+    <desc lang="en">Triple H makes an announcement that shakes the WWE roster to its core. Cody Rhodes takes a stand. Trish Stratus shocks the WWE Universe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419122500 +0000" stop="20230419131500 +0000" channel="WWE">
+    <title lang="en">April 13, 2023</title>
+    <sub-title lang="en">This Week In WWE</sub-title>
+    <desc lang="en">Triple H makes an announcement that shakes the WWE roster to its core. Cody Rhodes takes a stand. Trish Stratus shocks the WWE Universe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419122500 +0000" stop="20230419131500 +0000" channel="WWE">
+    <title lang="en">April 13, 2023</title>
+    <sub-title lang="en">This Week In WWE</sub-title>
+    <desc lang="en">Triple H makes an announcement that shakes the WWE roster to its core. Cody Rhodes takes a stand. Trish Stratus shocks the WWE Universe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419131500 +0000" stop="20230419134500 +0000" channel="WWE">
+    <title lang="en">NXT Level Up</title>
+    <sub-title lang="en">NXT Level Up</sub-title>
+    <desc lang="en">Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker faces Kale Dixon. Xyon Quinn battles Tavion Heights.Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker squares off against Kale Dixon. Xyon Quinn battles Tavion Heights. Mr. Stone surveys the scene.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419131500 +0000" stop="20230419134500 +0000" channel="WWE">
+    <title lang="en">NXT Level Up</title>
+    <sub-title lang="en">NXT Level Up</sub-title>
+    <desc lang="en">Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker faces Kale Dixon. Xyon Quinn battles Tavion Heights.Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker squares off against Kale Dixon. Xyon Quinn battles Tavion Heights. Mr. Stone surveys the scene.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419131500 +0000" stop="20230419134500 +0000" channel="WWE">
+    <title lang="en">NXT Level Up</title>
+    <sub-title lang="en">NXT Level Up</sub-title>
+    <desc lang="en">Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker faces Kale Dixon. Xyon Quinn battles Tavion Heights.Kayden Carter &amp; Katana Chance take on Elektra Lopez &amp; Lola Vice. Hank Walker squares off against Kale Dixon. Xyon Quinn battles Tavion Heights. Mr. Stone surveys the scene.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230419134500 +0000" stop="20230419141500 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230419134500 +0000" stop="20230419141500 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230419134500 +0000" stop="20230419141500 +0000" channel="WWE">
+    <title lang="en">April 17, 2023</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2023 E16</episode-num>
+  </programme>
+  <programme start="20230419141500 +0000" stop="20230419151500 +0000" channel="WWE">
+    <title lang="en">April 12, 2023</title>
+    <sub-title lang="en">WWE's The Bump</sub-title>
+    <desc lang="en">Santos Escobar discusses the revival of The LWO. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver.Santos Escobar discusses the revival of The LWO and their conflict with The Judgment Day. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver. Bronson Reed shares his thoughts on Bobby Lashley.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2023 E19</episode-num>
+  </programme>
+  <programme start="20230419141500 +0000" stop="20230419151500 +0000" channel="WWE">
+    <title lang="en">April 12, 2023</title>
+    <sub-title lang="en">WWE's The Bump</sub-title>
+    <desc lang="en">Santos Escobar discusses the revival of The LWO. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver.Santos Escobar discusses the revival of The LWO and their conflict with The Judgment Day. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver. Bronson Reed shares his thoughts on Bobby Lashley.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2023 E19</episode-num>
+  </programme>
+  <programme start="20230419141500 +0000" stop="20230419151500 +0000" channel="WWE">
+    <title lang="en">April 12, 2023</title>
+    <sub-title lang="en">WWE's The Bump</sub-title>
+    <desc lang="en">Santos Escobar discusses the revival of The LWO. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver.Santos Escobar discusses the revival of The LWO and their conflict with The Judgment Day. NXT Women's Champion Indi Hartwell reflects on her title victory at NXT Stand &amp; Deliver. Bronson Reed shares his thoughts on Bobby Lashley.</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2023 E19</episode-num>
+  </programme>
+  <programme start="20230419151500 +0000" stop="20230419184000 +0000" channel="WWE">
+    <title lang="en">The Best of WWE Backlash</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E33</episode-num>
+  </programme>
+  <programme start="20230419151500 +0000" stop="20230419184000 +0000" channel="WWE">
+    <title lang="en">The Best of WWE Backlash</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E33</episode-num>
+  </programme>
+  <programme start="20230419151500 +0000" stop="20230419184000 +0000" channel="WWE">
+    <title lang="en">The Best of WWE Backlash</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.Backlash's greatest matches are on display, including Edge and Kurt Angle's in-ring classic and Goldberg's dream showdown with The Rock.</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E33</episode-num>
+  </programme>
+  <programme start="20230419184000 +0000" stop="20230420033500 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">The NXT UK Heritage Cup No. 1 Contender Tournament kicks off with Mark Andrews facing Noam Dar. Nina Samuels battles Amale.The NXT UK Heritage Cup No. 1 Contender Tournament kicks off with Mark Andrews facing Noam Dar. Nina Samuels and Amale look to settle their differences in the ring. Flash Morgan Webster battles Wolfgang.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2021 E32</episode-num>
+  </programme>
+  <programme start="20230419184000 +0000" stop="20230420033500 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">The NXT UK Heritage Cup No. 1 Contender Tournament kicks off with Mark Andrews facing Noam Dar. Nina Samuels battles Amale.The NXT UK Heritage Cup No. 1 Contender Tournament kicks off with Mark Andrews facing Noam Dar. Nina Samuels and Amale look to settle their differences in the ring. Flash Morgan Webster battles Wolfgang.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2021 E32</episode-num>
   </programme>
   <programme start="20230418003400 +0000" stop="20230418005800 +0000" channel="RTP 1 HD">
     <title lang="pt">eLiga Portugal</title>
