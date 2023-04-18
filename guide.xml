@@ -97,6 +97,11 @@
     <display-name lang="pt">Super RTL</display-name>
     <url>http://www.nostv.pt</url>
   </channel>
+  <channel id="Lolly kids">
+    <display-name lang="pt">Lolly kids</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/lolly-kids.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
   <channel id="Horse TV">
     <display-name lang="pt">Horse TV</display-name>
     <url>http://www.nostv.pt</url>
@@ -45245,6 +45250,211 @@
     <rating system="Imdb">
       <value>M3</value>
     </rating>
+  </programme>
+  <programme start="20230418000000 +0100" stop="20230418040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215206/XL" />
+  </programme>
+  <programme start="20230418040000 +0100" stop="20230418080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215207/XL" />
+  </programme>
+  <programme start="20230418080000 +0100" stop="20230418120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215208/XL" />
+  </programme>
+  <programme start="20230418120000 +0100" stop="20230418160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215209/XL" />
+  </programme>
+  <programme start="20230418160000 +0100" stop="20230418200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215210/XL" />
+  </programme>
+  <programme start="20230418200000 +0100" stop="20230419000000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Colors: Young Maestros</title>
+    <desc lang="pt">YOUNG MAESTROS: Clear your mind with the most incredible instrumentals played by kids and teens from all over the world! Enjoy the perfection of classical music performed by children maestros!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215211/XL" />
+  </programme>
+  <programme start="20230419000000 +0100" stop="20230419040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215212/XL" />
+  </programme>
+  <programme start="20230419040000 +0100" stop="20230419080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215213/XL" />
+  </programme>
+  <programme start="20230419080000 +0100" stop="20230419120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215214/XL" />
+  </programme>
+  <programme start="20230419120000 +0100" stop="20230419160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215215/XL" />
+  </programme>
+  <programme start="20230419160000 +0100" stop="20230419200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215216/XL" />
+  </programme>
+  <programme start="20230419200000 +0100" stop="20230420000000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Colors: Young Maestros</title>
+    <desc lang="pt">YOUNG MAESTROS: Clear your mind with the most incredible instrumentals played by kids and teens from all over the world! Enjoy the perfection of classical music performed by children maestros!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215217/XL" />
+  </programme>
+  <programme start="20230420000000 +0100" stop="20230420040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215218/XL" />
+  </programme>
+  <programme start="20230420040000 +0100" stop="20230420080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215219/XL" />
+  </programme>
+  <programme start="20230420080000 +0100" stop="20230420120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215220/XL" />
+  </programme>
+  <programme start="20230420120000 +0100" stop="20230420160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215221/XL" />
+  </programme>
+  <programme start="20230420160000 +0100" stop="20230420200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215222/XL" />
+  </programme>
+  <programme start="20230420200000 +0100" stop="20230421000000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Colors: Young Maestros</title>
+    <desc lang="pt">YOUNG MAESTROS: Clear your mind with the most incredible instrumentals played by kids and teens from all over the world! Enjoy the perfection of classical music performed by children maestros!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215223/XL" />
+  </programme>
+  <programme start="20230421000000 +0100" stop="20230421040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215224/XL" />
+  </programme>
+  <programme start="20230421040000 +0100" stop="20230421080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215225/XL" />
+  </programme>
+  <programme start="20230421080000 +0100" stop="20230421120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215226/XL" />
+  </programme>
+  <programme start="20230421120000 +0100" stop="20230421160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215227/XL" />
+  </programme>
+  <programme start="20230421160000 +0100" stop="20230421200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215228/XL" />
+  </programme>
+  <programme start="20230421200000 +0100" stop="20230422000000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Colors: Young Maestros</title>
+    <desc lang="pt">YOUNG MAESTROS: Clear your mind with the most incredible instrumentals played by kids and teens from all over the world! Enjoy the perfection of classical music performed by children maestros!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215229/XL" />
+  </programme>
+  <programme start="20230422000000 +0100" stop="20230422040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215230/XL" />
+  </programme>
+  <programme start="20230422040000 +0100" stop="20230422080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215231/XL" />
+  </programme>
+  <programme start="20230422080000 +0100" stop="20230422120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215232/XL" />
+  </programme>
+  <programme start="20230422120000 +0100" stop="20230422160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215233/XL" />
+  </programme>
+  <programme start="20230422160000 +0100" stop="20230422200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215234/XL" />
+  </programme>
+  <programme start="20230422200000 +0100" stop="20230423000000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Colors: Young Maestros</title>
+    <desc lang="pt">YOUNG MAESTROS: Clear your mind with the most incredible instrumentals played by kids and teens from all over the world! Enjoy the perfection of classical music performed by children maestros!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215235/XL" />
+  </programme>
+  <programme start="20230423000000 +0100" stop="20230423040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215236/XL" />
+  </programme>
+  <programme start="20230423040000 +0100" stop="20230423080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215237/XL" />
+  </programme>
+  <programme start="20230423080000 +0100" stop="20230423120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215238/XL" />
+  </programme>
+  <programme start="20230423120000 +0100" stop="20230423160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215239/XL" />
+  </programme>
+  <programme start="20230423160000 +0100" stop="20230423200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215240/XL" />
+  </programme>
+  <programme start="20230423200000 +0100" stop="20230424000000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Colors: Young Maestros</title>
+    <desc lang="pt">YOUNG MAESTROS: Clear your mind with the most incredible instrumentals played by kids and teens from all over the world! Enjoy the perfection of classical music performed by children maestros!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215241/XL" />
+  </programme>
+  <programme start="20230424000000 +0100" stop="20230424040000 +0100" channel="Lolly kids">
+    <title lang="pt">Smiling Angels: Jolly Candies / Dancing Monsters</title>
+    <desc lang="pt">JOLLY CANDIES: Girls and boys, shhh…! Stop that noise!Hear the tender voice that tells a story and listen to the beautiful songs of glory! DANCING MONSTERS:Motion to dynamics, dynamics to passion! Body are shaking, rhythm quaking, wonder making Dancing Monsters!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215242/XL" />
+  </programme>
+  <programme start="20230424040000 +0100" stop="20230424080000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Stars: Teen Dream / Children's Songs</title>
+    <desc lang="pt">TEEN DREAM: Our talented teenagers create their own music and lyrics guided by their own heart. Finding the first love, chasing the big dream, living the good life and having the best friends. Hear all that and much more.TIME TO SHINE:The coldest songs that get stuck in your head. Performances from 200 countries that surpass your wildest expectations. Famous singers, upcoming stars and extraordinary kids.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215243/XL" />
+  </programme>
+  <programme start="20230424080000 +0100" stop="20230424120000 +0100" channel="Lolly kids">
+    <title lang="pt">Dream Pursuers: Dream Are Made Of You / Magic World</title>
+    <desc lang="pt">DREAMS ARE MADE OF YOU: Music has tremendous power. Recreate your world with music! Discover your talents, inspiration, emotions, create discipline and professionalism. MAGIC WORLD:Meeting children musicians and performers from all around the world. Every place, religion, and race! No matter where you are, we all share one common language - music.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215244/XL" />
+  </programme>
+  <programme start="20230424120000 +0100" stop="20230424160000 +0100" channel="Lolly kids">
+    <title lang="pt">Rising Stars: Future Hits / Little Rock Titans</title>
+    <desc lang="pt">FUTURE HITS: A Variety of styles, following the modern kids' lifestyle. Amazing concerts and music videos. Dare to sing and dance and be with your idols non-stop. LITTLE ROCK TITANS:Rock and shake,and shake and rock! Mood is high, Blood is hot! Here's the party - make a shotand be just part of our show!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215245/XL" />
+  </programme>
+  <programme start="20230424160000 +0100" stop="20230424200000 +0100" channel="Lolly kids">
+    <title lang="pt">Lolly Kids Factor: Lolly Kids Club/ My Hits Only</title>
+    <desc lang="pt">LOLLY KIDS CLUB: This is the exclusive star club and it's your time to shine. We present a different new artist's work every day. See behind the scenes, the creative process, interviews and other curious moments. You can too become a star, so come join the Lolly Kids Club.MY HITS ONLY:Today's hits performed by tomorrow's biggest stars. Presented by different artists through different arrangements.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18215246/XL" />
   </programme>
   <programme start="20230418000000 +0000" stop="20230418010000 +0000" channel="Horse TV">
     <title lang="pt">FEI Jumping World Cup 2019 / 2020</title>
