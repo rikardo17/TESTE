@@ -35210,7 +35210,6 @@
     <desc lang="pt">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <category lang="pt">Notícias</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/37_475737505/4_3/684/513" />
-    <premiere />
   </programme>
   <programme start="20230425010000 +0000" stop="20230425013000 +0000" channel="BBC World News">
     <title lang="pt">BBC News</title>
@@ -35288,6 +35287,7 @@
     <desc lang="pt">The latest business news with informed analysis from the world's financial centres.</desc>
     <category lang="pt">Notícias</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/37_475737515/4_3/684/513" />
+    <premiere />
   </programme>
   <programme start="20230425060000 +0000" stop="20230425063000 +0000" channel="BBC World News">
     <title lang="pt">BBC News</title>
@@ -59797,6 +59797,7 @@
     <desc lang="pt">This international professional boxing event took place in Riga (Latvia). During the event, ten fights were held in various weight categories. The fights featured fighters from Latvia, Russia, Belarus, Serbia, and Poland.</desc>
     <category lang="pt">Desporto</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/350_475242216/4_3/684/513" />
+    <premiere />
   </programme>
   <programme start="20230425085500 +0000" stop="20230425091000 +0000" channel="Fightbox HD">
     <title lang="pt">Abu Dhabi Jiu-Jitsu Grand Slam 2019</title>
@@ -62809,34 +62810,6 @@
       <value>M3</value>
     </rating>
   </programme>
-  <programme start="20230425000500 +0000" stop="20230425023000 +0000" channel="WWE">
-    <title lang="en">Raw</title>
-    <sub-title lang="en">Raw</sub-title>
-    <desc lang="en">John cena demands revenge from brock lesnar, but a certain wwe hall of famer has something else in store for cena. Cm punk and much more.John Cena demands revenge from Brock Lesnar, but a certain WWE Hall of Famer has something else in store for Cena. Chris Jericho goes one-on-one with Kofi Kingston. Tensai takes on R-Truth. CM Punk continues his war of words with Chris Jericho. Mark Henry looks to induct Sheamus into the Hall of Pain and much more.</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2012 E17</episode-num>
-  </programme>
-  <programme start="20230425023000 +0000" stop="20230425030500 +0000" channel="WWE">
-    <title lang="en">NXT Level Up</title>
-    <sub-title lang="en">NXT Level Up</sub-title>
-    <desc lang="en">Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend.Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend. Oro Mensah looks to gain momentum as he battles Damon Kemp.</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2023 E16</episode-num>
-  </programme>
-  <programme start="20230425030500 +0000" stop="20230425033500 +0000" channel="WWE">
-    <title lang="en">April 24, 2023</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2023 E17</episode-num>
-  </programme>
-  <programme start="20230425033500 +0000" stop="20230425050500 +0000" channel="WWE">
-    <title lang="en">Becky Lynch</title>
-    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
-    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2022 E23</episode-num>
-  </programme>
   <programme start="20230425050500 +0000" stop="20230425060500 +0000" channel="WWE">
     <title lang="en">Trish Stratus</title>
     <sub-title lang="en">WWE 24</sub-title>
@@ -62907,96 +62880,40 @@
     <category lang="en">Event</category>
     <episode-num system="onscreen">S2021 E45</episode-num>
   </programme>
-  <programme start="20230425172500 +0000" stop="20230426000500 +0000" channel="WWE">
+  <programme start="20230425172500 +0000" stop="20230425191000 +0000" channel="WWE">
     <title lang="en">NXT New Year's Evil 2022</title>
     <sub-title lang="en">WWE NXT</sub-title>
     <desc lang="en">It's New Year's Evil as NXT Champion Tommaso Ciampa faces Bron Breakker. The NXT Women's Title is on the line in a Triple Threat Match.It's New Year's Evil as Tommaso Ciampa defends the NXT Title against Bron Breakker. Mandy Rose, Raquel Gonzalez and Cora Jade battle for the NXT Women's Title. Carmelo Hayes faces Roderick Strong in a Championship Unification Match. WALTER returns to lead Imperium against Riddle &amp; MSK. AJ Styles comes calling for Grayson Waller.</desc>
     <category lang="en">Event</category>
     <episode-num system="onscreen">S2022 E1</episode-num>
   </programme>
-  <programme start="20230426000500 +0000" stop="20230426023000 +0000" channel="WWE">
-    <title lang="en">Raw</title>
-    <sub-title lang="en">Raw</sub-title>
-    <desc lang="en">John cena demands revenge from brock lesnar, but a certain wwe hall of famer has something else in store for cena. Cm punk and much more.John Cena demands revenge from Brock Lesnar, but a certain WWE Hall of Famer has something else in store for Cena. Chris Jericho goes one-on-one with Kofi Kingston. Tensai takes on R-Truth. CM Punk continues his war of words with Chris Jericho. Mark Henry looks to induct Sheamus into the Hall of Pain and much more.</desc>
+  <programme start="20230425191000 +0000" stop="20230425203900 +0000" channel="WWE">
+    <title lang="en">NXT Spring Breakin' 2022</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">NXT Champion Bron Breakker faces Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title.The NXT Title is on the line at NXT Spring Breakin' as Bron Breakker battles Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title. Tony D'Angelo and Santos Escobar have a sit-down to settle their differences. Cora Jade &amp; Nikkita Lyons join forces to face Lash Legend &amp; Natalya.</desc>
     <category lang="en">Event</category>
-    <episode-num system="onscreen">S2012 E17</episode-num>
+    <episode-num system="onscreen">S2022 E19</episode-num>
   </programme>
-  <programme start="20230426000500 +0000" stop="20230426023000 +0000" channel="WWE">
-    <title lang="en">Raw</title>
-    <sub-title lang="en">Raw</sub-title>
-    <desc lang="en">John cena demands revenge from brock lesnar, but a certain wwe hall of famer has something else in store for cena. Cm punk and much more.John Cena demands revenge from Brock Lesnar, but a certain WWE Hall of Famer has something else in store for Cena. Chris Jericho goes one-on-one with Kofi Kingston. Tensai takes on R-Truth. CM Punk continues his war of words with Chris Jericho. Mark Henry looks to induct Sheamus into the Hall of Pain and much more.</desc>
+  <programme start="20230425203900 +0000" stop="20230425213900 +0000" channel="WWE">
+    <title lang="en">WWE Main Event</title>
+    <sub-title lang="en">WWE Main Event</sub-title>
+    <desc lang="en">NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.</desc>
     <category lang="en">Event</category>
-    <episode-num system="onscreen">S2012 E17</episode-num>
+    <episode-num system="onscreen">S2022 E41</episode-num>
   </programme>
-  <programme start="20230426000500 +0000" stop="20230426023000 +0000" channel="WWE">
-    <title lang="en">Raw</title>
-    <sub-title lang="en">Raw</sub-title>
-    <desc lang="en">John cena demands revenge from brock lesnar, but a certain wwe hall of famer has something else in store for cena. Cm punk and much more.John Cena demands revenge from Brock Lesnar, but a certain WWE Hall of Famer has something else in store for Cena. Chris Jericho goes one-on-one with Kofi Kingston. Tensai takes on R-Truth. CM Punk continues his war of words with Chris Jericho. Mark Henry looks to induct Sheamus into the Hall of Pain and much more.</desc>
+  <programme start="20230425213900 +0000" stop="20230426000400 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
     <category lang="en">Event</category>
-    <episode-num system="onscreen">S2012 E17</episode-num>
+    <episode-num system="onscreen">S2023 E15</episode-num>
   </programme>
-  <programme start="20230426023000 +0000" stop="20230426030500 +0000" channel="WWE">
-    <title lang="en">NXT Level Up</title>
-    <sub-title lang="en">NXT Level Up</sub-title>
-    <desc lang="en">Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend.Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend. Oro Mensah looks to gain momentum as he battles Damon Kemp.</desc>
+  <programme start="20230426000400 +0000" stop="20230426050500 +0000" channel="WWE">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">The future is here. Witness the entertainers, the leading men and women, the Superstars of tomorrow -- this is NXT!Newly crowned NXT Champion Aleister Black puts his title on the line against Johnny Gargano. After shocking the system at TakeOver, Roderick Strong and The Undisputed ERA return to Full Sail to address their actions. The NXT North American Championship is defended when Adam Cole goes one-on-one with Oney Lorcan.</desc>
     <category lang="en">Event</category>
-    <episode-num system="onscreen">S2023 E16</episode-num>
-  </programme>
-  <programme start="20230426023000 +0000" stop="20230426030500 +0000" channel="WWE">
-    <title lang="en">NXT Level Up</title>
-    <sub-title lang="en">NXT Level Up</sub-title>
-    <desc lang="en">Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend.Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend. Oro Mensah looks to gain momentum as he battles Damon Kemp.</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2023 E16</episode-num>
-  </programme>
-  <programme start="20230426023000 +0000" stop="20230426030500 +0000" channel="WWE">
-    <title lang="en">NXT Level Up</title>
-    <sub-title lang="en">NXT Level Up</sub-title>
-    <desc lang="en">Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend.Malik Blade &amp; Edris Enofé take on Kale Dixon &amp; Javier Bernal. Wendy Choo teams with Valentina Feroz to face Jakara Jackson &amp; Lash Legend. Oro Mensah looks to gain momentum as he battles Damon Kemp.</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2023 E16</episode-num>
-  </programme>
-  <programme start="20230426030500 +0000" stop="20230426033500 +0000" channel="WWE">
-    <title lang="en">April 24, 2023</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2023 E17</episode-num>
-  </programme>
-  <programme start="20230426030500 +0000" stop="20230426033500 +0000" channel="WWE">
-    <title lang="en">April 24, 2023</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2023 E17</episode-num>
-  </programme>
-  <programme start="20230426030500 +0000" stop="20230426033500 +0000" channel="WWE">
-    <title lang="en">April 24, 2023</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.In the aftermath of Monday Night Raw, catch up with your favorite Superstars to hear their thoughts and opinions on all of the evening's action. These men and women hold nothing back as they engage in Raw Talk.</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2023 E17</episode-num>
-  </programme>
-  <programme start="20230426033500 +0000" stop="20230426050500 +0000" channel="WWE">
-    <title lang="en">Becky Lynch</title>
-    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
-    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2022 E23</episode-num>
-  </programme>
-  <programme start="20230426033500 +0000" stop="20230426050500 +0000" channel="WWE">
-    <title lang="en">Becky Lynch</title>
-    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
-    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2022 E23</episode-num>
-  </programme>
-  <programme start="20230426033500 +0000" stop="20230426050500 +0000" channel="WWE">
-    <title lang="en">Becky Lynch</title>
-    <sub-title lang="en">Steve Austin's Broken Skull Sessions</sub-title>
-    <desc lang="en">It’s a “Big Time” Broken Skull Sessions as Steve Austin and Becky Lynch discuss her historic WWE journey as well as life outside the ring.Steve Austin and Raw Women’s Champion Becky Lynch sit down for a “Big Time” Broken Skull Sessions on the eve of the 2022 Royal Rumble. The Man discusses her incredible history-making journey to the top of WWE and describes life as a mother and wife outside the ring.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2022 E23</episode-num>
+    <episode-num system="onscreen">S2018 E19</episode-num>
   </programme>
   <programme start="20230426050500 +0000" stop="20230426060500 +0000" channel="WWE">
     <title lang="en">Trish Stratus</title>
@@ -63208,19 +63125,103 @@
     <category lang="en">Event</category>
     <episode-num system="onscreen">S2021 E45</episode-num>
   </programme>
-  <programme start="20230426172500 +0000" stop="20230427000500 +0000" channel="WWE">
+  <programme start="20230426172500 +0000" stop="20230426191000 +0000" channel="WWE">
     <title lang="en">NXT New Year's Evil 2022</title>
     <sub-title lang="en">WWE NXT</sub-title>
     <desc lang="en">It's New Year's Evil as NXT Champion Tommaso Ciampa faces Bron Breakker. The NXT Women's Title is on the line in a Triple Threat Match.It's New Year's Evil as Tommaso Ciampa defends the NXT Title against Bron Breakker. Mandy Rose, Raquel Gonzalez and Cora Jade battle for the NXT Women's Title. Carmelo Hayes faces Roderick Strong in a Championship Unification Match. WALTER returns to lead Imperium against Riddle &amp; MSK. AJ Styles comes calling for Grayson Waller.</desc>
     <category lang="en">Event</category>
     <episode-num system="onscreen">S2022 E1</episode-num>
   </programme>
-  <programme start="20230426172500 +0000" stop="20230427000500 +0000" channel="WWE">
+  <programme start="20230426172500 +0000" stop="20230426191000 +0000" channel="WWE">
     <title lang="en">NXT New Year's Evil 2022</title>
     <sub-title lang="en">WWE NXT</sub-title>
     <desc lang="en">It's New Year's Evil as NXT Champion Tommaso Ciampa faces Bron Breakker. The NXT Women's Title is on the line in a Triple Threat Match.It's New Year's Evil as Tommaso Ciampa defends the NXT Title against Bron Breakker. Mandy Rose, Raquel Gonzalez and Cora Jade battle for the NXT Women's Title. Carmelo Hayes faces Roderick Strong in a Championship Unification Match. WALTER returns to lead Imperium against Riddle &amp; MSK. AJ Styles comes calling for Grayson Waller.</desc>
     <category lang="en">Event</category>
     <episode-num system="onscreen">S2022 E1</episode-num>
+  </programme>
+  <programme start="20230426172500 +0000" stop="20230426191000 +0000" channel="WWE">
+    <title lang="en">NXT New Year's Evil 2022</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">It's New Year's Evil as NXT Champion Tommaso Ciampa faces Bron Breakker. The NXT Women's Title is on the line in a Triple Threat Match.It's New Year's Evil as Tommaso Ciampa defends the NXT Title against Bron Breakker. Mandy Rose, Raquel Gonzalez and Cora Jade battle for the NXT Women's Title. Carmelo Hayes faces Roderick Strong in a Championship Unification Match. WALTER returns to lead Imperium against Riddle &amp; MSK. AJ Styles comes calling for Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E1</episode-num>
+  </programme>
+  <programme start="20230426191000 +0000" stop="20230426203900 +0000" channel="WWE">
+    <title lang="en">NXT Spring Breakin' 2022</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">NXT Champion Bron Breakker faces Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title.The NXT Title is on the line at NXT Spring Breakin' as Bron Breakker battles Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title. Tony D'Angelo and Santos Escobar have a sit-down to settle their differences. Cora Jade &amp; Nikkita Lyons join forces to face Lash Legend &amp; Natalya.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E19</episode-num>
+  </programme>
+  <programme start="20230426191000 +0000" stop="20230426203900 +0000" channel="WWE">
+    <title lang="en">NXT Spring Breakin' 2022</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">NXT Champion Bron Breakker faces Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title.The NXT Title is on the line at NXT Spring Breakin' as Bron Breakker battles Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title. Tony D'Angelo and Santos Escobar have a sit-down to settle their differences. Cora Jade &amp; Nikkita Lyons join forces to face Lash Legend &amp; Natalya.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E19</episode-num>
+  </programme>
+  <programme start="20230426191000 +0000" stop="20230426203900 +0000" channel="WWE">
+    <title lang="en">NXT Spring Breakin' 2022</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">NXT Champion Bron Breakker faces Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title.The NXT Title is on the line at NXT Spring Breakin' as Bron Breakker battles Joe Gacy. Cameron Grimes, Carmelo Hayes and Solo Sikoa clash for the NXT North American Title. Tony D'Angelo and Santos Escobar have a sit-down to settle their differences. Cora Jade &amp; Nikkita Lyons join forces to face Lash Legend &amp; Natalya.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E19</episode-num>
+  </programme>
+  <programme start="20230426203900 +0000" stop="20230426213900 +0000" channel="WWE">
+    <title lang="en">WWE Main Event</title>
+    <sub-title lang="en">WWE Main Event</sub-title>
+    <desc lang="en">NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E41</episode-num>
+  </programme>
+  <programme start="20230426203900 +0000" stop="20230426213900 +0000" channel="WWE">
+    <title lang="en">WWE Main Event</title>
+    <sub-title lang="en">WWE Main Event</sub-title>
+    <desc lang="en">NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E41</episode-num>
+  </programme>
+  <programme start="20230426203900 +0000" stop="20230426213900 +0000" channel="WWE">
+    <title lang="en">WWE Main Event</title>
+    <sub-title lang="en">WWE Main Event</sub-title>
+    <desc lang="en">NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.NXT's Carmelo Hayes and Von Wagner show what they have in singles clashes as Hayes battles Cedric Alexander and Wagner takes on R-Truth.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2022 E41</episode-num>
+  </programme>
+  <programme start="20230426213900 +0000" stop="20230427000400 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230426213900 +0000" stop="20230427000400 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230426213900 +0000" stop="20230427000400 +0000" channel="WWE">
+    <title lang="en">NXT Stand &amp; Deliver 2023</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">Bron Breakker battles Carmelo Hayes on NXT's biggest stage for the NXT Title. Roxanne Perez defends the NXT Women's Title in a Ladder Match.Bron Breakker and Carmelo Hayes finally cross paths on NXT's biggest stage when they clash for the NXT Championship. Roxanne Perez defends her NXT Women's Championship in a Six-Woman Ladder Match. Johnny Gargano returns to NXT to take on Grayson Waller.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2023 E15</episode-num>
+  </programme>
+  <programme start="20230427000400 +0000" stop="20230427050500 +0000" channel="WWE">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">The future is here. Witness the entertainers, the leading men and women, the Superstars of tomorrow -- this is NXT!Newly crowned NXT Champion Aleister Black puts his title on the line against Johnny Gargano. After shocking the system at TakeOver, Roderick Strong and The Undisputed ERA return to Full Sail to address their actions. The NXT North American Championship is defended when Adam Cole goes one-on-one with Oney Lorcan.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2018 E19</episode-num>
+  </programme>
+  <programme start="20230427000400 +0000" stop="20230427050500 +0000" channel="WWE">
+    <title lang="en">WWE NXT</title>
+    <sub-title lang="en">WWE NXT</sub-title>
+    <desc lang="en">The future is here. Witness the entertainers, the leading men and women, the Superstars of tomorrow -- this is NXT!Newly crowned NXT Champion Aleister Black puts his title on the line against Johnny Gargano. After shocking the system at TakeOver, Roderick Strong and The Undisputed ERA return to Full Sail to address their actions. The NXT North American Championship is defended when Adam Cole goes one-on-one with Oney Lorcan.</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2018 E19</episode-num>
   </programme>
   <programme start="20230425010900 +0000" stop="20230425013900 +0000" channel="RTP 1 HD">
     <title lang="pt">eLiga Portugal</title>
