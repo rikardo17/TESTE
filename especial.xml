@@ -6,14 +6,39 @@
     <channel id="ᶜᵃⁿᵃˡ | ESTREIAS">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
   </channel>
+      <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 1">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 2">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+  </channel>
   <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN">
     <title lang="pt">Especial Halloween</title>
-    <desc lang="pt">Especial Halloween Canal 24h de grandes filmes de terror</desc>
+    <desc lang="pt">ESPECIAL HALLOWEEN CANAL 24H DE GRANDES FILMES DE TERROR</desc>
     <category lang="pt">entretenimento</category>
   </programme>
     <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESTREIAS">
     <title lang="pt">Estreias</title>
-    <desc lang="pt">As melhores estreias de cinema e novidades canal 24h</desc>
+    <desc lang="pt">AS MELHORES ESTREIAS DE CINEMA E NOVIDADES CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+      <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 1">
+    <title lang="pt">ESPECIAL GUERRA</title>
+    <desc lang="pt">ESPECIAL GUERRA EM DIRETO CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+      <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 2">
+    <title lang="pt">ESPECIAL GUERRA</title>
+    <desc lang="pt">ESPECIAL GUERRA EM DIRETO CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+      <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3">
+    <title lang="pt">ESPECIAL GUERRA</title>
+    <desc lang="pt">ESPECIAL GUERRA EM DIRETO CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
 </tv>
+
