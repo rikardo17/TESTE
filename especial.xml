@@ -3,7 +3,7 @@
   <channel id="ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN</display-name>
   </channel>
-    <channel id="ᶜᵃⁿᵃˡ | ESTREIAS ">
+    <channel id="ᶜᵃⁿᵃˡ | ESTREIAS">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
   </channel>
   <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN">
@@ -11,7 +11,7 @@
     <desc lang="pt">Especial Halloween Canal 24h de grandes filmes de terror</desc>
     <category lang="pt">entretenimento</category>
   </programme>
-    <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESTREIAS ">
+    <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESTREIAS">
     <title lang="pt">Estreias</title>
     <desc lang="pt">As melhores estreias de cinema e novidades canal 24h</desc>
     <category lang="pt">entretenimento</category>
