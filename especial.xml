@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="VH1">
-    <display-name lang="pt">VH1</display-name>
-    <url>http://www.nos.pt</url>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Especial Halloween">
+    <display-name lang="pt">Especial Halloween</display-name>
   </channel>
-  <programme start="20231017003800 +0100" stop="20231025003800 +0100" channel="VH1">
-    <title lang="pt">VH1 Shuffle</title>
+  <programme start="20231017003800 +0000" stop="20231125003800 +0000" channel="Especial Halloween">
+    <title lang="pt">Especial Halloween</title>
+    <desc lang="pt">Especial Halloween Canal 24h de grandes filmes de terror</desc>
     <category lang="pt">entretenimento</category>
   </programme>
 </tv>
