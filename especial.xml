@@ -4,16 +4,16 @@
     <display-name lang="pt">ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN</display-name>
   </channel>
     <channel id="ᶜᵃⁿᵃˡ | ESTREIAS">
-    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS</display-name>
   </channel>
       <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 1">
-    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+    <display-name lang="pt">ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 1</display-name>
   </channel>
         <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 2">
-    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+    <display-name lang="pt">ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 2</display-name>
   </channel>
         <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3">
-    <display-name lang="pt">ᶜᵃⁿᵃˡ | ESTREIAS </display-name>
+    <display-name lang="pt">ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3</display-name>
   </channel>
   <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN">
     <title lang="pt">Especial Halloween</title>
@@ -21,7 +21,7 @@
     <category lang="pt">entretenimento</category>
   </programme>
     <programme start="20231021003800 +0000" stop="20231125003800 +0000" channel="ᶜᵃⁿᵃˡ | ESTREIAS">
-    <title lang="pt">Estreias</title>
+    <title lang="pt">ESTREIAS</title>
     <desc lang="pt">AS MELHORES ESTREIAS DE CINEMA E NOVIDADES CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
