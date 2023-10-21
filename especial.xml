@@ -15,11 +15,41 @@
         <channel id="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3">
     <display-name lang="pt">ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3</display-name>
   </channel>
-          <channel id="ᶜᵃⁿᵃˡ | PT">
+        <channel id="ᶜᵃⁿᵃˡ | PT">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | PT</display-name>
   </channel>
-          <channel id="ᶜᵃⁿᵃˡ | PT 2">
+        <channel id="ᶜᵃⁿᵃˡ | PT 2">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | PT 2</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | MARVEL">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | MARVEL</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | MARVEL 2">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | MARVEL 2</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | MARVEL 3">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | MARVEL 3</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | KIDS">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | KIDS</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | APANHADOS">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | APANHADOS</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | DC">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | DC</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | FAROESTE">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | FAROESTE</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | BUD SPANCER">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | BUD SPANCER</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | MARRADAS">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | MARRADAS</display-name>
+  </channel>
+          <channel id="ᶜᵃⁿᵃˡ | DJ's">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | DJ's</display-name>
   </channel>
   <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN">
     <title lang="pt">ESPECIAL HALLOWEEN</title>
@@ -27,7 +57,7 @@
     <category lang="pt">entretenimento</category>
   </programme>
     <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | ESTREIAS">
-    <title lang="pt">ESTREIAS</title>
+    <title lang="pt">ESPECIAL ESTREIAS</title>
     <desc lang="pt">AS MELHORES ESTREIAS DE CINEMA E NOVIDADES CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
@@ -56,9 +86,59 @@
     <desc lang="pt">ESPECIAL CINEMA CANAL 100% PORTUGUÊS 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
-          <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | PT 2">
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | PT 2">
     <title lang="pt">ESPECIAL CINEMA PORTUGUÊS</title>
     <desc lang="pt">ESPECIAL CINEMA CANAL 100% PORTUGUÊS 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+          <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL">
+    <title lang="pt">ESPECIAL CINEMA MARVEL</title>
+    <desc lang="pt">ESPECIAL CINEMA MARVEL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+          <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL 2">
+    <title lang="pt">ESPECIAL CINEMA MARVEL</title>
+    <desc lang="pt">ESPECIAL CINEMA MARVEL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL 3">
+    <title lang="pt">ESPECIAL CINEMA MARVEL</title>
+    <desc lang="pt">ESPECIAL CINEMA MARVEL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | KIDS">
+    <title lang="pt">ESPECIAL CINEMA INFANTIL</title>
+    <desc lang="pt">ESPECIAL CINEMA INFANTIL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | APANHADOS">
+    <title lang="pt">ESPECIAL APANHADOS</title>
+    <desc lang="pt">ESPECIAL APANHADOS PARA GRANDES RISADAS CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | DC">
+    <title lang="pt">ESPECIAL CINEMA DC</title>
+    <desc lang="pt">ESPECIAL CINEMA DC CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | FAROESTE">
+    <title lang="pt">ESPECIAL CINEMA FAROESTE</title>
+    <desc lang="pt">ESPECIAL CINEMA FAROESTE COM GRANDE LENDAS E GRANDES FILMES CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | BUD SPANCER">
+    <title lang="pt">ESPECIAL CINEMA BUD SPANCER</title>
+    <desc lang="pt">ESPECIAL CINEMA BUD SPANCER CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARRADAS">
+    <title lang="pt">ESPECIAL GRANDES MARRADAS</title>
+    <desc lang="pt">ESPECIAL GRANDES MARRADAS CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | DJ's">
+    <title lang="pt">ESPECIAL DJ's</title>
+    <desc lang="pt">ESPECIAL DJ's COM MUITA MÚSICA CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
 </tv>
