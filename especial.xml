@@ -4,11 +4,6 @@
     <display-name lang="pt">VH1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-    <programme start="20231017003800 +0100" stop="20231025003800 +0100" channel="TVI FICCAO">
-    <title lang="pt">Inspetor Max</title>
-    <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/15258575/M" />
-  </programme>
   <programme start="20210412220000 +0100" stop="20210413040000 +0100" channel="VH1">
     <title lang="pt">VH1 Shuffle</title>
     <category lang="pt">entretenimento</category>
