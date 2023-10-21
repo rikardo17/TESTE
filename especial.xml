@@ -4,7 +4,7 @@
     <display-name lang="pt">VH1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20210412220000 +0100" stop="20210413040000 +0100" channel="VH1">
+  <programme start="20231017003800 +0100" stop="20231025003800 +0100" channel="VH1">
     <title lang="pt">VH1 Shuffle</title>
     <category lang="pt">entretenimento</category>
   </programme>
