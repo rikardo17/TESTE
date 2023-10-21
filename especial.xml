@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <channel id="Halloween">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | Especial Halloween</display-name>
+    <url>http://www.nostv.pt</url>
+  </channel>
+  <programme start="20231017003800 +0000" stop="20231101005300 +0000" channel="Halloween">
+    <title lang="pt">Especial Halloween</title>
+    <desc lang="pt">Especial Halloween Canal 24h de grandes filmes de terror</desc>
+    <date>2023</date>
+    <category lang="pt">Especial</category>
+    <episode-num system="onscreen">S01</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+</tv>
