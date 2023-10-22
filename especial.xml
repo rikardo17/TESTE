@@ -51,6 +51,27 @@
         <channel id="ᶜᵃⁿᵃˡ | DJ's">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | DJ's</display-name>
   </channel>
+        <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL">
+    <display-name lang="pt">ᶜᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 2">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 2</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 3">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 3</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 4">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 4</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 5">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 5</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 6">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 6</display-name>
+  </channel>
+        <channel id="ᶜᵃⁿᵃˡ | TESTE DE FIDELIDADE">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | TESTE DE FIDELIDADE</display-name>
+  </channel>
   <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | ESPECIAL HALLOWEEN">
     <title lang="pt">ESPECIAL HALLOWEEN</title>
     <desc lang="pt">ESPECIAL HALLOWEEN CANAL 24H DE GRANDES FILMES DE TERROR</desc>
@@ -76,11 +97,6 @@
     <desc lang="pt">ESPECIAL GUERRA EM DIRETO CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
-        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ ESPECIAL 24h | GUERRA ISRAEL x HAMAS 3">
-    <title lang="pt">ESPECIAL GUERRA</title>
-    <desc lang="pt">ESPECIAL GUERRA EM DIRETO CANAL 24H</desc>
-    <category lang="pt">entretenimento</category>
-  </programme>
         <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | PT">
     <title lang="pt">ESPECIAL CINEMA PORTUGUÊS</title>
     <desc lang="pt">ESPECIAL CINEMA CANAL 100% PORTUGUÊS 24H</desc>
@@ -91,12 +107,12 @@
     <desc lang="pt">ESPECIAL CINEMA CANAL 100% PORTUGUÊS 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
-          <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL">
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL">
     <title lang="pt">ESPECIAL CINEMA MARVEL</title>
     <desc lang="pt">ESPECIAL CINEMA MARVEL CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
-          <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL 2">
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | MARVEL 2">
     <title lang="pt">ESPECIAL CINEMA MARVEL</title>
     <desc lang="pt">ESPECIAL CINEMA MARVEL CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
@@ -139,6 +155,41 @@
         <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | DJ's">
     <title lang="pt">ESPECIAL DJ's</title>
     <desc lang="pt">ESPECIAL DJ's COM MUITA MÚSICA CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL">
+    <title lang="pt">ESPECIAL CLASSICOS DE FUTEBOL</title>
+    <desc lang="pt">ESPECIAL CLASSICOS DE FUTEBOL PARA QUEM QUER RIVIVER GRANDES MOMENTOS DO FUTEBOL NACIONAL E INTERNACIONAL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 2">
+    <title lang="pt">ESPECIAL CLASSICOS DE FUTEBOL</title>
+    <desc lang="pt">ESPECIAL CLASSICOS DE FUTEBOL PARA QUEM QUER RIVIVER GRANDES MOMENTOS DO FUTEBOL NACIONAL E INTERNACIONAL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 3">
+    <title lang="pt">ESPECIAL CLASSICOS DE FUTEBOL</title>
+    <desc lang="pt">ESPECIAL CLASSICOS DE FUTEBOL PARA QUEM QUER RIVIVER GRANDES MOMENTOS DO FUTEBOL NACIONAL E INTERNACIONAL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 4">
+    <title lang="pt">ESPECIAL CLASSICOS DE FUTEBOL</title>
+    <desc lang="pt">ESPECIAL CLASSICOS DE FUTEBOL PARA QUEM QUER RIVIVER GRANDES MOMENTOS DO FUTEBOL NACIONAL E INTERNACIONAL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 5">
+    <title lang="pt">ESPECIAL CLASSICOS DE FUTEBOL</title>
+    <desc lang="pt">ESPECIAL CLASSICOS DE FUTEBOL PARA QUEM QUER RIVIVER GRANDES MOMENTOS DO FUTEBOL NACIONAL E INTERNACIONAL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL 6">
+    <title lang="pt">ESPECIAL CLASSICOS DE FUTEBOL</title>
+    <desc lang="pt">ESPECIAL CLASSICOS DE FUTEBOL PARA QUEM QUER RIVIVER GRANDES MOMENTOS DO FUTEBOL NACIONAL E INTERNACIONAL CANAL 24H</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+        <programme start="20231021000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | TESTE DE FIDELIDADE">
+    <title lang="pt">ESPECIAL TESTE DE FIDELIDADE</title>
+    <desc lang="pt">ESPECIAL TESTE DE FIDELIDADE NAMORADOS E CASADOS COLOCAM O SEU PARCEIRO OU PARCEIRA A PROVA SOBRE A SUA FIDELIDADE FORMATO BRASILEIRO QUE JÁ FEZ SUCESSO EM PORTUGAL CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
 </tv>
