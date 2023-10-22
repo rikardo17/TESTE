@@ -48,8 +48,8 @@
         <channel id="ᶜᵃⁿᵃˡ | MARRADAS">
     <display-name lang="pt">ᶜᵃⁿᵃˡ | MARRADAS</display-name>
   </channel>
-        <channel id="ᶜᵃⁿᵃˡ | DJ's">
-    <display-name lang="pt">ᶜᵃⁿᵃˡ | DJ's</display-name>
+        <channel id="ᶜᵃⁿᵃˡ | DJS">
+    <display-name lang="pt">ᶜᵃⁿᵃˡ | DJS</display-name>
   </channel>
         <channel id="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL">
     <display-name lang="pt">ᶜᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL</display-name>
@@ -152,9 +152,9 @@
     <desc lang="pt">ESPECIAL GRANDES MARRADAS CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
-    <programme start="20231022000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | DJ's">
-    <title lang="pt">ESPECIAL DJ's</title>
-    <desc lang="pt">ESPECIAL DJ's COM MUITA MÚSICA CANAL 24H</desc>
+    <programme start="20231022000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | DJS">
+    <title lang="pt">ESPECIAL DJS</title>
+    <desc lang="pt">ESPECIAL DJS COM MUITA MÚSICA CANAL 24H</desc>
     <category lang="pt">entretenimento</category>
   </programme>
     <programme start="20231022000000 +0000" stop="20231125000000 +0000" channel="ᶜᵃⁿᵃˡ | CLASSICOS DE FUTEBOL">
